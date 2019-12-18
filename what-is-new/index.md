@@ -6,9 +6,36 @@ category: what-is-new
 title: What's new with Open Opportunities
 ---
 
+## Changes made December 30, 2019
+
+### Sitewide enhancements
+
+* Added functionality so sitewide administrators can update survey links for completion emails on their own.
+* Updated the applicant and creator completion emails to pull the survey links.
+
+### State Department Internship Program changes
+
+* Added capability to cancel internships:
+  * This capability is limited to community managers.
+  * If the internship is canceled while the application period is open, we will send an email to existing applicants to let them know they can update their application to select another internship.
+  * Added tracking data to capture who canceled, timestamp, task number, title, and creator of the canceled internship.
+* Added tracking data for student application withdrawals
+* Added a message for non-community users who try to create an internship to contact the program and request to be added to the student community.
+* Updated text on the delete cycle modal to be more clear and consistent.
+* Updated text on Secondary application link to read “Exclusive job announcement” (consistent with the Agency Talent Portal).
+* Created an email to alert internship applicants of any change to a bureau, office, post or location.
+* Added a default sort order for education – using the same sort order as USAJOBS.
+* Added the ability for applicants to modify the sort order of their education.  The selected sort order will be displayed on the review page. 
+* Updated selectee and alternate emails to remove extra spacing and display additional text when security clearance is “None” (None – Public Trust Certificate)
+* Updated the default cycle on the administration page to current cycle based on posting dates 
+* Added a default sort order for work experience – using the same sort order as USAJOBS.
+* Added the ability for applicants to modify the sort order of their work experience.  The selected sort order will be displayed on the review page. 
+* Added “I do not wish to provide or do not have any work experience” as an option on the Education page.  Students will be required to check this box or provide work experience detail.
+* Enhanced the application search for administrators—they can now sort by, use filters, and export the list.
+
 ## Changes made December 2, 2019
 
-### Sitewide Enhancements
+### Sitewide enhancements
 
 * Updated sitewide opportunity .csv file to show in progress metrics.
 
@@ -43,7 +70,7 @@ title: What's new with Open Opportunities
 * Updated the State user .csv file to include bureau and office/post for users
 * Updated the State .csv interactions download to add counts for primary selections, alternate selections and successfully completed
 
-#### Audit/Tracking data updates
+#### Audit and tracking data updates
 
 * Added tracking for application submit and update dates.
 * Added tracking for who deleted an internship, including task number, title and creator.
@@ -87,7 +114,7 @@ title: What's new with Open Opportunities
 * Added new functionality so contractors can sign into Open Opportunities and create opportunities on behalf of their federal leads.
 * Updated the visual display of the administrator dashboards to use icons for federal employees, students, or contractors.
 
-### Bug Fixes
+### Bug fixes
 
 * Resolved issues with administrator dashboard filters not working correctly.
 * Fixed an issue where Save for later was submitting opportunities.
@@ -110,7 +137,7 @@ Made major enhancements to the People search including:
 * Added new application status help content for applicants and interns.
 * Added new internship status help content for administrators and opportunity creators.
 
-## Bug Fixes
+## Bug fixes
 
 We fixed:
 
@@ -237,7 +264,7 @@ We added:
 * A way to clearly identify which applicants have been assigned to an opportunity.
 * An easy way to mark the entire opportunity as complete.
 
-###	Bug fixes
+### Bug fixes
 We fixed:
 
 * The image displays in IE and Edge.
