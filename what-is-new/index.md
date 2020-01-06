@@ -6,6 +6,31 @@ category: what-is-new
 title: What's new with Open Opportunities
 ---
 
+## Changes made January 13
+
+### Sitewide enhancements
+
+* Reordered metric dashboards to show current year, quarter and month to display most current information up front.
+* Added functionality so administrators can search for users by email.
+* Updated the message to notify a user if they haven’t provided a biography or skills, when submitting an application for an opportunity.
+* Added the ability for sitewide administrators to remove applicants from opportunities.
+* Added the ability to link deactivated accounts (future) to the old account if a later sign in is attempted.
+
+### State Department Internship Program changes
+
+* Added a requirement for State creators to have a bureau and office/post in their profile before they can create an internship.
+* Added required security clearance to the internship applicant view.
+* Changed the field label from Secondary application link to Exclusive job announcement.
+* Added a new field to the cycle table for Exclusive posting end date.
+* Updated selectee and alternate emails with:
+  * Updated security clearance language for when “None” is selected.
+  * The name of the internship.
+  * Revised language for the cycle description.
+  * The exclusive posting end date to indicate when they must complete the exclusive posting.
+* Created a new user role of Bureau Internship Coordinator (BIC) that can approve internships for their bureau.
+  * Added a toggle to the manage user dashboard for State where community managers can give and remove BIC access.
+* Updated the UI so student intern applicants can view the list of internships they applied to and its’ information, after the apply cycle has closed.
+
 ## Changes made December 30, 2019
 
 ### Sitewide enhancements
