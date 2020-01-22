@@ -6,7 +6,29 @@ category: what-is-new
 title: What's new with Open Opportunities
 ---
 
-## Changes made January 13
+## Changes made January 27, 2020
+
+### Sitewide enhancements
+
+* Added a Community Manager badge to identify users as Community Managers.
+* Created search results page specific for the Cyber community. 
+* Added **Community** as a search filter.
+* Created a vanity URL for Federal Acquisitions Institute (FAI) to make it easier for community members to view and share opportunities specific to acquisitions.
+* Added functionality so opportunity creators can edit previously approved opportunities without sending it back through the workflow. 
+* Added functionality to disable accounts after three years of inactivity to comply with security requirements and keep peoples data up-to-date.
+* Created a new **Approver** role. Approvers are users who need to approve opportunities without managing other users.
+* Updated the **Share Opportunity** email format to improve usability and readability.
+* Added default text for the **Comment box** on opportunity detail pages telling users they can enter comments. 
+* Updated the **Opportunity Submitted** email to clarify content and make it consistent.
+* Removed duplicate badges from user profiles.
+* Updated functionality to not display the **Posted date** until the opportunity has been approved. 
+* Stopped using past dates from the estimated completion field date. 
+
+### Department of State Student Internship Program Changes
+
+* Added the **Bureau Internship Coordinator** role as a label in profiles.
+
+## Changes made January 13, 2020
 
 ### Sitewide enhancements
 
