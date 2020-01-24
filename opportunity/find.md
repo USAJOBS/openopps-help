@@ -33,6 +33,9 @@ An opportunity that’s “in progress” has already started.  Participants hav
 #### Completed
 An opportunity that’s “completed” is done.  The work has been completed and you can no longer apply to the opportunity.
 
+### Community
+You can search for opportunities specific to a community.  These opportunities typically share a common goal or interest, such as acquisitions or cyber.
+
 ### Career field
 You can search for opportunities by career field.  Select a career field from the pre-populated drop down list.  
 
