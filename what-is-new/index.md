@@ -6,7 +6,7 @@ category: what-is-new
 title: What's new with Open Opportunities
 ---
 
-## Changes made February 10, 2020
+## Changes made February 7, 2020
 
 ### Sitewide enhancements
 
