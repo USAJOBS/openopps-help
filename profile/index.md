@@ -28,7 +28,7 @@ You need a login.gov account to sign into Open Opportunities. You only need to c
 3. Create a new password.
 4. Have a working phone number (mobile or landline) or an authentication application installed on a device—login.gov will send you a one-time security code.
 
-[Create your login.gov account](https://login.usajobs.gov/Access/Transition).
+[Create your login.gov account](https://openopps.usajobs.gov/login).
 
 [What is login.gov](login-gov)?
 
