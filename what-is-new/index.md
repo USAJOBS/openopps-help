@@ -6,6 +6,22 @@ category: what-is-new
 title: What's new with Open Opportunities
 ---
 
+## Changes made February 21, 2020
+### Sitewide enhancements
+
+* Updated the landing page to include the ability to search by community.
+* Added a Community attribute table, so Community Managers can customize their community. 
+* Added a Preview button to the community attribute table, so community managers can see their branding changes before publishing.
+
+### Department of State Internship Program changes
+* Removed “withdrawn students” information from the administrator view and the dashboard metrics.
+* Added a new feature to the interface so State administrators to move offices or posts to a different bureau.
+* Added the Bureau Internship Coordinator role to the community.CSV. 
+* Updated the student dashboard and added application status ‘pills’, so internship applicants can quickly see their application status.
+  * The new dashboard will also allow students to view any emails that have been sent to them related to their application.
+* Created a new email to remind internship applicants to complete any unfinished applications.
+
+
 ## Changes made February 7, 2020
 
 ### Sitewide enhancements
