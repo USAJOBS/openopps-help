@@ -62,13 +62,6 @@ title: What's new with Open Opportunities
 *	Fixed the layout of the USAJOBS logo in the internship emails. 
 
 
-## Changes made October 21, 2019
-
-### Enhancements
-
-* Added new sorting and filtering options to the administrator dashboard to help administrators find user and opportunity or internship information.
-* Added a "Not completed" status for internship applications. A user will see the "Not completed" status if their application was in progress, but they did not submit it before the cycle closed.
-
 ## Changes made October 7, 2019
 
 ### Enhancements
@@ -250,3 +243,4 @@ We fixed:
 [December 30th, 2019](dec-30-2019/)  
 [December 2nd, 2019](dec-02-2019/)  
 [November 4th, 2019](nov-04-2019/)  
+[October 21st, 2019](oct-21-2019/)  
