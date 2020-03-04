@@ -49,31 +49,6 @@ title: What's new with Open Opportunities
 *	Fixed the layout of the USAJOBS logo in the internship emails. 
 
 
-## Changes made June 29, 2018
-We made the following changes:
-
-### Enhancements
-* Updated the account registration process to only allow a federal email address.
-* Added total number of opportunities to the top of the search results page.
-* Updated the search results page to only display 10 opportunities per page.
-* Incorporated keyword search features.
-* Separated and relabeled skills and interests on the profile page.
-* Added a new email to let opportunity creators know when someone has applied to their opportunity.
-* Enhanced administrative functions.
-* Enhanced the site navigation.
-* Added a character limit of 35 for any new skills entered on an opportunity.
-* Added a help feature to the 'create an opportunity' process to explain the 'continuing accepting applicants' toggle.
-
-### Bug fixes
-We fixed:
-
-* Various mobile and desktop display issues.
-* Error handing on the Create account and Create opportunity pages.
-* Issues with photo upload page refresh on the Profile page.
-* An issue with deleting comments from opportunities for some users.
-* The location table—it no longer allows duplicate locations to be added and displayed.
-* The profile link for an applicant or participant—it’s now clickable by the opportunity creator.
-* The "duplicate opportunity" feature—it now copies all fields on the opportunity over.
 
 ## Changes made May 18, 2018
 We made the following changes:
@@ -137,3 +112,4 @@ We fixed:
 [June 19th, 2019](june-19-2019/)  
 [January 11th, 2019](jan-11-2019/)  
 [November 16th, 2018](nov-16-2018/)  
+[June 29th, 2018](june-29-2018/)  
