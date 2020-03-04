@@ -49,16 +49,6 @@ title: What's new with Open Opportunities
 *	Fixed the layout of the USAJOBS logo in the internship emails. 
 
 
-## Changes made November 4, 2019
-
-### Enhancements
-
-* Enhanced reporting and metrics.
-  * Created new report for Department of State administrators to view data based on the internship cycle.
-  * Updated reports with more relevant data and filtering options for administrators.
-* Added a new feature for adminstrators and help desk to view a user's profile, including the opportunities or internships a user has created or applied to.
-* Added a new 'delete' feature so a user can delete a draft opportunity from their dashboard landing page.
-
 ## Changes made October 21, 2019
 
 ### Enhancements
@@ -243,9 +233,7 @@ We fixed:
 
 
 [January 27th, 2020](jan-27-2020/)  
-
 [January 13th, 2020](jan-13-2020/)  
-
-[December 30th, 2019](dec-30-2019/)
-
-[December 2nd, 2019](dec-02-2019/)
+[December 30th, 2019](dec-30-2019/)  
+[December 2nd, 2019](dec-02-2019/)  
+[November 4th, 2019](nov-04-2019/)  
