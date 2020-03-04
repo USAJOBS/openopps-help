@@ -49,48 +49,6 @@ title: What's new with Open Opportunities
 *	Fixed the layout of the USAJOBS logo in the internship emails. 
 
 
-## Changes made October 7, 2019
-
-### Enhancements
-
-* Updated the sitewide, agency and community administrator dashboards to include the following metrics data (for a select period of time):
-  * Key contributors
-  * Number of opportunities created
-  * Number of opportunities closed
-  * Number of applicants
-* Added new functionality so contractors can sign into Open Opportunities and create opportunities on behalf of their federal leads.
-* Updated the visual display of the administrator dashboards to use icons for federal employees, students, or contractors.
-
-### Bug fixes
-
-* Resolved issues with administrator dashboard filters not working correctly.
-* Fixed an issue where Save for later was submitting opportunities.
-
-## Changes made July 15, 2019
-
-### Enhancements
-
-Made major enhancements to the People search including:
-  * Improved People search performance and relevance.
-  * Added the ability to search for people by skills (using the skills saved in their profile).
-  * Added keyword search to search people by name, job title, skill, career field and agency.  
-  * Added autocomplete to the location search.
-  * Added a new user interface with improved visibility of key profile information.
-  * Added pagination to search results making it easier to sort through results.
-* Updated the user interface to be consistent with USAJOBS.
-* Improved navigation for system, agency and community administrators.
-* Updated the profile to include the Open Opportunities email address if no official federal government email address has been provided.
-* Added a feature to change the community for an opportunity/internship.
-* Added new application status help content for applicants and interns.
-* Added new internship status help content for administrators and opportunity creators.
-
-## Bug fixes
-
-We fixed:
-
-* A casing issue in emails that affected signing into the site.
-* A profile issue where skills were not saving to the profile.
-
 ## Changes made June 19, 2019
 
 We made the following changes:
@@ -231,3 +189,5 @@ We fixed:
 [December 2nd, 2019](dec-02-2019/)  
 [November 4th, 2019](nov-04-2019/)  
 [October 21st, 2019](oct-21-2019/)  
+[October 7th, 2019](oct-07-2019/)  
+[July 15th, 2019](jul-15-2019/) 
