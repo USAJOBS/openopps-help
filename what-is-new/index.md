@@ -49,26 +49,6 @@ title: What's new with Open Opportunities
 *	Fixed the layout of the USAJOBS logo in the internship emails. 
 
 
-## Changes made June 19, 2019
-
-We made the following changes:
-
-### Enhancements
-
-* Launched two-factor authentication using login.gov – now you can securely sign into USAJOBS and Open Opportunities using one login.gov account
-* Updated our sign in process to navigate users to the right place if they’re missing information in their profile, such as hiring path, federal email address or agency information
-* Created one profile for both USAJOBS and Open Opportunities—Open Opportunities users can now link their USAJOBS and Open Opportunities profile so they have only one profile to keep up to date.
-* Released new functionality for the U.S. Department of State Student Internship Program (Unpaid)
-  * Launched a new online application process so students can apply to unpaid internship opportunities on Open Opportunities. Students can:
-    * Search for internships using new search features.
-    * Review internships and save them as a favorite.
-    * View their status and saved internships on the student landing page.
-  * Added functionality so unpaid internship hiring managers and administrators can manage the application process. They can:
-    * Post unpaid internship opportunities.
-    * Create and edit new hiring cycle periods.
-  * Created new emails to communicate with hiring managers, administrators, and students of status, activity and next steps.
-* Enhanced our community features, so community administrators can edit community information.
-
 
 ## Changes made January 11, 2019
 We made the following changes:
@@ -190,4 +170,5 @@ We fixed:
 [November 4th, 2019](nov-04-2019/)  
 [October 21st, 2019](oct-21-2019/)  
 [October 7th, 2019](oct-07-2019/)  
-[July 15th, 2019](jul-15-2019/) 
+[July 15th, 2019](jul-15-2019/)  
+[June 19th, 2019](june-19-2019/)  
