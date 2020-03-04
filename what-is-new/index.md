@@ -62,23 +62,6 @@ title: What's new with Open Opportunities
 *	Fixed the layout of the USAJOBS logo in the internship emails. 
 
 
-## Changes made November 16, 2018
-We made the following changes:
-
-### Enhancements
-
-* Enhanced the administration dashboard.
-* Updated the profile page so you can easily upload, update or remove your profile picture.
-* Added a section to the profile page to display your skills and added a way to edit your skill list.
-* Created a new user home page that highlights:
-  * Current and past opportunities you’ve participated in.
-  * Opportunities you’ve created.
-  * What's new announcement.
-  * Latest achievements.
-  * Suggested searches based on your profile, career field, skills, and location.
-  * Networking recommendations with people based on your job title and agency.
-* Improved security and other technical enhancements to increase the stability and efficiency of the site.
-
 ## Changes made June 29, 2018
 We made the following changes:
 
@@ -166,3 +149,4 @@ We fixed:
 [July 15th, 2019](jul-15-2019/)  
 [June 19th, 2019](june-19-2019/)  
 [January 11th, 2019](jan-11-2019/)  
+[November 16th, 2018](nov-16-2018/)  
