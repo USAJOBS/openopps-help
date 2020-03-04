@@ -50,24 +50,7 @@ title: What's new with Open Opportunities
 
 
 
-## Changes made May 18, 2018
-We made the following changes:
 
-### Enhancements
-
-* Updated the design and added new content on the landing page after you sign in.
-* Added several filters to help narrow your search—you can now search opportunities by status, skill, career field, series, time commitment, and location.
-* Added a “career field” drop down to the profile and create an opportunity sections—you can now post and search for opportunities by career fields.
-* Launched the Acquisition Career portal which focuses on opportunities for the Acquisition career field.
-* Updated our system notification emails to increase clarity.
-* Updated how opportunities are displayed and listed on the search page to make them easier to understand.
-* Added a “preview” step to the opportunity creation and editing process.
-
-### Bug fixes
-We fixed:
-* The password reset form to only submit a single request.
-* Various mobile display issues.
-* Various bugs to improve system performance.
 
 ## Changes made March 9, 2018
 We made the following changes:
@@ -113,3 +96,4 @@ We fixed:
 [January 11th, 2019](jan-11-2019/)  
 [November 16th, 2018](nov-16-2018/)  
 [June 29th, 2018](june-29-2018/)  
+[May 18th, 2018](may-18-2018/)  
