@@ -62,26 +62,6 @@ title: What's new with Open Opportunities
 *	Fixed the layout of the USAJOBS logo in the internship emails. 
 
 
-
-## Changes made January 11, 2019
-We made the following changes:
-
-### Enhancements
-
-* Added the ability to create and manage communities—a community is a group of users who share a common goal or interest.
-  * Opportunity creators can post opportunities to a specific community.  
-  * Added a community administrator role--community administrators will get an email when there are opportunities ready for them to review and approve.
-  * Community administrators can add members to a community—members will get an email when they’re added to a community.
-* Added a step to the Create an opportunity process to select a target audience—you can post an opportunity to a specific audience (community, agency, all Federal Employees, etc.)
-* Imported data from USAJOBS to standardize our information.
-* Made some back-end changes to support future search improvements.
-
-### Bug fixes
-We fixed:
-
-* Navigation disappearing on some pages.
-* An incorrect link in the "draft opportunity created" email.
-
 ## Changes made November 16, 2018
 We made the following changes:
 
@@ -185,3 +165,4 @@ We fixed:
 [October 7th, 2019](oct-07-2019/)  
 [July 15th, 2019](jul-15-2019/)  
 [June 19th, 2019](june-19-2019/)  
+[January 11th, 2019](jan-11-2019/)  
