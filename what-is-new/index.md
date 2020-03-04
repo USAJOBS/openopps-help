@@ -49,33 +49,6 @@ title: What's new with Open Opportunities
 *	Fixed the layout of the USAJOBS logo in the internship emails. 
 
 
-## Changes made December 30, 2019
-
-### Sitewide enhancements
-
-* Added functionality so sitewide administrators can update survey links for completion emails on their own.
-* Updated the applicant and creator completion emails to pull the survey links.
-
-### State Department Internship Program changes
-
-* Added capability to cancel internships:
-  * This capability is limited to community managers.
-  * If the internship is canceled while the application period is open, we will send an email to existing applicants to let them know they can update their application to select another internship.
-  * Added tracking data to capture who canceled, timestamp, task number, title, and creator of the canceled internship.
-* Added tracking data for student application withdrawals
-* Added a message for non-community users who try to create an internship to contact the program and request to be added to the student community.
-* Updated text on the delete cycle modal to be more clear and consistent.
-* Updated text on Secondary application link to read “Exclusive job announcement” (consistent with the Agency Talent Portal).
-* Created an email to alert internship applicants of any change to a bureau, office, post or location.
-* Added a default sort order for education – using the same sort order as USAJOBS.
-* Added the ability for applicants to modify the sort order of their education.  The selected sort order will be displayed on the review page. 
-* Updated selectee and alternate emails to remove extra spacing and display additional text when security clearance is “None” (None – Public Trust Certificate)
-* Updated the default cycle on the administration page to current cycle based on posting dates 
-* Added a default sort order for work experience – using the same sort order as USAJOBS.
-* Added the ability for applicants to modify the sort order of their work experience.  The selected sort order will be displayed on the review page. 
-* Added “I do not wish to provide or do not have any work experience” as an option on the Education page.  Students will be required to check this box or provide work experience detail.
-* Enhanced the application search for administrators—they can now sort by, use filters, and export the list.
-
 ## Changes made December 2, 2019
 
 ### Sitewide enhancements
@@ -321,8 +294,8 @@ We fixed:
 * Fixed the password confirmation on password reset.
 
 
-[January 27th, 2020](jan-27-2020/)
-</br>
-[January 13th, 2020](jan-13-2020/)
-</br>
-[January 13th, 2020](jan-13-2020/)
+[January 27th, 2020](jan-27-2020/)  
+
+[January 13th, 2020](jan-13-2020/)  
+
+[December 30th, 2019](dec-30-2019/)  
