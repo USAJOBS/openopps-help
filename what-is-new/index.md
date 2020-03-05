@@ -6,6 +6,19 @@ category: what-is-new
 title: What's new with Open Opportunities
 ---
 
+## Changes made March 6, 2020
+### Sitewide enhancements
+
+* Added the ability for opportunity creators to limit their opportunities to a specific agency or department.
+* Added a new filter for applicants to search by department. 
+* Added new filters for pay grade and time-commitment to improve search and include detail opportunities.
+* Launched new functionality to automatically join users to a closed community if they meet the pre-requisites.
+* Updated search so the community filter only displays communities with available opportunities.
+* Added the ability to upload logos and background photos to the community attribute table—this helps users with community branding efforts.
+* Updated the opportunity download file to include the type of opportunity (one time, ongoing, detail)—this helps communities improve their reporting.
+* Updated the administrator metrics to include the type of opportunity. 
+* Added text above the apply button for opportunities that are restricted to a specific agency or department—this helps applicants know if they’re eligible to apply.
+
 ## Changes made February 21, 2020
 ### Sitewide enhancements
 
