@@ -1,0 +1,33 @@
+---
+permalink: opportunity/commitment/
+layout: article
+section: opportunity
+category: opportunity
+sidenav: commitment
+title: What does the type of commitment mean?
+---
+
+The commitment varies for each opportunity.  Some opportunities are a ‘one-time’ deal, while others require a longer commitment.
+
+## One-time
+
+A one-time opportunity will happen only once.  For example, helping with a specific meeting, writing a paper, or creating a piece of marketing collateral. You stay in your current job and there is no money exchanged.
+
+## Ongoing
+
+An ongoing opportunity happens on a recurring basis. For example, writing a monthly newsletter or participating in a monthly focus group. You stay in your current job and there is no money exchanged.
+
+## Detail
+
+Detail opportunities can be part-time or full-time, and limited to a certain number of days. You work for someone else for an extended period of time. A part-time detail lets you stay in your current job while taking on another job part-time. A full-time detail requires you to leave your current job and take on another job for a period of time. 
+
+If you’re creating a detail opportunity you will need to include instructions on how to apply and any additional requirements.
+
+## Lateral
+A lateral is a permanent move to a new position in your current agency, where you move to a new position at the same grade level as your previous position. You can’t apply to a lateral outside of your agency in Open Opportunities.
+
+Laterals offer a chance to gain new skills to help you move up in your career. A lateral also offers a chance to bring someone on that has skills they aren't using into a new job where they could use the skills.
+
+Laterals are **only available within an agency community**. 
+
+If you’re creating a lateral opportunity you will need to include instructions on how to apply and any additional requirements.
