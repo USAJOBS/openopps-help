@@ -53,8 +53,9 @@ title: What's new with Open Opportunities
 * Created a new email to remind internship applicants to complete any unfinished applications.
 
 
-[February 7, 2020](feb-07-2020/)
 
+
+[February 7, 2020](feb-07-2020/)
 [January 27, 2020](jan-27-2020/)  
 [January 13, 2020](jan-13-2020/)  
 [December 30, 2019](dec-30-2019/)  
