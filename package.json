@@ -69,7 +69,7 @@
     "all": "npm run build && npm run deploy",
     "build": "grunt build",
     "deploy:cloud": "grunt build; cf push",
-    "deploy": "git subtree push --prefix _dist origin gh-pages",
+    "deploy": "git subtree push --prefix _dist upstream gh-pages",
     "open:repo": "opener http://github.com/USAJOBS/openopps-help",
     "start": "grunt serve",
     "test": "grunt test",
