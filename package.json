@@ -62,7 +62,7 @@
     "time-grunt": "^2.0.0"
   },
   "dependencies": {
-    "npm": "^6.9.0",
+    "npm": "^6.13.4",
     "usajobs-design-system": "^1.11.0"
   },
   "scripts": {
