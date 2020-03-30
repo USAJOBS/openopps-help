@@ -11,10 +11,10 @@ title: What's new with Open Opportunities
 
 * Added a new community to support COVID-19 response efforts:
   * Added an informational banner to the homepage and search landing page
-* Updated the Limit to agency checkbox to save the last selection a user makes.
+* Updated the **Limit to agency** checkbox to save the last selection a user makes.
 * Updated display of Community types to be in alphabetical order.
-* Added new categories to the When section of the Create Opportunity page. 
-* Added Commitment and Length fields to the View Opportunity page.
+* Added new categories to the **When** section of the **Create Opportunity** page. 
+* Added **Commitment** and **Length** fields to the **View Opportunity** page.
 * Updated the search function to search lateral opportunities—this feature is only available for agency communities.
 * Added ability to view metrics for laterals—this feature is only available for agency communities.
 * Added opportunity type field in .csv, so administrator users can view and create metrics.
