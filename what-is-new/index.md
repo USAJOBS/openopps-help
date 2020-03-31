@@ -45,7 +45,7 @@ title: What's new with Open Opportunities
 * Updated the community search pages to display all opportunities, regardless of whether the opportunity is limited to an agency or not.
 * Updated the landing page to only display communities that have opportunities currently open.
 
-[March 6, 2020](mar-06-2020)
+[March 6, 2020](mar-06-2020)  
 [February 21, 2020](feb-21-2020)  
 [February 7, 2020](feb-07-2020/)  
 [January 27, 2020](jan-27-2020/)  
