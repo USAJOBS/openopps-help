@@ -45,15 +45,7 @@ title: What's new with Open Opportunities
 * Updated the community search pages to display all opportunities, regardless of whether the opportunity is limited to an agency or not.
 * Updated the landing page to only display communities that have opportunities currently open.
 
-## Changes made March 6, 2020
-### Sitewide enhancements
-
-* Added the ability for opportunity creators to limit their opportunities to a specific agency or department.
-* Added a new filter for applicants to search by department.
-* Added new filters for pay grade and time-commitment to improve search and to include detail opportunities.
-* Launched new functionality to automatically join users to a closed communityif they meet the pre-requisites.
-* Enhanced the ability to post a detail on the site including additional fields for requirements and how to apply.
-
+[March 6, 2020](mar-06-2020)
 [February 21, 2020](feb-21-2020)  
 [February 7, 2020](feb-07-2020/)  
 [January 27, 2020](jan-27-2020/)  
