@@ -6,6 +6,27 @@ category: what-is-new
 title: What's new with Open Opportunities
 ---
 
+## Changes made March 31, 2020
+### Site-wide enhancements
+
+* Added a new community to support COVID-19 response efforts:
+  * Added an informational banner to the homepage and search landing page
+* Updated the **Limit to agency** checkbox to save the last selection a user makes.
+* Updated display of Community types to be in alphabetical order.
+* Added new categories to the **When** section of the **Create Opportunity** page. 
+* Added **Commitment** and **Length** fields to the **View Opportunity** page.
+* Updated the search function to search lateral opportunities—this feature is only available for agency communities.
+* Added ability to view metrics for laterals—this feature is only available for agency communities.
+* Added opportunity type field in .csv, so administrator users can view and create metrics.
+* Added the custom community URL to the non-select email, instead of the main Open Opportunities page.
+* Updated the community management panel, so users can see the most recently selected logo or background image.
+* Added a new signature block to emails, so communities can have a personal signature.
+* Enhanced agency branding options. You can now upload and display:
+  * Agency logo on opportunities
+  * Agency logo instead of photos.
+  * Community logo on emails.
+
+
 ## Changes made March 23, 2020
 ### Sitewide enhancements
 
