@@ -6,6 +6,24 @@ category: what-is-new
 title: What's new with Open Opportunities
 ---
 
+## Changes made April 17, 2020
+### Site-wide enhancements
+
+* Added ability for opportunity creators to duplicate detail and lateral opportunities.
+* Updated the opportunity preview page to display new fields in the **How to Apply** and **Requirements** sections. 
+* Updated Search to include filters for part-time or full-time details.
+* Added ability for Community Administrators to add and edit text that appears on community search page.
+* Added a community attribute so communities can add a custom link to their search banner, such as a to link to USAJOBS
+* Added help content for the **When** section on the create opportunity page.
+* Updated the “application received” confirmation email that is sent to applicants to include a community search link.
+* Added the ability for Admins to change the color of the search button in the community banner.
+* Updated metrics to include details and laterals.
+* Updated dropdown menus throughout the site to display in alphabetical order.
+* Moved blue information bar to the right side of the opportunity preview page, to match the display of the opportunity when it’s posted.
+* Updated metrics and the opportunity excel download file to include fields for the number of selectees and the number of completed applicants. 
+* Added filler text on the **What’s new** section of the landing page when there is no new content to display.
+* Fixed character count for the search banner description field, so users know exactly how many characters they have left.
+
 ## Changes made March 31, 2020
 ### Site-wide enhancements
 
@@ -45,15 +63,7 @@ title: What's new with Open Opportunities
 * Updated the community search pages to display all opportunities, regardless of whether the opportunity is limited to an agency or not.
 * Updated the landing page to only display communities that have opportunities currently open.
 
-## Changes made March 6, 2020
-### Sitewide enhancements
-
-* Added the ability for opportunity creators to limit their opportunities to a specific agency or department.
-* Added a new filter for applicants to search by department.
-* Added new filters for pay grade and time-commitment to improve search and to include detail opportunities.
-* Launched new functionality to automatically join users to a closed communityif they meet the pre-requisites.
-* Enhanced the ability to post a detail on the site including additional fields for requirements and how to apply.
-
+[March 6, 2020](mar-06-2020/)  
 [February 21, 2020](feb-21-2020)  
 [February 7, 2020](feb-07-2020/)  
 [January 27, 2020](jan-27-2020/)  
