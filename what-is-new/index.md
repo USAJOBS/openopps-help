@@ -7,7 +7,7 @@ title: What's new with Open Opportunities
 ---
 
 ## Changes made April 17, 2020
-### Site-wide enhancements
+### Sitewide enhancements
 
 * Added ability for opportunity creators to duplicate detail and lateral opportunities.
 * Updated the opportunity preview page to display new fields in the **How to Apply** and **Requirements** sections. 
