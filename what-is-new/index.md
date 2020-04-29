@@ -6,6 +6,20 @@ category: what-is-new
 title: What's new with Open Opportunities
 ---
 
+## Changes made May 1, 2020
+### Site-wide enhancements
+
+* Updated the opportunity card to display a community logo, as well as the opportunity creator name.
+* Added a link to the help center for the Who section of the **Create Opportunity** page.
+* Hid applicant photos on the review page for **Details** and **Laterals**.
+* Added functionality so opportunity creators can mark applicants as accepted or not accepted. 
+* Updated the community description field to include line breaks and a clickable link.
+* Updated the search function so a user can search by clicking on a skill tag.
+* Added functionality to disable a community so a community manager can remove inactive communities from displaying. Community managers can still view disabled communities and can request to reactivate if needed.
+* Added notifications for when a community is disabled, so users understand why they can no longer see a community.
+* Added the ability to create customer banners on the landing page and search page for important notices.
+
+
 ## Changes made April 17, 2020
 ### Site-wide enhancements
 
@@ -45,24 +59,7 @@ title: What's new with Open Opportunities
   * Community logo on emails.
 
 
-## Changes made March 23, 2020
-### Sitewide enhancements
-
-* Added a couple of new fields to the **Create Opportunity** form:
-  * An option to select Detail as the opportunity type
-  * A check box to indicate if the Detail is reimbursable. 
-  * An option to select if the Detail is part-time or full-time.
-* Updated the **Search** feature to include filters for part-time and full-time details.
-* Added the ability for administrators to add a logo to the community attribute table— logos can be displayed on custom search banner and opportunities.
-* Added the ability for administrators to change the background color or photo of the search banner on a community page.
-* Revised the content on the **Let’s Get Started Modal** to clarify next steps after selecting an applicant.
-* Updated the metrics to include the number of opportunities created by opportunity type.
-* Updated opportunity Excel file to include type of opportunity.
-* Added instructional text above the **Apply** button to indicate if an opportunity is limited to employees of a specific agency—this only displays if the opportunity is limited to an agency.
-* Added functionality to display “not eligible to apply” for users who try to apply to an agency specific opportunity, and the user is not part of that agency.  
-* Updated the community search pages to display all opportunities, regardless of whether the opportunity is limited to an agency or not.
-* Updated the landing page to only display communities that have opportunities currently open.
-
+[March 23, 2020](mar-23-2020/)  
 [March 6, 2020](mar-06-2020/)  
 [February 21, 2020](feb-21-2020)  
 [February 7, 2020](feb-07-2020/)  
