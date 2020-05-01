@@ -6,6 +6,20 @@ category: what-is-new
 title: What's new with Open Opportunities
 ---
 
+## Changes made May 1, 2020
+### Site-wide enhancements
+
+* Updated the opportunity card to display a community logo, as well as the opportunity creator name.
+* Added a link to the help center for the Who section of the **Create Opportunity** page.
+* Hid applicant photos on the review page for **Details** and **Laterals**.
+* Added functionality so opportunity creators can mark applicants as accepted or not accepted. 
+* Updated the community description field to include line breaks and a clickable link.
+* Updated the search function so a user can search by clicking on a skill tag.
+* Added functionality to disable a community so a community manager can remove inactive communities from displaying. Community managers can still view disabled communities and can request to reactivate if needed.
+* Added notifications for when a community is disabled, so users understand why they can no longer see a community.
+* Added the ability to create customer banners on the landing page and search page for important notices.
+
+
 ## Changes made April 17, 2020
 ### Sitewide enhancements
 
@@ -45,6 +59,7 @@ title: What's new with Open Opportunities
   * Community logo on emails.
 
 
+<<<<<<< HEAD
 ## Changes made March 23, 2020
 ### Sitewide enhancements
 
@@ -64,6 +79,10 @@ title: What's new with Open Opportunities
 * Updated the landing page to only display communities that have opportunities currently open.
 
 [March 6, 2020](mar-06-2020)  
+=======
+[March 23, 2020](mar-23-2020/)  
+[March 6, 2020](mar-06-2020/)  
+>>>>>>> a5188a7bbb43f3e8a4079ee3712d2909816589ee
 [February 21, 2020](feb-21-2020)  
 [February 7, 2020](feb-07-2020/)  
 [January 27, 2020](jan-27-2020/)  
