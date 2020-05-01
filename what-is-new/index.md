@@ -59,7 +59,6 @@ title: What's new with Open Opportunities
   * Community logo on emails.
 
 
-<<<<<<< HEAD
 ## Changes made March 23, 2020
 ### Sitewide enhancements
 
@@ -79,10 +78,6 @@ title: What's new with Open Opportunities
 * Updated the landing page to only display communities that have opportunities currently open.
 
 [March 6, 2020](mar-06-2020)  
-=======
-[March 23, 2020](mar-23-2020/)  
-[March 6, 2020](mar-06-2020/)  
->>>>>>> a5188a7bbb43f3e8a4079ee3712d2909816589ee
 [February 21, 2020](feb-21-2020)  
 [February 7, 2020](feb-07-2020/)  
 [January 27, 2020](jan-27-2020/)  
