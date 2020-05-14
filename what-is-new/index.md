@@ -6,6 +6,36 @@ category: what-is-new
 title: What's new with Open Opportunities
 ---
 
+## Changes made May 15, 2020
+### Site-wide enhancements
+
+* Added new functionality to select or not select an applicant, including
+  * A green success banner after an opportunity creator clicks **Select** or **Don’t-select** for an applicant. 
+  * An applicant status box to indicate if an applicant has been marked as **Selected** or **Not-selected**.
+  * A **Change selection** button so opportunity creators can change the status of an applicant (i.e. Change from Selected to Not Selected)
+* Revised the **Opportunity search results** to display 20 opportunity cards per page on desktop and on mobile.
+* Added number from “How many people do you need?” field in .csv so administrator users can view metrics.
+* Removed the word “topic” from the hint text in the opportunity keyword search box.
+* Updated the **No search results** page text to better explain how to get the results they are looking for.
+* Added functionality so using the **Enter** key will submit entries in the search and comment fields.
+* Changed “5+” to “6+” on the **Create an opportunity** page to avoid confusion for users.
+* Removed “Draft”, “Submitted”, “Not Open” and “Cancelled” filters from opportunity search for administrators, because it’s redundant.
+* Added keyword autocomplete on all search pages to improve usability.
+* Added Sitewide Approver to the **Sort by** dropdown on the Manage Users page.
+* Revised the layout of the **Manage Users** page to reduce the need to scroll.
+* Added the agency name to the opportunity card displayed in search results and to the opportunity overview page.
+* Updated the text in the **Disable community** warning modal.
+* Updated the text in the **Inactive community** warning banner.
+* Added mailto links to user emails in the administrator dashboard.
+* Added functionality so opportunity creators can email multiple applicants.
+* Updated detail length options on the **Create opportunity** page.
+### Bug Fixes
+
+* Fixed display of opportunities on a community page—this helps a signed-in user, who is part of a sub-agency, to see all opportunities they can apply for.
+* Fixed 508 compliance issues.
+* Fixed issue where metrics in Administrator view were incorrect.
+
+
 ## Changes made May 1, 2020
 ### Site-wide enhancements
 
@@ -38,27 +68,7 @@ title: What's new with Open Opportunities
 * Added filler text on the **What’s new** section of the landing page when there is no new content to display.
 * Fixed character count for the search banner description field, so users know exactly how many characters they have left.
 
-## Changes made March 31, 2020
-### Site-wide enhancements
-
-* Added a new community to support COVID-19 response efforts:
-  * Added an informational banner to the homepage and search landing page
-* Updated the **Limit to agency** checkbox to save the last selection a user makes.
-* Updated display of Community types to be in alphabetical order.
-* Added new categories to the **When** section of the **Create Opportunity** page. 
-* Added **Commitment** and **Length** fields to the **View Opportunity** page.
-* Updated the search function to search lateral opportunities—this feature is only available for agency communities.
-* Added ability to view metrics for laterals—this feature is only available for agency communities.
-* Added opportunity type field in .csv, so administrator users can view and create metrics.
-* Added the custom community URL to the non-select email, instead of the main Open Opportunities page.
-* Updated the community management panel, so users can see the most recently selected logo or background image.
-* Added a new signature block to emails, so communities can have a personal signature.
-* Enhanced agency branding options. You can now upload and display:
-  * Agency logo on opportunities
-  * Agency logo instead of photos.
-  * Community logo on emails.
-
-
+[March 31, 2020](mar-31-2020/)  
 [March 23, 2020](mar-23-2020/)  
 [March 6, 2020](mar-06-2020/)  
 [February 21, 2020](feb-21-2020)  
