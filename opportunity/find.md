@@ -51,8 +51,8 @@ This is an opportunity that requires a single commitment. There is a clearly def
 #### Ongoing
 This is an opportunity where the work will take a longer period of time and requires you to work several hours per week (usually 8 hours) over several months.
 
-#### Full-time detail
-This is a temporary assignment to a different position for a specified period. You are expected to return to your regular duties at the end of the assignment.  Your agency will need to complete paperwork for you to work on a full-time detail opportunity. 
+#### Detail
+A detail is a temporary assignment to a different position for a specified period. You are expected to return to your regular duties at the end of the assignment.  Your agency will need to complete paperwork for you to work on a full-time detail opportunity. You can search for full-time or part-time details, as well as by pay scale and grade.
 
 ### Location
 
