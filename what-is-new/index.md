@@ -29,6 +29,7 @@ title: What's new with Open Opportunities
 * Added mailto links to user emails in the administrator dashboard.
 * Added functionality so opportunity creators can email multiple applicants.
 * Updated detail length options on the **Create opportunity** page.
+
 ### Bug Fixes
 
 * Fixed display of opportunities on a community page—this helps a signed-in user, who is part of a sub-agency, to see all opportunities they can apply for.

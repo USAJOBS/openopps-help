@@ -24,7 +24,7 @@ Current federal employees, and some federal contractors, can create and post opp
 7.	The administrators will review your opportunity after your click **Submit**. They’ll send you an email when it’s approved and goes live. Or, email you if you need to make changes.
 
 <div class="usajobs-openopps-help-center-article__callout">
-  <a class="usajobs-openopps-help-center-article__callout-link" href="{{ site.baseurl }}/assets/Opportunity_Creation_Process_final.pdf">
+  <a class="usajobs-openopps-help-center-article__callout-link" href="{{ site.baseurl }}/assets/Open.Opportunities.-.How.to.create.an.opportunity.pdf">
     <amp-img src="{{ site.baseurl }}/assets/images/OppCreationProcessMap@2x.png"
           srcset="{{ site.baseurl }}/assets/images/OppCreationProcessMap@2x.png 768w,
                   {{ site.baseurl }}/assets/images/images/OppCreationProcessMap@2x-narrow.png 100w"
