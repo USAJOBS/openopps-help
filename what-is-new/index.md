@@ -51,9 +51,9 @@ title: What's new with Open Opportunities
 * Added the ability to create customer banners on the landing page and search page for important notices.
 
 
-[April 17, 2020](apr-17-202)
-[March 31, 2020](mar-31-2020)
-[March 23, 2020](mar-23-2020)
+[April 17, 2020](apr-17-2020)  
+[March 31, 2020](mar-31-2020)  
+[March 23, 2020](mar-23-2020)  
 [March 6, 2020](mar-06-2020)  
 [February 21, 2020](feb-21-2020)  
 [February 7, 2020](feb-07-2020/)  
