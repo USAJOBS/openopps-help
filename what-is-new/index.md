@@ -6,6 +6,33 @@ category: what-is-new
 title: What's new with Open Opportunities
 ---
 
+## Changes made May 29, 2020
+### Site-wide enhancements
+
+* Updated the applicant view page so that only opportunity creators can see not-selected applicants. 
+* Added a **Sitewide Admin** and **Sitewide Approver** filter on the manage user page.
+* Updated the manage users page so that students cannot be given administration privileges.
+* Updated the **Comments** section to:
+  * Nest the **Replies** under the original post.
+  * Allow users to edit and delete their own comments and replies.
+  * Display the two most recent comments and their replies. The rest are hidden behind a **View previous comments** link.
+  * Display the two most recent replies. The rest are hidden behind a link.
+  * Add a **Refresh** button at the bottom of the comments section so comments can be refreshed without reloading the page
+  * Add an email notification for comments—users are directed to the corresponding comment when clicking on the link in the email.
+* Added a **Sort by** dropdown menu on the search results page.
+* Added ability to filter opportunities by location.
+* Added ability to search for opportunities by a department.
+* Added the **Allow virtual participation** check box to opportunity creation and this is carried over if an opportunity is duplicated.
+* Updated the display of the opportunity overview and preview views to include **In Person** and **Virtual** if those are selected during the opportunity creation.
+* Updated the search results to include opportunities with **Allow virtual participation** when the **Virtual** filter is applied.
+* Added an alert so that admins know when they are making changes to someone else’s opportunity.
+
+### Bug fixes
+
+* Fixed issue where user is unable to create a new community.
+* Fixed issue where clicking on a skill in search takes you to the **Oops** page.
+
+
 ## Changes made May 15, 2020
 ### Site-wide enhancements
 
@@ -50,24 +77,7 @@ title: What's new with Open Opportunities
 * Added the ability to create customer banners on the landing page and search page for important notices.
 
 
-## Changes made April 17, 2020
-### Site-wide enhancements
-
-* Added ability for opportunity creators to duplicate detail and lateral opportunities.
-* Updated the opportunity preview page to display new fields in the **How to Apply** and **Requirements** sections. 
-* Updated Search to include filters for part-time or full-time details.
-* Added ability for Community Administrators to add and edit text that appears on community search page.
-* Added a community attribute so communities can add a custom link to their search banner, such as a to link to USAJOBS
-* Added help content for the **When** section on the create opportunity page.
-* Updated the “application received” confirmation email that is sent to applicants to include a community search link.
-* Added the ability for Admins to change the color of the search button in the community banner.
-* Updated metrics to include details and laterals.
-* Updated dropdown menus throughout the site to display in alphabetical order.
-* Moved blue information bar to the right side of the opportunity preview page, to match the display of the opportunity when it’s posted.
-* Updated metrics and the opportunity excel download file to include fields for the number of selectees and the number of completed applicants. 
-* Added filler text on the **What’s new** section of the landing page when there is no new content to display.
-* Fixed character count for the search banner description field, so users know exactly how many characters they have left.
-
+[April 17, 2020](apr-17-2020/)  
 [March 31, 2020](mar-31-2020/)  
 [March 23, 2020](mar-23-2020/)  
 [March 6, 2020](mar-06-2020/)  
