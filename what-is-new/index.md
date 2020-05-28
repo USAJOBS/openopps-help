@@ -20,7 +20,7 @@ title: What's new with Open Opportunities
   * Add a **Refresh** button at the bottom of the comments section so comments can be refreshed without reloading the page
   * Add an email notification for comments—users are directed to the corresponding comment when clicking on the link in the email.
 * Added a **Sort by** dropdown menu on the search results page.
-* Added ability to filter opportunities by location.
+* Enhanced the ability to filter opportunities by location.
 * Added ability to search for opportunities by a department.
 * Added the **Allow virtual participation** check box to opportunity creation and this is carried over if an opportunity is duplicated.
 * Updated the display of the opportunity overview and preview views to include **In Person** and **Virtual** if those are selected during the opportunity creation.
