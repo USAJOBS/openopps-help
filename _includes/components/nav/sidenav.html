@@ -65,23 +65,8 @@
       </a>
     </li>
     <li>
-      <a {% if page.sidenav == 'opportunity-accept-applications' %}class="usa-current"{% endif %} href="{{ site.baseurl }}/opportunity/accept-applications/">
+      <a {% if page.sidenav == 'opportunity-accept-applications' %}class="usa-current"{% endif %} href="{{ site.baseurl }}/opportunity/accept-applications">
         How to continue accepting applicants
-      </a>
-    </li>
-    <li>
-      <a {% if page.sidenav == 'opportunity-update-application' %}class="usa-current"{% endif %} href="{{ site.baseurl }}/opportunity/update-application/">
-        How to update an application
-      </a>
-    </li>
-    <li>
-      <a {% if page.sidenav == 'opportunity-withdraw-application' %}class="usa-current"{% endif %} href="{{ site.baseurl }}/opportunity/withdraw-application/">
-        How to withdraw an application
-      </a>
-    </li>
-    <li>
-      <a {% if page.sidenav == 'application-status' %}class="usa-current"{% endif %} href="{{ site.baseurl }}/opportunity/application-status/">
-        What does the application status mean?
       </a>
     </li>
      <li>
@@ -97,6 +82,29 @@
     <li>
       <a {% if page.sidenav == 'opportunity-sample-opportunities' %}class="usa-current"{% endif %} href="{{ site.baseurl }}/opportunity/sample-opportunities/">
         Sample Opportunities
+      </a>
+    </li>
+  </ul>
+{% endif %}
+{% if page.section == 'apply' %}
+  <h3 class="usajobs-openopps-help-center-article-sidenav__title">
+    Apply
+  </h3>
+  <ul class="usa-sidenav-list">
+    
+    <li>
+      <a {% if page.sidenav == 'apply-update-application' %}class="usa-current"{% endif %} href="{{ site.baseurl }}/apply/">
+        How to update an application
+      </a>
+    </li>
+    <li>
+      <a {% if page.sidenav == 'apply-withdraw-application' %}class="usa-current"{% endif %} href="{{ site.baseurl }}/apply/withdraw-application/">
+        How to withdraw an application
+      </a>
+    </li>
+    <li>
+      <a {% if page.sidenav == 'application-status' %}class="usa-current"{% endif %} href="{{ site.baseurl }}/apply/application-status/">
+        What does the application status mean?
       </a>
     </li>
   </ul>

@@ -1,9 +1,9 @@
 ---
-permalink: opportunity/update-application/
+permalink: apply/
 layout: article
-section: opportunity
-category: opportunity
-sidenav: opportunity-update-application
+section: apply
+category: apply
+sidenav: apply-update-application
 title: How to update an application 
 ---
 

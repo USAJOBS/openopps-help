@@ -1,9 +1,9 @@
 ---
-permalink: opportunity/withdraw-application/
+permalink: apply/withdraw-application/
 layout: article
-section: opportunity
-category: opportunity
-sidenav: opportunity-withdraw-application
+section: apply
+category: apply
+sidenav: apply-withdraw-application
 title: How to withdraw an application 
 ---
 

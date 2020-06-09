@@ -1,8 +1,8 @@
 ---
-permalink: opportunity/application-status/
+permalink: apply/application-status/
 layout: article
-section: opportunity
-category: opportunity
+section: apply
+category: apply
 sidenav: application-status
 title: What does the application status mean?
 ---
