@@ -6,6 +6,21 @@ category: what-is-new
 title: What's new with Open Opportunities
 ---
 
+## Changes made June 12, 2020
+### Site-wide enhancements
+
+* Updated the application process for applying to details and laterals. 
+  * The application process includes a statement of interest, a resume selection field, and a sidebar with help text.
+  * Opportunity creators can view the statement of interest, and resume when reviewing detail or lateral applications.
+  * Applicants can update their applications while the detail or lateral opportunity is “Accepting applications”
+* Updated how resumes are handled during the application process for a detail or lateral opportunity:
+  * Applicants can upload resumes from USAJOBS.
+  * Applicants and opportunity creators can download and view resumes that were uploaded through USAJOBS.
+  * Applicants and opportunity creators can view resumes created from the USAJOBS resume builder tool.
+* Created a confirmation page and “What happens next” page that displays when an applicant submits their application for a detail or lateral opportunity.
+* Added a column called “Community” to the manage opportunities page so that sitewide administrators know which opportunities are part of a community.
+* Added the community name under the agency name to display on the opportunity preview and overview page. 
+
 ## Changes made May 29, 2020
 ### Site-wide enhancements
 
@@ -63,21 +78,7 @@ title: What's new with Open Opportunities
 * Fixed 508 compliance issues.
 * Fixed issue where metrics in Administrator view were incorrect.
 
-
-## Changes made May 1, 2020
-### Site-wide enhancements
-
-* Updated the opportunity card to display a community logo, as well as the opportunity creator name.
-* Added a link to the help center for the Who section of the **Create Opportunity** page.
-* Hid applicant photos on the review page for **Details** and **Laterals**.
-* Added functionality so opportunity creators can mark applicants as accepted or not accepted. 
-* Updated the community description field to include line breaks and a clickable link.
-* Updated the search function so a user can search by clicking on a skill tag.
-* Added functionality to disable a community so a community manager can remove inactive communities from displaying. Community managers can still view disabled communities and can request to reactivate if needed.
-* Added notifications for when a community is disabled, so users understand why they can no longer see a community.
-* Added the ability to create customer banners on the landing page and search page for important notices.
-
-
+[May 1, 2020](may-01-2020)
 [April 17, 2020](apr-17-2020)  
 [March 31, 2020](mar-31-2020)  
 [March 23, 2020](mar-23-2020)  
