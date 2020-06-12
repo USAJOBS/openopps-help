@@ -7,7 +7,24 @@ sidenav: apply-update-application
 title: How to update an application 
 ---
 
-**This help content is for U.S. Department of State Student Internship Program (Unpaid) applicants**.
+You can update your application for the following types of opportunities:
+
+1.	Details
+2.	Laterals
+3.	Department of State Unpaid Student Internships
+
+## Update your application for details and laterals
+You can update an application for a detail or lateral opportunity, as long as it’s still open and accepting applications.
+
+1.	Sign into Open Opportunities.
+2.	Click on your name in the navigation—you will go to your landing page.
+3.	Go to the list of opportunities under **Participated**.
+4.	Find the detail or lateral you want to update and click the link—you’ll go to the opportunity detail page.
+5.	Click **Update application**.
+6.	Update your statement of interest or resume.
+7.	Click **Submit**.
+
+## Update your application to the Department of State Unpaid Student Internship program
 
 You can update a submitted application for the student internship program as long as the application period is open.  
 
@@ -16,7 +33,7 @@ There are two ways you can update your application once you’ve submitted it:
 1. Update your application directly in Open Opportunities.
 2. Update your USAJOBS profile and use your profile information to update your application.
 
-## Update your application directly in Open Opportunities
+### Update your application directly in Open Opportunities
 
 If you update your application directly in Open Opportunities, any changes you make will NOT be saved into your USAJOBS profile.  While this may be the easiest way to update your application, it may require rework in the future (if you want to use the same application information).
 
@@ -34,6 +51,6 @@ To update your application in Open Opportunities for the student internship prog
 
 You must click **Submit application** to update your application. Any changes you make will NOT be saved into your USAJOBS profile. All updates must be submitted by 11:59 p.m. ET on the closing date. 
 
-## Update your USAJOBS profile and use your profile information to update your application
+### Update your USAJOBS profile and use your profile information to update your application
 
 If you update your USAJOBS profile information AFTER you submit your application, and you want to use your updated profile information, you need to withdraw your application and create a new one. Creating a new application will pull over your updated USAJOBS profile information. 
