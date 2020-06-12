@@ -78,7 +78,7 @@ title: What's new with Open Opportunities
 * Fixed 508 compliance issues.
 * Fixed issue where metrics in Administrator view were incorrect.
 
-[May 1, 2020](may-01-2020)
+[May 1, 2020](may-01-2020)  
 [April 17, 2020](apr-17-2020)  
 [March 31, 2020](mar-31-2020)  
 [March 23, 2020](mar-23-2020)  
