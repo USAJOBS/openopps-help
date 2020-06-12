@@ -1,9 +1,9 @@
 ---
-permalink: opportunity/participate/
+permalink: apply/participate/
 layout: article
-section: opportunity
-category: opportunity
-sidenav: opportunity-participate
+section: apply
+category: apply
+sidenav: apply-participate
 title: How to participate in an opportunity
 ---
 Participating in an opportunity is a great way to gain experience, contribute your expertise and work with others across the Federal Government.
