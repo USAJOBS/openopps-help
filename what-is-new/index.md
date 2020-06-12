@@ -12,13 +12,13 @@ title: What's new with Open Opportunities
 * Updated the application process for applying to details and laterals. 
   * The application process includes a statement of interest, a resume selection field, and a sidebar with help text.
   * Opportunity creators can view the statement of interest, and resume when reviewing detail or lateral applications.
-  * Applicants can update their applications while the detail or lateral opportunity is “Accepting applications”
+  * Applicants can update their applications while the detail or lateral opportunity is **Accepting applications**
 * Updated how resumes are handled during the application process for a detail or lateral opportunity:
   * Applicants can upload resumes from USAJOBS.
   * Applicants and opportunity creators can download and view resumes that were uploaded through USAJOBS.
   * Applicants and opportunity creators can view resumes created from the USAJOBS resume builder tool.
-* Created a confirmation page and “What happens next” page that displays when an applicant submits their application for a detail or lateral opportunity.
-* Added a column called “Community” to the manage opportunities page so that sitewide administrators know which opportunities are part of a community.
+* Created a confirmation page and **What happens next** page that displays when an applicant submits their application for a detail or lateral opportunity.
+* Added a column called **Community** to the manage opportunities page so that sitewide administrators know which opportunities are part of a community.
 * Added the community name under the agency name to display on the opportunity preview and overview page. 
 
 ## Changes made May 29, 2020
