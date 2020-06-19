@@ -1,5 +1,5 @@
 ---
-permalink: apply/
+permalink: apply/update/
 layout: article
 section: apply
 category: apply

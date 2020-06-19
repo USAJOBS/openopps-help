@@ -1,5 +1,5 @@
 ---
-permalink: apply/participate/
+permalink: apply/
 layout: article
 section: apply
 category: apply
