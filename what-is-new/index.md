@@ -76,7 +76,7 @@ title: What's new with Open Opportunities
 * Fixed issue where user is unable to create a new community.
 * Fixed issue where clicking on a skill in search takes you to the **Oops** page.
 
-[May 15, 2020](may-15-2020)
+[May 15, 2020](may-15-2020)  
 [May 1, 2020](may-01-2020)  
 [April 17, 2020](apr-17-2020)  
 [March 31, 2020](mar-31-2020)  
