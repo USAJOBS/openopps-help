@@ -6,6 +6,35 @@ category: what-is-new
 title: What's new with Open Opportunities
 ---
 
+## Changes made June 26, 2020
+### Site-wide enhancements
+
+* Updated the display of applicants for laterals—users who are not a community manager, sitewide admin or the opportunity owner, will only see an applicant count. They will not see the list of applicants.
+* Updated the display of **View** application for laterals and details—the link will only display for creators, community managers, and sitewide administrators.
+* Updated the display of **View** profile—the link will display for all applicants, creators and sitewide admins for one-time and ongoing opportunities.
+* Added functionality to applicant selection feature
+  * If an applicant is marked as **Not-selected**, the user can change the status to **Selected**.
+  * If an applicant has been marked as **Selected**, the user can change the status to **Not-selected**.
+* Added ability to sort by **Community** on the manage opportunities page.
+* Moved the **Commitment** search filter under **Community** on all search pages.
+* Added ability for opportunity participants to print a certificate of completion after completing an opportunity.
+* Added ability to assign any user as an opportunity owner when the community is **Open**.
+* Added ability for creators and admins to mark a participant as complete after an opportunity has closed.
+* Added functionality to add a co-owner to an opportunity including:
+  * An **Add co-owner** button and flow that lets users search for and add a co-owner.
+  * The ability for users to see all opportunities for which they are a co-owner on their dashboard.
+  * A new **Co-owners** section on the opportunity page that displays all the co-owners of the opportunity.
+  * A **Make primary** link that lets a user change the primary owner of the opportunity.
+  * The ability for opportunity creators to remove co-owners from an opportunity. 
+  * Displaying a confirmation modal when a user requests to remove a co-owner from an opportunity.
+
+### Bug Fixes
+
+* Fixed issue so users without additional profile information show up in change owner search.
+* Fixed issue so that field headers don’t display when a field is left blank on the create opportunity page.
+* Fixed issue so that skills links on the home page don’t go to the “Oops” page.
+
+
 ## Changes made June 12, 2020
 ### Site-wide enhancements
 
@@ -47,37 +76,7 @@ title: What's new with Open Opportunities
 * Fixed issue where user is unable to create a new community.
 * Fixed issue where clicking on a skill in search takes you to the **Oops** page.
 
-
-## Changes made May 15, 2020
-### Site-wide enhancements
-
-* Added new functionality to select or not select an applicant, including
-  * A green success banner after an opportunity creator clicks **Select** or **Don’t-select** for an applicant. 
-  * An applicant status box to indicate if an applicant has been marked as **Selected** or **Not-selected**.
-  * A **Change selection** button so opportunity creators can change the status of an applicant (i.e. Change from Selected to Not Selected)
-* Revised the **Opportunity search results** to display 20 opportunity cards per page on desktop and on mobile.
-* Added number from “How many people do you need?” field in .csv so administrator users can view metrics.
-* Removed the word “topic” from the hint text in the opportunity keyword search box.
-* Updated the **No search results** page text to better explain how to get the results they are looking for.
-* Added functionality so using the **Enter** key will submit entries in the search and comment fields.
-* Changed “5+” to “6+” on the **Create an opportunity** page to avoid confusion for users.
-* Removed “Draft”, “Submitted”, “Not Open” and “Cancelled” filters from opportunity search for administrators, because it’s redundant.
-* Added keyword autocomplete on all search pages to improve usability.
-* Added Sitewide Approver to the **Sort by** dropdown on the Manage Users page.
-* Revised the layout of the **Manage Users** page to reduce the need to scroll.
-* Added the agency name to the opportunity card displayed in search results and to the opportunity overview page.
-* Updated the text in the **Disable community** warning modal.
-* Updated the text in the **Inactive community** warning banner.
-* Added mailto links to user emails in the administrator dashboard.
-* Added functionality so opportunity creators can email multiple applicants.
-* Updated detail length options on the **Create opportunity** page.
-
-### Bug Fixes
-
-* Fixed display of opportunities on a community page—this helps a signed-in user, who is part of a sub-agency, to see all opportunities they can apply for.
-* Fixed 508 compliance issues.
-* Fixed issue where metrics in Administrator view were incorrect.
-
+[May 15, 2020](may-15-2020)
 [May 1, 2020](may-01-2020)  
 [April 17, 2020](apr-17-2020)  
 [March 31, 2020](mar-31-2020)  
