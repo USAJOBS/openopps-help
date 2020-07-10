@@ -7,7 +7,7 @@ title: What's new with Open Opportunities
 ---
 
 ## Changes made July 10, 2020
-## Site-wide enhancements
+### Site-wide enhancements
 
 * Added a link to help center content explaining opportunity status.
 * Added a link to help center content explaining application status.
@@ -27,7 +27,7 @@ title: What's new with Open Opportunities
   * See an error message when trying to save more than 10 searches.
   * Added ability to receive email notifications by selecting an email notification checkbox. Unchecking the box turns off email notifications
 
-## Bug Fixes
+### Bug Fixes
 
 * Removed the **Remove** link that was displayed underneath a user’s profile photo for non-sitewide administrators
 * Fixed issue so users can’t apply for details or laterals twice.
