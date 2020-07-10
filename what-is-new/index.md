@@ -6,6 +6,33 @@ category: what-is-new
 title: What's new with Open Opportunities
 ---
 
+## Changes made July 10, 2020
+## Site-wide enhancements
+
+* Added a link to help center content explaining opportunity status.
+* Added a link to help center content explaining application status.
+* Added functionality so that co-owners of an opportunity can’t apply for that opportunity.
+* Added functionality so that applicants of an opportunity can’t be co-owners of that opportunity.
+* Added the ability for creators and system administrators to mark an applicant as “Complete” after an opportunity has closed.
+* Updated the column label **Last updated** to **Application last updated**.
+* Added the ability for users to save a search. Users can have a maximum of 10 saved searches. This change includes the ability to:
+  * Click the **Save this search** link below the search box to create a saved search.
+  * View **Participated** and **Saved opportunities** on the home page dashboard when a user is signed in.
+  * View saved searches under a new **Saved searches** tab on the home page dashboard – this includes active and archived saved searches.
+  * Sort saved searches by **Last updated** and **Name**.
+  * View their results from an active saved search.
+  * Edit a saved search when viewing the results.
+  * Delete a saved search.
+  * Renew a saved search for another year.
+  * See an error message when trying to save more than 10 searches.
+  * Added ability to receive email notifications by selecting an email notification checkbox. Unchecking the box turns off email notifications
+
+## Bug Fixes
+
+* Removed the **Remove** link that was displayed underneath a user’s profile photo for non-sitewide administrators
+* Fixed issue so users can’t apply for details or laterals twice.
+* Fixed the broken help center link on the landing page next to **Your opportunities**.
+
 ## Changes made June 26, 2020
 ### Site-wide enhancements
 
@@ -50,32 +77,7 @@ title: What's new with Open Opportunities
 * Added a column called **Community** to the manage opportunities page so that sitewide administrators know which opportunities are part of a community.
 * Added the community name under the agency name to display on the opportunity preview and overview page. 
 
-## Changes made May 29, 2020
-### Site-wide enhancements
-
-* Updated the applicant view page so that only opportunity creators can see not-selected applicants. 
-* Added a **Sitewide Admin** and **Sitewide Approver** filter on the manage user page.
-* Updated the manage users page so that students cannot be given administration privileges.
-* Updated the **Comments** section to:
-  * Nest the **Replies** under the original post.
-  * Allow users to edit and delete their own comments and replies.
-  * Display the two most recent comments and their replies. The rest are hidden behind a **View previous comments** link.
-  * Display the two most recent replies. The rest are hidden behind a link.
-  * Add a **Refresh** button at the bottom of the comments section so comments can be refreshed without reloading the page
-  * Add an email notification for comments—users are directed to the corresponding comment when clicking on the link in the email.
-* Added a **Sort by** dropdown menu on the search results page.
-* Enhanced the ability to filter opportunities by location.
-* Added ability to search for opportunities by a department.
-* Added the **Allow virtual participation** check box to opportunity creation and this is carried over if an opportunity is duplicated.
-* Updated the display of the opportunity overview and preview views to include **In Person** and **Virtual** if those are selected during the opportunity creation.
-* Updated the search results to include opportunities with **Allow virtual participation** when the **Virtual** filter is applied.
-* Added an alert so that admins know when they are making changes to someone else’s opportunity.
-
-### Bug fixes
-
-* Fixed issue where user is unable to create a new community.
-* Fixed issue where clicking on a skill in search takes you to the **Oops** page.
-
+[May 29, 2020](may-29-2020)  
 [May 15, 2020](may-15-2020)  
 [May 1, 2020](may-01-2020)  
 [April 17, 2020](apr-17-2020)  
