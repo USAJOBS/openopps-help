@@ -6,15 +6,17 @@
   @include usa-sidenav-sublist;
 }
 
-.usajobs-openopps-help-center-article-sidenav {
-  display: none;
-  margin-top: $size-L;
 
-  @include grid-media($L) {
-    display: block;
-  }
+// Erin P. commented out the below code because it keeps the sidenav from displaying on mobile
+// .usajobs-openopps-help-center-article-sidenav {
+//   display: none;
+//   margin-top: $size-L;
 
-  &__title {
-    color: $color-primary-darkest;
-  }
-}
+//   @include grid-media($L) {
+//     display: block;
+//   }
+
+//   &__title {
+//     color: $color-primary-darkest;
+//   }
+// }
