@@ -13,9 +13,9 @@ title: What's new with Open Opportunities
   * A warning alert that displays when an opportunity is about to expire.
   * A confirmation modal that displays when a user deletes an opportunity.
   * A warning alert that displays when a user’s profile is missing a biography and skills.
-  * A confirmation modal that displays when a user clicks Cancel on an opportunity.
+  * A confirmation modal that displays when a user clicks **Cancel** on an opportunity.
   * A confirmation alert that displays when a user clicks to save a search.
-  * A success alert that displays when a user clicks to Renew an opportunity
+  * A success alert that displays when a user clicks to **Renew** an opportunity
   * A warning alert that displays when a user has one or more opportunities that are at 91 days of inactivity and are in Open status. 
 
 * Created several new emails to send to:
@@ -28,15 +28,15 @@ title: What's new with Open Opportunities
 
 * Updated administration so that when a community manager or sitewide administrator is logged in, they are not able to add a participant to a detail or lateral that is In progress, Open, or Not open.
 * Made several updates to the opportunity page:
-  * Moved the Duplicate and Share to the same line as skills. 
-  * Moved Edit and Cancel to a new line below Duplicate and Share.
-  * Added a Delete link to draft opportunities.
+  * Moved the **Duplicate** and **Share** to the same line as skills. 
+  * Moved **Edit** and **Cancel** to a new line below **Duplicate** and **Share**.
+  * Added a **Delete** link to draft opportunities.
 * Made changes to the dashboard/homepage:
-  * Added a Saved opportunities section.
-  * Changed the Delete column header to “Renew”. This option displays for Open opportunities that have been open for 91+ days.
-* Added a Save feature on opportunities—users can click the gold star on the opportunity card and details to save an opportunity. 
+  * Added a **Saved opportunities** section.
+  * Changed the **Delete** column header to **Renew**. This option displays for open opportunities that have been open for 91+ days.
+* Added a **Save** feature on opportunities—users can click the gold star on the opportunity card and details to save an opportunity. 
 * Updated the opportunity CSV on the Administrator, Agency and Community dashboards to indicate when an opportunity is disabled because a community is disabled (disabled will be added to the name) 
-* Added a functionality to move an opportunity from Open status to Not Open when there has been 120+ days of inactivity on an opportunity.
+* Added a functionality to move an opportunity from **Open** status to **Not Open** when there has been 120+ days of inactivity on an opportunity.
 
 ### Bug Fixes
 
