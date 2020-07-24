@@ -6,6 +6,43 @@ category: what-is-new
 title: What's new with Open Opportunities
 ---
 
+## Changes made July 24, 2020
+### Site-wide enhancements
+
+* Added several messaging alerts and modals to display messaging to users, including:
+  * A warning alert that displays when an opportunity is about to expire.
+  * A confirmation modal that displays when a user deletes an opportunity.
+  * A warning alert that displays when a user’s profile is missing a biography and skills.
+  * A confirmation modal that displays when a user clicks Cancel on an opportunity.
+  * A confirmation alert that displays when a user clicks to save a search.
+  * A success alert that displays when a user clicks to Renew an opportunity
+  * A warning alert that displays when a user has one or more opportunities that are at 91 days of inactivity and are in Open status. 
+
+* Created several new emails to send to:
+  * Opportunity creators on the day an opportunity is due and it hasn’t been completed.
+  * Opportunity creators 7 days before an opportunity is due.
+  * Opportunity creator and applicants when the opportunity is overdue.
+  * A user when their saved search is 5 days from expiring, reminding them to renew the opportunity if they’d like to keep it.
+  * Opportunity creators on the 91st calendar day of inactivity, asking if they’d like to keep it their opportunity open.
+  * Opportunity creators when their opportunity has been inactive for 120+ days letting them know it has been removed from search due to inactivity.
+
+* Updated administration so that when a community manager or sitewide administrator is logged in, they are not able to add a participant to a detail or lateral that is In progress, Open, or Not open.
+* Made several updates to the opportunity page:
+  * Moved the Duplicate and Share to the same line as skills. 
+  * Moved Edit and Cancel to a new line below Duplicate and Share.
+  * Added a Delete link to draft opportunities.
+* Made changes to the dashboard/homepage:
+  * Added a Saved opportunities section.
+  * Changed the Delete column header to “Renew”. This option displays for Open opportunities that have been open for 91+ days.
+* Added a Save feature on opportunities—users can click the gold star on the opportunity card and details to save an opportunity. 
+* Updated the opportunity CSV on the Administrator, Agency and Community dashboards to indicate when an opportunity is disabled because a community is disabled (disabled will be added to the name) 
+* Added a functionality to move an opportunity from Open status to Not Open when there has been 120+ days of inactivity on an opportunity.
+
+### Bug Fixes
+
+* Fixed issue where estimated completion date did not appear in the blue box on the opportunity detail page.
+
+
 ## Changes made July 10, 2020
 ### Site-wide enhancements
 
@@ -61,22 +98,7 @@ title: What's new with Open Opportunities
 * Fixed issue so that field headers don’t display when a field is left blank on the create opportunity page.
 * Fixed issue so that skills links on the home page don’t go to the “Oops” page.
 
-
-## Changes made June 12, 2020
-### Site-wide enhancements
-
-* Updated the application process for applying to details and laterals. 
-  * The application process includes a statement of interest, a resume selection field, and a sidebar with help text.
-  * Opportunity creators can view the statement of interest, and resume when reviewing detail or lateral applications.
-  * Applicants can update their applications while the detail or lateral opportunity is **Accepting applications**
-* Updated how resumes are handled during the application process for a detail or lateral opportunity:
-  * Applicants can upload resumes from USAJOBS.
-  * Applicants and opportunity creators can download and view resumes that were uploaded through USAJOBS.
-  * Applicants and opportunity creators can view resumes created from the USAJOBS resume builder tool.
-* Created a confirmation page and **What happens next** page that displays when an applicant submits their application for a detail or lateral opportunity.
-* Added a column called **Community** to the manage opportunities page so that sitewide administrators know which opportunities are part of a community.
-* Added the community name under the agency name to display on the opportunity preview and overview page. 
-
+[June 12, 2020](jun-12-2020)  
 [May 29, 2020](may-29-2020)  
 [May 15, 2020](may-15-2020)  
 [May 1, 2020](may-01-2020)  
