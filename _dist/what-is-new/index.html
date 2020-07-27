@@ -40,8 +40,8 @@
   "@type": "WebPage",
   "mainEntityOfPage": "/openopps-help/what-is-new/",
   "headline": "What&#39;s new with Open Opportunities",
-  "datePublished": "2020-07-10T12:48:34-04:00",
-  "dateModified": "2020-07-10T12:48:34-04:00",
+  "datePublished": "2020-07-27T10:32:51-04:00",
+  "dateModified": "2020-07-27T10:32:51-04:00",
   "description": "Help with using Open Opportunities",
   "author": {
     "@type": "Organization",
@@ -2054,8 +2054,58 @@ svg.usajobs-footer--openopps__logo {
             <main class="usajobs-content-well" id="main-content">
               <div class="usajobs-openopps-help-center-article__container">
                 <h1 id="article-title" class="usajobs-openopps-help-center-article__title">What's new with Open Opportunities</h1>
-                <h2 id="changes-made-july-10-2020">Changes made July 10, 2020</h2>
+                <h2 id="changes-made-july-24-2020">Changes made July 24, 2020</h2>
 <h3 id="site-wide-enhancements">Site-wide enhancements</h3>
+
+<ul>
+  <li>Added several messaging alerts and modals to display messaging to users, including:
+    <ul>
+      <li>A warning alert that displays when an opportunity is about to expire.</li>
+      <li>A confirmation modal that displays when a user deletes an opportunity.</li>
+      <li>A warning alert that displays when a user’s profile is missing a biography and skills.</li>
+      <li>A confirmation modal that displays when a user clicks <strong>Cancel</strong> on an opportunity.</li>
+      <li>A confirmation alert that displays when a user clicks to save a search.</li>
+      <li>A success alert that displays when a user clicks to <strong>Renew</strong> an opportunity</li>
+      <li>A warning alert that displays when a user has one or more opportunities that are at 91 days of inactivity and are in Open status.</li>
+    </ul>
+  </li>
+  <li>Created several new emails to send to:
+    <ul>
+      <li>Opportunity creators on the day an opportunity is due and it hasn’t been completed.</li>
+      <li>Opportunity creators 7 days before an opportunity is due.</li>
+      <li>Opportunity creator and applicants when the opportunity is overdue.</li>
+      <li>A user when their saved search is 5 days from expiring, reminding them to renew the opportunity if they’d like to keep it.</li>
+      <li>Opportunity creators on the 91st calendar day of inactivity, asking if they’d like to keep it their opportunity open.</li>
+      <li>Opportunity creators when their opportunity has been inactive for 120+ days letting them know it has been removed from search due to inactivity.</li>
+    </ul>
+  </li>
+  <li>Updated administration so that when a community manager or sitewide administrator is logged in, they are not able to add a participant to a detail or lateral that is In progress, Open, or Not open.</li>
+  <li>Made several updates to the opportunity page:
+    <ul>
+      <li>Moved the <strong>Duplicate</strong> and <strong>Share</strong> to the same line as skills.</li>
+      <li>Moved <strong>Edit</strong> and <strong>Cancel</strong> to a new line below <strong>Duplicate</strong> and <strong>Share</strong>.</li>
+      <li>Added a <strong>Delete</strong> link to draft opportunities.</li>
+    </ul>
+  </li>
+  <li>Made changes to the dashboard/homepage:
+    <ul>
+      <li>Added a <strong>Saved opportunities</strong> section.</li>
+      <li>Changed the <strong>Delete</strong> column header to <strong>Renew</strong>. This option displays for open opportunities that have been open for 91+ days.</li>
+    </ul>
+  </li>
+  <li>Added a <strong>Save</strong> feature on opportunities—users can click the gold star on the opportunity card and details to save an opportunity.</li>
+  <li>Updated the opportunity CSV on the Administrator, Agency and Community dashboards to indicate when an opportunity is disabled because a community is disabled (disabled will be added to the name)</li>
+  <li>Added a functionality to move an opportunity from <strong>Open</strong> status to <strong>Not Open</strong> when there has been 120+ days of inactivity on an opportunity.</li>
+</ul>
+
+<h3 id="bug-fixes">Bug Fixes</h3>
+
+<ul>
+  <li>Fixed issue where estimated completion date did not appear in the blue box on the opportunity detail page.</li>
+</ul>
+
+<h2 id="changes-made-july-10-2020">Changes made July 10, 2020</h2>
+<h3 id="site-wide-enhancements-1">Site-wide enhancements</h3>
 
 <ul>
   <li>Added a link to help center content explaining opportunity status.</li>
@@ -2080,7 +2130,7 @@ svg.usajobs-footer--openopps__logo {
   </li>
 </ul>
 
-<h3 id="bug-fixes">Bug Fixes</h3>
+<h3 id="bug-fixes-1">Bug Fixes</h3>
 
 <ul>
   <li>Removed the <strong>Remove</strong> link that was displayed underneath a user’s profile photo for non-sitewide administrators</li>
@@ -2089,7 +2139,7 @@ svg.usajobs-footer--openopps__logo {
 </ul>
 
 <h2 id="changes-made-june-26-2020">Changes made June 26, 2020</h2>
-<h3 id="site-wide-enhancements-1">Site-wide enhancements</h3>
+<h3 id="site-wide-enhancements-2">Site-wide enhancements</h3>
 
 <ul>
   <li>Updated the display of applicants for laterals—users who are not a community manager, sitewide admin or the opportunity owner, will only see an applicant count. They will not see the list of applicants.</li>
@@ -2118,7 +2168,7 @@ svg.usajobs-footer--openopps__logo {
   </li>
 </ul>
 
-<h3 id="bug-fixes-1">Bug Fixes</h3>
+<h3 id="bug-fixes-2">Bug Fixes</h3>
 
 <ul>
   <li>Fixed issue so users without additional profile information show up in change owner search.</li>
@@ -2126,30 +2176,8 @@ svg.usajobs-footer--openopps__logo {
   <li>Fixed issue so that skills links on the home page don’t go to the “Oops” page.</li>
 </ul>
 
-<h2 id="changes-made-june-12-2020">Changes made June 12, 2020</h2>
-<h3 id="site-wide-enhancements-2">Site-wide enhancements</h3>
-
-<ul>
-  <li>Updated the application process for applying to details and laterals.
-    <ul>
-      <li>The application process includes a statement of interest, a resume selection field, and a sidebar with help text.</li>
-      <li>Opportunity creators can view the statement of interest, and resume when reviewing detail or lateral applications.</li>
-      <li>Applicants can update their applications while the detail or lateral opportunity is <strong>Accepting applications</strong></li>
-    </ul>
-  </li>
-  <li>Updated how resumes are handled during the application process for a detail or lateral opportunity:
-    <ul>
-      <li>Applicants can upload resumes from USAJOBS.</li>
-      <li>Applicants and opportunity creators can download and view resumes that were uploaded through USAJOBS.</li>
-      <li>Applicants and opportunity creators can view resumes created from the USAJOBS resume builder tool.</li>
-    </ul>
-  </li>
-  <li>Created a confirmation page and <strong>What happens next</strong> page that displays when an applicant submits their application for a detail or lateral opportunity.</li>
-  <li>Added a column called <strong>Community</strong> to the manage opportunities page so that sitewide administrators know which opportunities are part of a community.</li>
-  <li>Added the community name under the agency name to display on the opportunity preview and overview page.</li>
-</ul>
-
-<p><a href="may-29-2020">May 29, 2020</a><br />
+<p><a href="jun-12-2020">June 12, 2020</a><br />
+<a href="may-29-2020">May 29, 2020</a><br />
 <a href="may-15-2020">May 15, 2020</a><br />
 <a href="may-01-2020">May 1, 2020</a><br />
 <a href="apr-17-2020">April 17, 2020</a><br />
