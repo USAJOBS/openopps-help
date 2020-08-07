@@ -99,7 +99,7 @@ title: What's new with Open Opportunities
 * Fixed the broken help center link on the landing page next to **Your opportunities**.
 
 
-[June 19, 2020](jun-19-2020)  
+[June 26, 2020](jun-26-2020)  
 [June 12, 2020](jun-12-2020)  
 [May 29, 2020](may-29-2020)  
 [May 15, 2020](may-15-2020)  
