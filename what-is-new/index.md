@@ -31,7 +31,7 @@ title: What's new with Open Opportunities
 
 ### Bug Fixes
 
-* Fixed issue so when a user archives more than one saved search, their saved searches does not disappear.
+* Fixed issue so when a user archives more than one saved search, their saved searches do not disappear.
 
 
 ## Changes made July 24, 2020
