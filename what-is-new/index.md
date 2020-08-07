@@ -29,7 +29,7 @@ title: What's new with Open Opportunities
 * Identified a more efficient method for storing calculated values.
 * Identified a more user centric metrics dashboard.
 
-### Bug Fixes
+### Bug fixes
 
 * Fixed issue so when a user archives more than one saved search, their saved searches do not disappear.
 
@@ -66,7 +66,7 @@ title: What's new with Open Opportunities
 * Updated the opportunity CSV on the Administrator, Agency and Community dashboards to indicate when an opportunity is disabled because a community is disabled (disabled will be added to the name) 
 * Added a functionality to move an opportunity from **Open** status to **Not Open** when there has been 120+ days of inactivity on an opportunity.
 
-### Bug Fixes
+### Bug fixes
 
 * Fixed issue where estimated completion date did not appear in the blue box on the opportunity detail page.
 
@@ -92,7 +92,7 @@ title: What's new with Open Opportunities
   * See an error message when trying to save more than 10 searches.
   * Added ability to receive email notifications by selecting an email notification checkbox. Unchecking the box turns off email notifications
 
-### Bug Fixes
+### Bug fixes
 
 * Removed the **Remove** link that was displayed underneath a user’s profile photo for non-sitewide administrators
 * Fixed issue so users can’t apply for details or laterals twice.
