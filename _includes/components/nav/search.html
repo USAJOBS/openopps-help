@@ -1,39 +1,76 @@
 <header class="usajobs-site-header" role="banner" aria-label="header">
   {% include components/nav/_gov-banner.html %}
-  <nav class="usajobs-nav usajobs-nav--full_bleed usajobs-nav--search" role="navigation" aria-label="main navigation" data-object="nav" data-behavior="closeOnLoad">
+  <nav
+    class="usajobs-nav usajobs-nav--full_bleed usajobs-nav--search"
+    role="navigation"
+    aria-label="main navigation"
+    data-object="nav"
+    data-behavior="closeOnLoad"
+  >
     <div class="usajobs-nav__body usajobs-nav--full_bleed__body">
       <div class="usajobs-nav__header-container">
         <div class="usajobs-nav__header usajobs-nav--full_bleed__header">
           <div class="usajobs-nav__brand-container">
-            <a class="usajobs-nav__brand usajobs-nav--full_bleed__brand" href="/">
+            <a
+              class="usajobs-nav__brand usajobs-nav--full_bleed__brand"
+              href="/"
+            >
               <span class="logo" title="USAJOBS logo"></span>
             </a>
           </div>
           <div class="usajobs-nav__menu" id="usajobs-menu">
             <ul>
               <li class="usajobs-nav__menu-container usajobs-nav__account">
-                <a class="usajobs-nav__section-link menu-toggle" href="https://www.usajobs.gov/Applicant/MyAccount/Home/" title="Account">
-                  <span class="fas fa-user fa-fw" data-fa-transform="right-6"></span>
+                <a
+                  class="usajobs-nav__section-link menu-toggle"
+                  href="https://www.usajobs.gov/Applicant/MyAccount/Home/"
+                  title="Account"
+                >
+                  <span
+                    class="fas fa-user fa-fw"
+                    data-fa-transform="right-6"
+                  ></span>
                   <span class="usajobs-nav__account_name">Sign In</span>
                   <span class="usajobs-nav__first_name">Sign In</span>
                 </a>
               </li>
               <li class="usajobs-nav__menu-container usajobs-nav__help">
-                <a class="usajobs-nav__section-link" href="http://usajobs.github.io/Help" title="Help">
+                <a
+                  class="usajobs-nav__section-link"
+                  href="http://usajobs.github.io/Help"
+                  title="Help"
+                >
                   <span class="fas fa-question-circle fa-fw"></span>
                   Help
                 </a>
               </li>
-              <li class="usajobs-nav__menu-container usajobs-nav__menu-search" data-state="is-closed">
-                <a data-behavior="nav.menu.search-toggle" aria-controls="usajobs-search--vsearch" class="usajobs-nav__section-link usajobs-nav--search__section-link" href="/" title="Job Search">
-                  <span class="fas fa-search fa-fw" data-fa-transform="right-8"></span>
+              <li
+                class="usajobs-nav__menu-container usajobs-nav__menu-search"
+                data-state="is-closed"
+              >
+                <a
+                  data-behavior="nav.menu.search-toggle"
+                  aria-controls="usajobs-search--vsearch"
+                  class="usajobs-nav__section-link usajobs-nav--search__section-link"
+                  href="/"
+                  title="Job Search"
+                >
+                  <span
+                    class="fas fa-search fa-fw"
+                    data-fa-transform="right-8"
+                  ></span>
                   Search
                 </a>
               </li>
             </ul>
           </div>
         </div>
-        <div id="usajobs-search--vsearch" class="usajobs-nav__search" aria-expanded="false" role="menu">
+        <div
+          id="usajobs-search--vsearch"
+          class="usajobs-nav__search"
+          aria-expanded="false"
+          role="menu"
+        >
           {% include components/nav/_search-form.html %}
         </div>
       </div>
