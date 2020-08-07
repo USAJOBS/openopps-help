@@ -6,6 +6,34 @@ category: what-is-new
 title: What's new with Open Opportunities
 ---
 
+## Changes made August 7, 2020
+### Site-wide enhancements
+
+* Revised the emails a user receives when:
+  * Their opportunity hasn’t been marked as completed. 
+  * Their opportunity has expired (updated subject line).
+* Revised emails to explain how to renew their opportunity.
+* Added an option for a community to use an external apply process. When the external apply process feature is turned on for a community, users who click **Apply** will leave Open Opportunities and go to another website to apply.
+* Added a new **Saved people** feature. Users can:
+  * Save a profile from the people search card view.
+  * See all saved profiles under a new **Saved people** tab.
+  * See suggested profiles under a new **Based on your job title** and **Based on your agency** section within the **Saved people** tab.
+* Removed the **See other people like you** section from the landing page.
+* Added a **Stories** feature on the **Administration** page. Sitewide administrators can:
+  * Add up to 12 stories.
+  * Add a name, photo, story text and a quote.
+  * Sort stories.
+* Added **Stories** to the signed out landing page.
+* Implemented no downtime deployments.
+* Increased database query performance on the user list and user export queries.
+* Identified a more efficient method for storing calculated values.
+* Identified a more user centric metrics dashboard.
+
+### Bug Fixes
+
+* Fixed issue so when a user archives more than one saved search, their saved searches does not disappear.
+
+
 ## Changes made July 24, 2020
 ### Site-wide enhancements
 
@@ -70,34 +98,8 @@ title: What's new with Open Opportunities
 * Fixed issue so users can’t apply for details or laterals twice.
 * Fixed the broken help center link on the landing page next to **Your opportunities**.
 
-## Changes made June 26, 2020
-### Site-wide enhancements
 
-* Updated the display of applicants for laterals—users who are not a community manager, sitewide admin or the opportunity owner, will only see an applicant count. They will not see the list of applicants.
-* Updated the display of **View** application for laterals and details—the link will only display for creators, community managers, and sitewide administrators.
-* Updated the display of **View** profile—the link will display for all applicants, creators and sitewide admins for one-time and ongoing opportunities.
-* Added functionality to applicant selection feature
-  * If an applicant is marked as **Not-selected**, the user can change the status to **Selected**.
-  * If an applicant has been marked as **Selected**, the user can change the status to **Not-selected**.
-* Added ability to sort by **Community** on the manage opportunities page.
-* Moved the **Commitment** search filter under **Community** on all search pages.
-* Added ability for opportunity participants to print a certificate of completion after completing an opportunity.
-* Added ability to assign any user as an opportunity owner when the community is **Open**.
-* Added ability for creators and admins to mark a participant as complete after an opportunity has closed.
-* Added functionality to add a co-owner to an opportunity including:
-  * An **Add co-owner** button and flow that lets users search for and add a co-owner.
-  * The ability for users to see all opportunities for which they are a co-owner on their dashboard.
-  * A new **Co-owners** section on the opportunity page that displays all the co-owners of the opportunity.
-  * A **Make primary** link that lets a user change the primary owner of the opportunity.
-  * The ability for opportunity creators to remove co-owners from an opportunity. 
-  * Displaying a confirmation modal when a user requests to remove a co-owner from an opportunity.
-
-### Bug Fixes
-
-* Fixed issue so users without additional profile information show up in change owner search.
-* Fixed issue so that field headers don’t display when a field is left blank on the create opportunity page.
-* Fixed issue so that skills links on the home page don’t go to the “Oops” page.
-
+[June 19, 2020](jun-19-2020)  
 [June 12, 2020](jun-12-2020)  
 [May 29, 2020](may-29-2020)  
 [May 15, 2020](may-15-2020)  
