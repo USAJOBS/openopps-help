@@ -6,6 +6,32 @@ category: what-is-new
 title: What's new with Open Opportunities
 ---
 
+## Changes made August 21, 2020
+### Site-wide enhancements
+
+* Added an overview page and individual story pages for testimonials.
+* Included a header for the testimonials section.
+* Added ability for a user to save another user’s profile.
+* Updated metrics for sitewide admins to include the number of laterals.
+* Updated the saved search feature to have a unique name.
+* Added ability to save an opportunity from the search results page.
+* Added help content for saved searches.
+* Updated the applicant section on an opportunity so it expands when **Continue accepting applications** is toggled on.
+* Updated the location field on the **Create opportunity** page to use autocomplete.
+* Increased the character limit in the community description field.
+* Added markdown to the title and subtitle fields on the community administration page. 
+* Made several changes to support the **NOAA community**.  Added the following:
+  * A **Line Office and Program** section to the Manage Community page.
+  * The ability to add, edit and delete an existing **Line Office or Program**.
+  * A **Community LOM** column to the **Manage** users section.
+  * A **Line Office and Program** section to the profile for NOAA community members.
+  * The Line Office and Program field to the user csv.
+  
+### Bug Fixes
+
+* Fixed issue so that the saved search message displays when an additional filter is added to a search.
+* Fixed issue  to include a community image in the email for a new opportunity.
+
 ## Changes made August 7, 2020
 ### Site-wide enhancements
 
@@ -32,7 +58,6 @@ title: What's new with Open Opportunities
 ### Bug fixes
 
 * Fixed issue so when a user archives more than one saved search, their saved searches do not disappear.
-
 
 ## Changes made July 24, 2020
 ### Site-wide enhancements
@@ -71,34 +96,7 @@ title: What's new with Open Opportunities
 * Fixed issue where estimated completion date did not appear in the blue box on the opportunity detail page.
 
 
-## Changes made July 10, 2020
-### Site-wide enhancements
-
-* Added a link to help center content explaining opportunity status.
-* Added a link to help center content explaining application status.
-* Added functionality so that co-owners of an opportunity can’t apply for that opportunity.
-* Added functionality so that applicants of an opportunity can’t be co-owners of that opportunity.
-* Added the ability for creators and system administrators to mark an applicant as “Complete” after an opportunity has closed.
-* Updated the column label **Last updated** to **Application last updated**.
-* Added the ability for users to save a search. Users can have a maximum of 10 saved searches. This change includes the ability to:
-  * Click the **Save this search** link below the search box to create a saved search.
-  * View **Participated** and **Saved opportunities** on the home page dashboard when a user is signed in.
-  * View saved searches under a new **Saved searches** tab on the home page dashboard – this includes active and archived saved searches.
-  * Sort saved searches by **Last updated** and **Name**.
-  * View their results from an active saved search.
-  * Edit a saved search when viewing the results.
-  * Delete a saved search.
-  * Renew a saved search for another year.
-  * See an error message when trying to save more than 10 searches.
-  * Added ability to receive email notifications by selecting an email notification checkbox. Unchecking the box turns off email notifications
-
-### Bug fixes
-
-* Removed the **Remove** link that was displayed underneath a user’s profile photo for non-sitewide administrators
-* Fixed issue so users can’t apply for details or laterals twice.
-* Fixed the broken help center link on the landing page next to **Your opportunities**.
-
-
+[July 10, 2020](jul-10-2020)  
 [June 26, 2020](jun-26-2020)  
 [June 12, 2020](jun-12-2020)  
 [May 29, 2020](may-29-2020)  
