@@ -9,11 +9,10 @@ title: What's new with Open Opportunities
 ## Changes made August 21, 2020
 ### Site-wide enhancements
 
-* Added an overview page and individual story pages for testimonials.
-* Included a header for the testimonials section.
-* Added ability for a user to save another user’s profile.
+* Added the ability to display user stories and testimonials on the site. 
+* Added ability for a user to save another user’s profile to a **Saved People** page.
 * Updated metrics for sitewide admins to include the number of laterals.
-* Updated the saved search feature to have a unique name.
+* Updated the saved search feature to require unique name.
 * Added ability to save an opportunity from the search results page.
 * Added help content for saved searches.
 * Updated the applicant section on an opportunity so it expands when **Continue accepting applications** is toggled on.
