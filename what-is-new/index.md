@@ -6,6 +6,55 @@ category: what-is-new
 title: What's new with Open Opportunities
 ---
 
+## Changes made September 4, 2020
+### Site-wide enhancements
+#### Changes to support the NOAA community
+
+* Added a community **Line Office Manager** toggle within the **Manage Community** feature
+* Created an approval email that goes to the **Line Office Manager** when a new opportunity is posted.
+* Added a message to community members to include a line office and program in their profile.
+
+#### Changes to the Create Opportunity form
+
+* Changed **Ongoing** to **Recurring** on both **Create opportunity** and **Search**.
+* Removed the text **"Requires up to 20% of a participants…"** if the creator selects **Recurring**.
+* Removed the text **"Allow virtual participation"**.
+* Added a **Negotiable** option to the **Where** section.
+* Removed sample **Estimated completion date**.
+* Added new field for **Host office will pay for travel expenses?**
+* Added new **Line office** dropdown.
+* Added new **Program office** dropdown.
+
+#### Changes to opportunity overview page:
+
+* Added a link so the opportunity creator can email all non-selected applicants.
+* Moved the warning text above the **Next step** button.
+* Removed the **Cancel** link (next to Edit).
+* Updated the location text to say **“Virtual and/or [location]”** when both are selected on the create opportunity form.
+* Updated the blue box to display a new **Travel Expenses paid** section.
+
+#### Other changes
+
+* Added markup to the **Stories** section.
+* Added co-owners to the emails that go to opportunity creators.
+* Updated the text in the **Do you want to participate?** modal.
+* Added text-based versions of all emails.
+* Added the number of results beside each filter on the **Search** page.
+* Changed the label from **Total assigned** to **Total selected** in the interactions section of the **Administrator** dashboard.
+* Added ability for site-wide admins to change the community on any opportunity.
+* Added **Line office and Program** to the **Manage opportunities** dashboard.
+
+### Bug Fixes
+We fixed the following issues:
+* Slow response time on **Manage Opportunities** for administrators.
+* 508 issues on the opportunity card and home page.
+* Renew column not displaying for co-owners (for opportunities with 91+ days of inactivity).
+* Overflowing content in the **What happens next** box on the opportunity page 
+* Incorrect sizing of the detail icon on the **Create an opportunity** form.
+* Long opportunity title overlapping the Save link on the opportunity results page.
+* Displaying incorrect selectee count and name information in opportunities export from a certain community.
+* Slow page load when navigating to manage opportunities within a certain community.
+
 ## Changes made August 21, 2020
 ### Site-wide enhancements
 
@@ -58,43 +107,8 @@ title: What's new with Open Opportunities
 
 * Fixed issue so when a user archives more than one saved search, their saved searches do not disappear.
 
-## Changes made July 24, 2020
-### Site-wide enhancements
 
-* Added several messaging alerts and modals to display messaging to users, including:
-  * A warning alert that displays when an opportunity is about to expire.
-  * A confirmation modal that displays when a user deletes an opportunity.
-  * A warning alert that displays when a user’s profile is missing a biography and skills.
-  * A confirmation modal that displays when a user clicks **Cancel** on an opportunity.
-  * A confirmation alert that displays when a user clicks to save a search.
-  * A success alert that displays when a user clicks to **Renew** an opportunity
-  * A warning alert that displays when a user has one or more opportunities that are at 91 days of inactivity and are in Open status. 
-
-* Created several new emails to send to:
-  * Opportunity creators on the day an opportunity is due and it hasn’t been completed.
-  * Opportunity creators 7 days before an opportunity is due.
-  * Opportunity creator and applicants when the opportunity is overdue.
-  * A user when their saved search is 5 days from expiring, reminding them to renew the opportunity if they’d like to keep it.
-  * Opportunity creators on the 91st calendar day of inactivity, asking if they’d like to keep it their opportunity open.
-  * Opportunity creators when their opportunity has been inactive for 120+ days letting them know it has been removed from search due to inactivity.
-
-* Updated administration so that when a community manager or sitewide administrator is logged in, they are not able to add a participant to a detail or lateral that is In progress, Open, or Not open.
-* Made several updates to the opportunity page:
-  * Moved the **Duplicate** and **Share** to the same line as skills. 
-  * Moved **Edit** and **Cancel** to a new line below **Duplicate** and **Share**.
-  * Added a **Delete** link to draft opportunities.
-* Made changes to the dashboard/homepage:
-  * Added a **Saved opportunities** section.
-  * Changed the **Delete** column header to **Renew**. This option displays for open opportunities that have been open for 91+ days.
-* Added a **Save** feature on opportunities—users can click the gold star on the opportunity card and details to save an opportunity. 
-* Updated the opportunity CSV on the Administrator, Agency and Community dashboards to indicate when an opportunity is disabled because a community is disabled (disabled will be added to the name) 
-* Added a functionality to move an opportunity from **Open** status to **Not Open** when there has been 120+ days of inactivity on an opportunity.
-
-### Bug fixes
-
-* Fixed issue where estimated completion date did not appear in the blue box on the opportunity detail page.
-
-
+[July 24, 2020](jul-24-2020)  
 [July 10, 2020](jul-10-2020)  
 [June 26, 2020](jun-26-2020)  
 [June 12, 2020](jun-12-2020)  
