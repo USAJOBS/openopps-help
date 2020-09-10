@@ -40,6 +40,9 @@
 <loc>/openopps-help/</loc>
 </url>
 <url>
+<loc>/openopps-help/privacy/</loc>
+</url>
+<url>
 <loc>/openopps-help/what-is-new/</loc>
 </url>
 <url>
@@ -47,9 +50,6 @@
 </url>
 <url>
 <loc>/openopps-help/profile/</loc>
-</url>
-<url>
-<loc>/openopps-help/privacy/</loc>
 </url>
 <url>
 <loc>/openopps-help/what-is-new/jan-11-2019/</loc>
@@ -134,6 +134,9 @@
 </url>
 <url>
 <loc>/openopps-help/opportunity/save-search/</loc>
+</url>
+<url>
+<loc>/openopps-help/opportunity/select-applicant/</loc>
 </url>
 <url>
 <loc>/openopps-help/getting-started/top-10-tips/</loc>
