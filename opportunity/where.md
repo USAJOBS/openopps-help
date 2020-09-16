@@ -4,7 +4,7 @@ layout: article
 section: opportunity
 category: opportunity
 sidenav: where
-title: What's the difference between virtual and in-person opportunity?
+title: What's the difference between a virtual and in-person opportunity?
 ---
 
 ## Participating in a virtual or in-person opportunity
