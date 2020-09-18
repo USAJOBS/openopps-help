@@ -6,6 +6,46 @@ category: what-is-new
 title: What's new with Open Opportunities
 ---
 
+## Changes made September 18, 2020
+### Site-wide enhancements
+
+* Launched a new feature that lets opportunity creators invite people to an opportunity. The new feature includes:
+  * A modal that displays when a user is invited to an opportunity.
+  * A success banner that displays when a user is successfully invited to an opportunity.
+* Made a few changes to the **Our customers’ stories** section, including:
+  * Increased the height of the banner on the stories page.
+  * Adjusted the font size of the text in the See what people are saying about us box.
+  * Added ability to include **Agency** name in stories.
+  * Adjusted the size of the story card and image on the stories preview page.
+* Updated the opportunity page to collapse the **Not-selected** section after an opportunity creator clicks **Next steps**.
+* Changed the label **Cancel your application** to **Withdraw your application**. 
+
+### Changes to support the NOAA community
+
+* Added **Estimated start date** and **Estimated completion date** fields to the **Create opportunity** form.
+* Added **Line office** and **Program** fields (if included) to the blue box on the opportunity detail page.
+* Changed the **Grade** field label to **Grade/Band** on the **Create opportunity** form. 
+* Added ability to include multiple **Grade/Bands** and updated how they’re displayed on detail and lateral opportunities.
+* Added ability to search detail opportunities by **Grade** range.
+* Updated opportunity preview page and duplicate feature to include all new fields. 
+* Added a toggle to the **Manage community** page so users can turn “optional fields” on or off to display on the **Create opportunity** form.
+* Added a toggle to **Community** administration page to specify office naming conventions.
+* Added an **Apply confirmation modal** and updated the text for detail and lateral opportunities.
+* Added help link for Step 2 on the **Create opportunity** page.
+* Updated permissions so that only site-wide administrators can add or edit the following fields on the community attribute table:
+  * Community type
+  * Target audience
+  * Duration
+  * Agency
+* Added **Community attributes** section to display information on the **Community profile** page.
+* Added **Community marketing** content section to the **Administration** dashboard.
+
+### Bug fixes
+
+* Fixed the results page so it’s no longer blank when a user searches for a name on the Manage users page.
+* Fixed the preview display of **Estimated start** or **Estimated completion date**.
+
+
 ## Changes made September 4, 2020
 ### Site-wide enhancements
 #### Changes to support the NOAA community
@@ -80,34 +120,8 @@ We fixed the following issues:
 * Fixed issue so that the saved search message displays when an additional filter is added to a search.
 * Fixed issue  to include a community image in the email for a new opportunity.
 
-## Changes made August 7, 2020
-### Site-wide enhancements
 
-* Revised the emails a user receives when:
-  * Their opportunity hasn’t been marked as completed. 
-  * Their opportunity has expired (updated subject line).
-* Revised emails to explain how to renew their opportunity.
-* Added an option for a community to use an external apply process. When the external apply process feature is turned on for a community, users who click **Apply** will leave Open Opportunities and go to another website to apply.
-* Added a new **Saved people** feature. Users can:
-  * Save a profile from the people search card view.
-  * See all saved profiles under a new **Saved people** tab.
-  * See suggested profiles under a new **Based on your job title** and **Based on your agency** section within the **Saved people** tab.
-* Removed the **See other people like you** section from the landing page.
-* Added a **Stories** feature on the **Administration** page. Sitewide administrators can:
-  * Add up to 12 stories.
-  * Add a name, photo, story text and a quote.
-  * Sort stories.
-* Added **Stories** to the signed out landing page.
-* Implemented no downtime deployments.
-* Increased database query performance on the user list and user export queries.
-* Identified a more efficient method for storing calculated values.
-* Identified a more user centric metrics dashboard.
-
-### Bug fixes
-
-* Fixed issue so when a user archives more than one saved search, their saved searches do not disappear.
-
-
+[August 7, 2020](aug-07-2020)  
 [July 24, 2020](jul-24-2020)  
 [July 10, 2020](jul-10-2020)  
 [June 26, 2020](jun-26-2020)  
