@@ -3,9 +3,10 @@ permalink: opportunity/extend-opportunity/
 layout: article
 section: opportunity
 category: opportunity
-sidenav: extend-opportunity
+sidenav: opportunity-extend-opportunity
 title: How to extend an opportunity
 ---
+
 You can extend the estimated completion date of an opportunity if you need more time to complete the work.
 
 To extend an opportunity:
