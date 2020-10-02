@@ -6,6 +6,58 @@ category: what-is-new
 title: What's new with Open Opportunities
 ---
 
+## Changes made October 2, 2020
+### Site-wide enhancements
+
+* Added a **Community** link in the top navigation.
+* Added profile pages for each community.
+* Added markdown to the community manager field in the **Community attributes** page.
+* Added a toggle for custom survey links to the community attributes page
+* Made the following changes to the **Create opportunity** form:
+  * Changed the field label and help text from Series to **Occupational series**.
+  * Added placeholder text in the date fields.
+  * Updated error messaging for start and end date fields.
+* Added a new toggle so administrators can display or not display a community on the **Communities** page.
+* Removed **Internships** link from the navigation.
+* Made the following changes to the stories and testimonials section:
+  * Set image size to 300x300.
+  * Added photos to the See what others are saying about Open Opportunities section.
+  * Split name into two fields on the testimonials section of community attributes.
+  * Changed the link below a testimonial to only display first name.
+  * Added featured stories to the main search page.
+* Added the ability to invite someone to apply to an opportunity.
+* Updated default text on the opportunity detail when no applicants have applied.
+* Updated how you select a community during the opportunity creation process.
+* Added ability for users to search for members by community.
+* Added a field for adding related skills and series to a community.
+* Moved **How often do you need this time?** field under **How many hours do you need?** on the **Create opportunity** form.
+* Added ability to run reports on applicant statistics.
+* Added all new fields to the opportunity csv file.
+* Added custom survey links to the complete emails.
+* Listed community managers on the community profile page.
+* Added an index page listing all communities.
+* Added help content for the following:
+  * What’s the difference between an in person and virtual opportunity.
+  * How to select applicants.
+* Updated the modal display when a user applies for a NOAA opportunity.
+* Added default help text to the invite to opportunity search box.
+* Added the invited to apply section to the signed in dashboard.
+
+### Changes to support the NOAA community
+
+* Updated the NOAA community to include **Line office and Program office** fields:
+  * Added ability to search by these fields.
+  * Added these fields to the **Manage User** page.
+  * Added a banner encouraging users to add these fields to their profile.
+  * Added a toggle to require applicants and creators to have a Line office and Program office in their profile.
+  * Added warning message for applicants and creators when missing Line office and Program office from their profile
+
+### Bug Fixes
+
+* Fixed issue so users don’t have to select a new image (if there is an existing image) when editing a testimonial.
+* Fixed image rendering issue for stories on mobile.
+* Fixed punctuation appearing twice in user stories.
+
 ## Changes made September 18, 2020
 ### Site-wide enhancements
 
@@ -95,32 +147,7 @@ We fixed the following issues:
 * Displaying incorrect selectee count and name information in opportunities export from a certain community.
 * Slow page load when navigating to manage opportunities within a certain community.
 
-## Changes made August 21, 2020
-### Site-wide enhancements
-
-* Added the ability to display user stories and testimonials on the site. 
-* Added ability for a user to save another user’s profile to a **Saved People** page.
-* Updated metrics for sitewide admins to include the number of laterals.
-* Updated the saved search feature to require unique name.
-* Added ability to save an opportunity from the search results page.
-* Added help content for saved searches.
-* Updated the applicant section on an opportunity so it expands when **Continue accepting applications** is toggled on.
-* Updated the location field on the **Create opportunity** page to use autocomplete.
-* Increased the character limit in the community description field.
-* Added markdown to the title and subtitle fields on the community administration page. 
-* Made several changes to support the **NOAA community**.  Added the following:
-  * A **Line Office and Program** section to the Manage Community page.
-  * The ability to add, edit and delete an existing **Line Office or Program**.
-  * A **Community LOM** column to the **Manage** users section.
-  * A **Line Office and Program** section to the profile for NOAA community members.
-  * The Line Office and Program field to the user csv.
-  
-### Bug Fixes
-
-* Fixed issue so that the saved search message displays when an additional filter is added to a search.
-* Fixed issue  to include a community image in the email for a new opportunity.
-
-
+[August 21, 2020](aug-21-2020)  
 [August 7, 2020](aug-07-2020)  
 [July 24, 2020](jul-24-2020)  
 [July 10, 2020](jul-10-2020)  
