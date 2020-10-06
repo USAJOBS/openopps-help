@@ -7,6 +7,6 @@
 *.sublime-*
 npm-debug.log
 node_modules
-_dist/package-lock.json
 .ruby-gemset
 .ruby-version
+_dist/
