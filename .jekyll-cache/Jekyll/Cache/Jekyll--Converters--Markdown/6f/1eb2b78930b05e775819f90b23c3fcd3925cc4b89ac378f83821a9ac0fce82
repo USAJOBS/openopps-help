@@ -1,0 +1,39 @@
+I"{<h2 id="site-wide-enhancements">Site-wide enhancements</h2>
+
+<ul>
+  <li>Revised the emails a user receives when:
+    <ul>
+      <li>Their opportunity hasn’t been marked as completed.</li>
+      <li>Their opportunity has expired (updated subject line).</li>
+    </ul>
+  </li>
+  <li>Revised emails to explain how to renew their opportunity.</li>
+  <li>Added an option for a community to use an external apply process. When the external apply process feature is turned on for a community, users who click <strong>Apply</strong> will leave Open Opportunities and go to another website to apply.</li>
+  <li>Added a new <strong>Saved people</strong> feature. Users can:
+    <ul>
+      <li>Save a profile from the people search card view.</li>
+      <li>See all saved profiles under a new <strong>Saved people</strong> tab.</li>
+      <li>See suggested profiles under a new <strong>Based on your job title</strong> and <strong>Based on your agency</strong> section within the <strong>Saved people</strong> tab.</li>
+    </ul>
+  </li>
+  <li>Removed the <strong>See other people like you</strong> section from the landing page.</li>
+  <li>Added a <strong>Stories</strong> feature on the <strong>Administration</strong> page. Sitewide administrators can:
+    <ul>
+      <li>Add up to 12 stories.</li>
+      <li>Add a name, photo, story text and a quote.</li>
+      <li>Sort stories.</li>
+    </ul>
+  </li>
+  <li>Added <strong>Stories</strong> to the signed out landing page.</li>
+  <li>Implemented no downtime deployments.</li>
+  <li>Increased database query performance on the user list and user export queries.</li>
+  <li>Identified a more efficient method for storing calculated values.</li>
+  <li>Identified a more user centric metrics dashboard.</li>
+</ul>
+
+<h2 id="bug-fixes">Bug fixes</h2>
+
+<ul>
+  <li>Fixed issue so when a user archives more than one saved search, their saved searches do not disappear.</li>
+</ul>
+:ET

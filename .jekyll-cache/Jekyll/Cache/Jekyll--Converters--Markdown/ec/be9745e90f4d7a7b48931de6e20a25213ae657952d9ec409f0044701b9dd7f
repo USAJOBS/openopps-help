@@ -1,0 +1,66 @@
+I"<h3 id="sitewide-enhancements">Sitewide enhancements</h3>
+
+<ul>
+  <li>Updated sitewide opportunity .csv file to show in progress metrics.</li>
+</ul>
+
+<h3 id="state-department-internship-program-changes">State Department Internship Program changes</h3>
+
+<h4 id="content-changes">Content changes</h4>
+
+<ul>
+  <li>Updated content to clarify the closing time of 11:59 p.m. ET and to submit prior to 11:59 p.m. ET</li>
+  <li>Added new content to the Update modal for State internships to clarify you must submit if you update the application.</li>
+  <li>Updated content on the Next Steps page of the internship application to describe when data is pulled from the USAJOBS profile.</li>
+  <li>Added content about how to update an application to the What’s Next page.</li>
+  <li>Updated student application submitted email to include information on how to update your application.</li>
+  <li>Updated the applicant status labels – changed Selected to Primary Select and Alternate to Alternate Select.</li>
+</ul>
+
+<h4 id="changes-to-community-member-profile-managing-communities-and-managing-internships">Changes to community member profile, managing communities and managing internships</h4>
+
+<ul>
+  <li>Added bureau and office/post to State community members profile.</li>
+  <li>Added a tip for State community members to add a bureau and office/post to their profile (if they don’t have one).</li>
+  <li>Added bureau and office/post to the state user dashboard.</li>
+  <li>Added functionality so the approver email is only sent to the community manager associated to the bureau and office/post. If no community manager is associated, all community managers will continue to receive the email.</li>
+  <li>Removed the “virtual” option when creating a student internship.</li>
+  <li>Added functionality so community managers can add, edit or delete the bureau and office/post data on their own.</li>
+  <li>Added functionality to restrict cycle from being changed once an internship is approved.</li>
+</ul>
+
+<h4 id="metrics-updates">Metrics updates</h4>
+
+<ul>
+  <li>Added drafts to the State internship dashboard metrics.</li>
+  <li>Updated interactions metrics.</li>
+</ul>
+
+<h4 id="file-download-updates">File download updates</h4>
+
+<ul>
+  <li>Updated State internship .csv file to add number of positions and locations</li>
+  <li>Updated the State user .csv file to include bureau and office/post for users</li>
+  <li>Updated the State .csv interactions download to add counts for primary selections, alternate selections and successfully completed</li>
+</ul>
+
+<h4 id="audit-and-tracking-data-updates">Audit and tracking data updates</h4>
+
+<ul>
+  <li>Added tracking for application submit and update dates.</li>
+  <li>Added tracking for who deleted an internship, including task number, title and creator.</li>
+  <li>Added functionality so internships will no longer go back to submit status when edited after being approved.</li>
+  <li>Added ATP close date on Open Opportunities cycle page.</li>
+</ul>
+
+<h3 id="bugs-fixed">Bugs fixed</h3>
+
+<ul>
+  <li>Fixed the link in the State submitted application email to correctly take students to their dashboard.</li>
+  <li>Fixed metrics on State incomplete applications dashboard.</li>
+  <li>Resolved issue where community managers can’t change the owner of an internship.</li>
+  <li>Resolved issue where community managers can’t see the applicants on the internship.</li>
+  <li>Fixed issue where Manage User search wouldn’t allow for full name search.</li>
+  <li>Resolved issue where iPhone loads pictures sideways on user profile.</li>
+</ul>
+:ET

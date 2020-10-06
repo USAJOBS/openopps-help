@@ -1,0 +1,24 @@
+I"Ñ<h3 id="sitewide-enhancements">Sitewide enhancements</h3>
+
+<ul>
+  <li>Added a Community Manager badge to identify users as Community Managers.</li>
+  <li>Created search results page specific for the Cyber community.</li>
+  <li>Added <strong>Community</strong> as a search filter.</li>
+  <li>Created a vanity URL for Federal Acquisitions Institute (FAI) to make it easier for community members to view and share opportunities specific to acquisitions.</li>
+  <li>Added functionality so opportunity creators can edit previously approved opportunities without sending it back through the workflow.</li>
+  <li>Added functionality to disable accounts after three years of inactivity to comply with security requirements and keep peoples data up-to-date.</li>
+  <li>Created a new <strong>Approver</strong> role. Approvers are users who need to approve opportunities without managing other users.</li>
+  <li>Updated the <strong>Share Opportunity</strong> email format to improve usability and readability.</li>
+  <li>Added default text for the <strong>Comment box</strong> on opportunity detail pages telling users they can enter comments.</li>
+  <li>Updated the <strong>Opportunity Submitted</strong> email to clarify content and make it consistent.</li>
+  <li>Removed duplicate badges from user profiles.</li>
+  <li>Updated functionality to not display the <strong>Posted date</strong> until the opportunity has been approved.</li>
+  <li>Stopped using past dates from the estimated completion field date.</li>
+</ul>
+
+<h3 id="department-of-state-student-internship-program-changes">Department of State Student Internship Program Changes</h3>
+
+<ul>
+  <li>Added the <strong>Bureau Internship Coordinator</strong> role as a label in profiles.</li>
+</ul>
+:ET

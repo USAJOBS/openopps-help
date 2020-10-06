@@ -1,0 +1,37 @@
+I"X<h3 id="new-design">New design</h3>
+
+<p>We updated the site to use the USAJOBS design system. This includes updates to the color, typography, button style, layout and more.</p>
+
+<h3 id="enhancements">Enhancements</h3>
+
+<p>We added:</p>
+
+<ul>
+  <li>The ability to assign participants to an opportunity, while keeping the opportunity open.</li>
+  <li>Labels to indicate where the opportunity is in the process–whether it’s assigning, in progress or completed.</li>
+  <li>The ability to mark participants with ‘task completed’.</li>
+  <li>An automatic notification to the opportunity creator when a new comment is added to an opportunity.</li>
+  <li>An option to cancel an opportunity.</li>
+  <li>An agency admin role.</li>
+  <li>A way to clearly identify which applicants have been assigned to an opportunity.</li>
+  <li>An easy way to mark the entire opportunity as complete.</li>
+</ul>
+
+<h3 id="bug-fixes">Bug fixes</h3>
+
+<p>We fixed:</p>
+
+<ul>
+  <li>The image displays in IE and Edge.</li>
+  <li>The email field for signing in—it’s no longer case sensitive.</li>
+</ul>
+
+<h3 id="security-updates">Security updates</h3>
+
+<ul>
+  <li>We’re now using a non-persistent cookie.</li>
+  <li>Added an inactive session termination</li>
+  <li>Limited the visibility of unauthenticated users.</li>
+  <li>Fixed the password confirmation on password reset.</li>
+</ul>
+:ET

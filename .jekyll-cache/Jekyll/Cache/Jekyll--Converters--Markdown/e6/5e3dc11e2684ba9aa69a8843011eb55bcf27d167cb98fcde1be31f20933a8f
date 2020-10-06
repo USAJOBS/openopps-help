@@ -1,0 +1,14 @@
+I"ƒ<h3 id="site-wide-enhancements">Site-wide enhancements</h3>
+
+<ul>
+  <li>Updated the opportunity card to display a community logo, as well as the opportunity creator name.</li>
+  <li>Added a link to the help center for the Who section of the <strong>Create Opportunity</strong> page.</li>
+  <li>Hid applicant photos on the review page for <strong>Details</strong> and <strong>Laterals</strong>.</li>
+  <li>Added functionality so opportunity creators can mark applicants as accepted or not accepted.</li>
+  <li>Updated the community description field to include line breaks and a clickable link.</li>
+  <li>Updated the search function so a user can search by clicking on a skill tag.</li>
+  <li>Added functionality to disable a community so a community manager can remove inactive communities from displaying. Community managers can still view disabled communities and can request to reactivate if needed.</li>
+  <li>Added notifications for when a community is disabled, so users understand why they can no longer see a community.</li>
+  <li>Added the ability to create customer banners on the landing page and search page for important notices.</li>
+</ul>
+:ET

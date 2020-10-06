@@ -1,0 +1,22 @@
+I"d<h3 id="enhancements">Enhancements</h3>
+
+<ul>
+  <li>Updated the sitewide, agency and community administrator dashboards to include the following metrics data (for a select period of time):
+    <ul>
+      <li>Key contributors</li>
+      <li>Number of opportunities created</li>
+      <li>Number of opportunities closed</li>
+      <li>Number of applicants</li>
+    </ul>
+  </li>
+  <li>Added new functionality so contractors can sign into Open Opportunities and create opportunities on behalf of their federal leads.</li>
+  <li>Updated the visual display of the administrator dashboards to use icons for federal employees, students, or contractors.</li>
+</ul>
+
+<h3 id="bug-fixes">Bug fixes</h3>
+
+<ul>
+  <li>Resolved issues with administrator dashboard filters not working correctly.</li>
+  <li>Fixed an issue where Save for later was submitting opportunities.</li>
+</ul>
+:ET

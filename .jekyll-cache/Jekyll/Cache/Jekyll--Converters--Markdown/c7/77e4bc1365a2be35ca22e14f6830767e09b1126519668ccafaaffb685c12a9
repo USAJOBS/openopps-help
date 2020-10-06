@@ -1,0 +1,28 @@
+I"r<h3 id="sitewide-enhancements">Sitewide enhancements</h3>
+
+<ul>
+  <li>Updated email notifications for opportunity approval to only go to sitewide approvers,to decrease the number of emails going to administrators.</li>
+  <li>Removed the yellow New Way to Sign In banner.</li>
+  <li>Changed the button label “Edit at USAJOBS.gov”, in user profile, to read “Edit at USAJOBS”.</li>
+  <li>Removed the display of user roles on profiles for non-administrator roles to meet security standards.</li>
+  <li>Added field size and character limit indicator on the Create Opportunity page to help guide users when creating an opportunity.</li>
+  <li>Added an Add/Remove functionality, so administrators can add and remove a Community Manager badge from a users’ profile.</li>
+  <li>Updated the Administrator Dashboard to link users’ names to their profile—now administrators can click a user’s name to go to their profile.</li>
+  <li>Removed the Open Source link in site footer.</li>
+  <li>Updated the Opportunity cards to ignore manually entered HTML to keep a consistent look and feel.</li>
+  <li>Revised the Open Opps favicon.</li>
+  <li>Changed the Create Opportunity field label “Headline” to “Title”.</li>
+  <li>Fixed a bug in email subject line so apostrophes don’t convert to special characters.</li>
+</ul>
+
+<h3 id="department-of-state-internship-program-changes">Department of State Internship Program changes</h3>
+
+<ul>
+  <li>Updated the user profile to allow multiple bureaus/offices/posts—now Bureau Internship Coordinators (BIC) can be coordinators for multiple bureaus.</li>
+  <li>Added functionality so Bureau Internship Coordinators can approve internships for all of their assigned bureaus.</li>
+  <li>Added a Withdraw feature so students can withdraw their application after the cycle closes.</li>
+  <li>Changed the Create Internship Opportunity field label “Headline” to “Title”.</li>
+  <li>Added field size and character limit indicator on the Edit Internship Opportunity page to help guide users when editing internship information.</li>
+  <li>Fixed the layout of the USAJOBS logo in the internship emails.</li>
+</ul>
+:ET

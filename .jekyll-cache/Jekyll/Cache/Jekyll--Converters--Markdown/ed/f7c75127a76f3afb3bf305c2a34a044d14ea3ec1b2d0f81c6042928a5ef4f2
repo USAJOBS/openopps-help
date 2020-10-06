@@ -1,0 +1,22 @@
+I"D<h3 id="enhancements">Enhancements</h3>
+
+<ul>
+  <li>Updated the design and added new content on the landing page after you sign in.</li>
+  <li>Added several filters to help narrow your search—you can now search opportunities by status, skill, career field, series, time commitment, and location.</li>
+  <li>Added a “career field” drop down to the profile and create an opportunity sections—you can now post and search for opportunities by career fields.</li>
+  <li>Launched the Acquisition Career portal which focuses on opportunities for the Acquisition career field.</li>
+  <li>Updated our system notification emails to increase clarity.</li>
+  <li>Updated how opportunities are displayed and listed on the search page to make them easier to understand.</li>
+  <li>Added a “preview” step to the opportunity creation and editing process.</li>
+</ul>
+
+<h3 id="bug-fixes">Bug fixes</h3>
+
+<p>We fixed:</p>
+
+<ul>
+  <li>The password reset form to only submit a single request.</li>
+  <li>Various mobile display issues.</li>
+  <li>Various bugs to improve system performance.</li>
+</ul>
+:ET

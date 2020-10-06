@@ -1,0 +1,24 @@
+I""<h2 id="changes-made-february-21-2020">Changes made February 21, 2020</h2>
+
+<h3 id="sitewide-enhancements">Sitewide enhancements</h3>
+
+<ul>
+  <li>Updated the landing page to include the ability to search by community.</li>
+  <li>Added a Community attribute table, so Community Managers can customize their community.</li>
+  <li>Added a Preview button to the community attribute table, so community managers can see their branding changes before publishing.</li>
+</ul>
+
+<h3 id="department-of-state-internship-program-changes">Department of State Internship Program changes</h3>
+
+<ul>
+  <li>Removed “withdrawn students” information from the administrator view and the dashboard metrics.</li>
+  <li>Added a new feature to the interface so State administrators to move offices or posts to a different bureau.</li>
+  <li>Added the Bureau Internship Coordinator role to the community CSV file.</li>
+  <li>Updated the student dashboard and added application status ‘pills’, so internship applicants can quickly see their application status.
+    <ul>
+      <li>The new dashboard will also allow students to view any emails that have been sent to them related to their application.</li>
+    </ul>
+  </li>
+  <li>Created a new email to remind internship applicants to complete any unfinished applications.</li>
+</ul>
+:ET

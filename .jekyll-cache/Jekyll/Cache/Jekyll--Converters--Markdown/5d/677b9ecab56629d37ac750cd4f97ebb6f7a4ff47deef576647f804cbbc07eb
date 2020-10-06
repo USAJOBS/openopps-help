@@ -1,0 +1,28 @@
+I"c<h3 id="enhancements">Enhancements</h3>
+
+<p>Made major enhancements to the People search including:</p>
+
+<ul>
+  <li>Improved People search performance and relevance.</li>
+  <li>Added the ability to search for people by skills (using the skills saved in their profile).</li>
+  <li>Added keyword search to search people by name, job title, skill, career field and agency.</li>
+  <li>Added autocomplete to the location search.</li>
+  <li>Added a new user interface with improved visibility of key profile information.</li>
+  <li>Added pagination to search results making it easier to sort through results.</li>
+  <li>Updated the user interface to be consistent with USAJOBS.</li>
+  <li>Improved navigation for system, agency and community administrators.</li>
+  <li>Updated the profile to include the Open Opportunities email address if no official federal government email address has been provided.</li>
+  <li>Added a feature to change the community for an opportunity/internship.</li>
+  <li>Added new application status help content for applicants and interns.</li>
+  <li>Added new internship status help content for administrators and opportunity creators.</li>
+</ul>
+
+<h2 id="bug-fixes">Bug fixes</h2>
+
+<p>We fixed:</p>
+
+<ul>
+  <li>A casing issue in emails that affected signing into the site.</li>
+  <li>A profile issue where skills were not saving to the profile.</li>
+</ul>
+:ET

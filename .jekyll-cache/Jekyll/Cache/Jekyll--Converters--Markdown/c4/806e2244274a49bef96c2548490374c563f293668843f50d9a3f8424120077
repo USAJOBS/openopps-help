@@ -1,0 +1,33 @@
+I"�<h3 id="site-wide-enhancements">Site-wide enhancements</h3>
+
+<ul>
+  <li>Added a link to help center content explaining opportunity status.</li>
+  <li>Added a link to help center content explaining application status.</li>
+  <li>Added functionality so that co-owners of an opportunity can’t apply for that opportunity.</li>
+  <li>Added functionality so that applicants of an opportunity can’t be co-owners of that opportunity.</li>
+  <li>Added the ability for creators and system administrators to mark an applicant as “Complete” after an opportunity has closed.</li>
+  <li>Updated the column label <strong>Last updated</strong> to <strong>Application last updated</strong>.</li>
+  <li>Added the ability for users to save a search. Users can have a maximum of 10 saved searches. This change includes the ability to:
+    <ul>
+      <li>Click the <strong>Save this search</strong> link below the search box to create a saved search.</li>
+      <li>View <strong>Participated</strong> and <strong>Saved opportunities</strong> on the home page dashboard when a user is signed in.</li>
+      <li>View saved searches under a new <strong>Saved searches</strong> tab on the home page dashboard – this includes active and archived saved searches.</li>
+      <li>Sort saved searches by <strong>Last updated</strong> and <strong>Name</strong>.</li>
+      <li>View their results from an active saved search.</li>
+      <li>Edit a saved search when viewing the results.</li>
+      <li>Delete a saved search.</li>
+      <li>Renew a saved search for another year.</li>
+      <li>See an error message when trying to save more than 10 searches.</li>
+      <li>Added ability to receive email notifications by selecting an email notification checkbox. Unchecking the box turns off email notifications</li>
+    </ul>
+  </li>
+</ul>
+
+<h3 id="bug-fixes">Bug fixes</h3>
+
+<ul>
+  <li>Removed the <strong>Remove</strong> link that was displayed underneath a user’s profile photo for non-sitewide administrators</li>
+  <li>Fixed issue so users can’t apply for details or laterals twice.</li>
+  <li>Fixed the broken help center link on the landing page next to <strong>Your opportunities</strong>.</li>
+</ul>
+:ET

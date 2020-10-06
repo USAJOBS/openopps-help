@@ -1,0 +1,20 @@
+I"�<ul>
+  <li>Added a couple of new fields to the <strong>Create Opportunity</strong> form:
+    <ul>
+      <li>An option to select Detail as the opportunity type</li>
+      <li>A check box to indicate if the Detail is reimbursable.</li>
+      <li>An option to select if the Detail is part-time or full-time.</li>
+    </ul>
+  </li>
+  <li>Updated the <strong>Search</strong> feature to include filters for part-time and full-time details.</li>
+  <li>Added the ability for administrators to add a logo to the community attribute table— logos can be displayed on custom search banner and opportunities.</li>
+  <li>Added the ability for administrators to change the background color or photo of the search banner on a community page.</li>
+  <li>Revised the content on the <strong>Let’s Get Started Modal</strong> to clarify next steps after selecting an applicant.</li>
+  <li>Updated the metrics to include the number of opportunities created by opportunity type.</li>
+  <li>Updated opportunity Excel file to include type of opportunity.</li>
+  <li>Added instructional text above the <strong>Apply</strong> button to indicate if an opportunity is limited to employees of a specific agency—this only displays if the opportunity is limited to an agency.</li>
+  <li>Added functionality to display “not eligible to apply” for users who try to apply to an agency specific opportunity, and the user is not part of that agency.</li>
+  <li>Updated the community search pages to display all opportunities, regardless of whether the opportunity is limited to an agency or not.</li>
+  <li>Updated the landing page to only display communities that have opportunities currently open.</li>
+</ul>
+:ET

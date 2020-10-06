@@ -1,1 +1,1 @@
-Sitemap: /openopps-help/sitemap.xml
+Sitemap: http://localhost:4001/sitemap.xml

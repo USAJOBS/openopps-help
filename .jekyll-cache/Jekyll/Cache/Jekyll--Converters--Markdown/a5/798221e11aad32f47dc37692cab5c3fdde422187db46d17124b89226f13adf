@@ -1,0 +1,32 @@
+I"�<h3 id="site-wide-enhancements">Site-wide enhancements</h3>
+
+<ul>
+  <li>Updated the applicant view page so that only opportunity creators can see not-selected applicants.</li>
+  <li>Added a <strong>Sitewide Admin</strong> and <strong>Sitewide Approver</strong> filter on the manage user page.</li>
+  <li>Updated the manage users page so that students cannot be given administration privileges.</li>
+  <li>Updated the <strong>Comments</strong> section to:
+    <ul>
+      <li>Nest the <strong>Replies</strong> under the original post.</li>
+      <li>Allow users to edit and delete their own comments and replies.</li>
+      <li>Display the two most recent comments and their replies. The rest are hidden behind a <strong>View previous comments</strong> link.</li>
+      <li>Display the two most recent replies. The rest are hidden behind a link.</li>
+      <li>Add a <strong>Refresh</strong> button at the bottom of the comments section so comments can be refreshed without reloading the page</li>
+      <li>Add an email notification for comments—users are directed to the corresponding comment when clicking on the link in the email.</li>
+    </ul>
+  </li>
+  <li>Added a <strong>Sort by</strong> dropdown menu on the search results page.</li>
+  <li>Enhanced the ability to filter opportunities by location.</li>
+  <li>Added ability to search for opportunities by a department.</li>
+  <li>Added the <strong>Allow virtual participation</strong> check box to opportunity creation and this is carried over if an opportunity is duplicated.</li>
+  <li>Updated the display of the opportunity overview and preview views to include <strong>In Person</strong> and <strong>Virtual</strong> if those are selected during the opportunity creation.</li>
+  <li>Updated the search results to include opportunities with <strong>Allow virtual participation</strong> when the <strong>Virtual</strong> filter is applied.</li>
+  <li>Added an alert so that admins know when they are making changes to someone else’s opportunity.</li>
+</ul>
+
+<h3 id="bug-fixes">Bug fixes</h3>
+
+<ul>
+  <li>Fixed issue where user is unable to create a new community.</li>
+  <li>Fixed issue where clicking on a skill in search takes you to the <strong>Oops</strong> page.</li>
+</ul>
+:ET

@@ -1,0 +1,38 @@
+I"�
+<h2 id="site-wide-enhancements">Site-wide enhancements</h2>
+
+<ul>
+  <li>Updated the display of applicants for laterals—users who are not a community manager, sitewide admin or the opportunity owner, will only see an applicant count. They will not see the list of applicants.</li>
+  <li>Updated the display of <strong>View</strong> application for laterals and details—the link will only display for creators, community managers, and sitewide administrators.</li>
+  <li>Updated the display of <strong>View</strong> profile—the link will display for all applicants, creators and sitewide admins for one-time and ongoing opportunities.</li>
+  <li>Added functionality to applicant selection feature
+    <ul>
+      <li>If an applicant is marked as <strong>Not-selected</strong>, the user can change the status to <strong>Selected</strong>.</li>
+      <li>If an applicant has been marked as <strong>Selected</strong>, the user can change the status to <strong>Not-selected</strong>.</li>
+    </ul>
+  </li>
+  <li>Added ability to sort by <strong>Community</strong> on the manage opportunities page.</li>
+  <li>Moved the <strong>Commitment</strong> search filter under <strong>Community</strong> on all search pages.</li>
+  <li>Added ability for opportunity participants to print a certificate of completion after completing an opportunity.</li>
+  <li>Added ability to assign any user as an opportunity owner when the community is <strong>Open</strong>.</li>
+  <li>Added ability for creators and admins to mark a participant as complete after an opportunity has closed.</li>
+  <li>Added functionality to add a co-owner to an opportunity including:
+    <ul>
+      <li>An <strong>Add co-owner</strong> button and flow that lets users search for and add a co-owner.</li>
+      <li>The ability for users to see all opportunities for which they are a co-owner on their dashboard.</li>
+      <li>A new <strong>Co-owners</strong> section on the opportunity page that displays all the co-owners of the opportunity.</li>
+      <li>A <strong>Make primary</strong> link that lets a user change the primary owner of the opportunity.</li>
+      <li>The ability for opportunity creators to remove co-owners from an opportunity.</li>
+      <li>Displaying a confirmation modal when a user requests to remove a co-owner from an opportunity.</li>
+    </ul>
+  </li>
+</ul>
+
+<h2 id="bug-fixes">Bug fixes</h2>
+
+<ul>
+  <li>Fixed issue so users without additional profile information show up in change owner search.</li>
+  <li>Fixed issue so that field headers don’t display when a field is left blank on the create opportunity page.</li>
+  <li>Fixed issue so that skills links on the home page don’t go to the “Oops” page.</li>
+</ul>
+:ET

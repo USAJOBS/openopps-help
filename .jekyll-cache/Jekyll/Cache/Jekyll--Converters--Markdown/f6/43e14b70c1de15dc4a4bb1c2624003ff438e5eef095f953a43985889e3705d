@@ -1,0 +1,247 @@
+I"�6<h2 id="changes-made-october-2-2020">Changes made October 2, 2020</h2>
+
+<h3 id="site-wide-enhancements">Site-wide enhancements</h3>
+
+<ul>
+  <li>Added a <strong>Community</strong> link in the top navigation.</li>
+  <li>Added profile pages for each community.</li>
+  <li>Added markdown to the community manager field in the <strong>Community attributes</strong> page.</li>
+  <li>Added a toggle for custom survey links to the community attributes page</li>
+  <li>Made the following changes to the <strong>Create opportunity</strong> form:
+    <ul>
+      <li>Changed the field label and help text from Series to <strong>Occupational series</strong>.</li>
+      <li>Added placeholder text in the date fields.</li>
+      <li>Updated error messaging for start and end date fields.</li>
+    </ul>
+  </li>
+  <li>Added a new toggle so administrators can display or not display a community on the <strong>Communities</strong> page.</li>
+  <li>Removed <strong>Internships</strong> link from the navigation.</li>
+  <li>Made the following changes to the stories and testimonials section:
+    <ul>
+      <li>Set image size to 300x300.</li>
+      <li>Added photos to the See what others are saying about Open Opportunities section.</li>
+      <li>Split name into two fields on the testimonials section of community attributes.</li>
+      <li>Changed the link below a testimonial to only display first name.</li>
+      <li>Added featured stories to the main search page.</li>
+    </ul>
+  </li>
+  <li>Added the ability to invite someone to apply to an opportunity.</li>
+  <li>Updated default text on the opportunity detail when no applicants have applied.</li>
+  <li>Updated how you select a community during the opportunity creation process.</li>
+  <li>Added ability for users to search for members by community.</li>
+  <li>Added a field for adding related skills and series to a community.</li>
+  <li>Moved <strong>How often do you need this time?</strong> field under <strong>How many hours do you need?</strong> on the <strong>Create opportunity</strong> form.</li>
+  <li>Added ability to run reports on applicant statistics.</li>
+  <li>Added all new fields to the opportunity csv file.</li>
+  <li>Added custom survey links to the complete emails.</li>
+  <li>Listed community managers on the community profile page.</li>
+  <li>Added an index page listing all communities.</li>
+  <li>Added help content for the following:
+    <ul>
+      <li>What’s the difference between an in person and virtual opportunity.</li>
+      <li>How to select applicants.</li>
+    </ul>
+  </li>
+  <li>Updated the modal display when a user applies for a NOAA opportunity.</li>
+  <li>Added default help text to the invite to opportunity search box.</li>
+  <li>Added the invited to apply section to the signed in dashboard.</li>
+</ul>
+
+<h3 id="changes-to-support-the-noaa-community">Changes to support the NOAA community</h3>
+
+<ul>
+  <li>Updated the NOAA community to include <strong>Line office and Program office</strong> fields:
+    <ul>
+      <li>Added ability to search by these fields.</li>
+      <li>Added these fields to the <strong>Manage User</strong> page.</li>
+      <li>Added a banner encouraging users to add these fields to their profile.</li>
+      <li>Added a toggle to require applicants and creators to have a Line office and Program office in their profile.</li>
+      <li>Added warning message for applicants and creators when missing Line office and Program office from their profile</li>
+    </ul>
+  </li>
+</ul>
+
+<h3 id="bug-fixes">Bug Fixes</h3>
+
+<ul>
+  <li>Fixed issue so users don’t have to select a new image (if there is an existing image) when editing a testimonial.</li>
+  <li>Fixed image rendering issue for stories on mobile.</li>
+  <li>Fixed punctuation appearing twice in user stories.</li>
+</ul>
+
+<h2 id="changes-made-september-18-2020">Changes made September 18, 2020</h2>
+
+<h3 id="site-wide-enhancements-1">Site-wide enhancements</h3>
+
+<ul>
+  <li>Launched a new feature that lets opportunity creators invite people to an opportunity. The new feature includes:
+    <ul>
+      <li>A modal that displays when a user is invited to an opportunity.</li>
+      <li>A success banner that displays when a user is successfully invited to an opportunity.</li>
+    </ul>
+  </li>
+  <li>Made a few changes to the <strong>Our customers’ stories</strong> section, including:
+    <ul>
+      <li>Increased the height of the banner on the stories page.</li>
+      <li>Adjusted the font size of the text in the See what people are saying about us box.</li>
+      <li>Added ability to include <strong>Agency</strong> name in stories.</li>
+      <li>Adjusted the size of the story card and image on the stories preview page.</li>
+    </ul>
+  </li>
+  <li>Updated the opportunity page to collapse the <strong>Not-selected</strong> section after an opportunity creator clicks <strong>Next steps</strong>.</li>
+  <li>Changed the label <strong>Cancel your application</strong> to <strong>Withdraw your application</strong>.</li>
+</ul>
+
+<h3 id="changes-to-support-the-noaa-community-1">Changes to support the NOAA community</h3>
+
+<ul>
+  <li>Added <strong>Estimated start date</strong> and <strong>Estimated completion date</strong> fields to the <strong>Create opportunity</strong> form.</li>
+  <li>Added <strong>Line office</strong> and <strong>Program</strong> fields (if included) to the blue box on the opportunity detail page.</li>
+  <li>Changed the <strong>Grade</strong> field label to <strong>Grade/Band</strong> on the <strong>Create opportunity</strong> form.</li>
+  <li>Added ability to include multiple <strong>Grade/Bands</strong> and updated how they’re displayed on detail and lateral opportunities.</li>
+  <li>Added ability to search detail opportunities by <strong>Grade</strong> range.</li>
+  <li>Updated opportunity preview page and duplicate feature to include all new fields.</li>
+  <li>Added a toggle to the <strong>Manage community</strong> page so users can turn “optional fields” on or off to display on the <strong>Create opportunity</strong> form.</li>
+  <li>Added a toggle to <strong>Community</strong> administration page to specify office naming conventions.</li>
+  <li>Added an <strong>Apply confirmation modal</strong> and updated the text for detail and lateral opportunities.</li>
+  <li>Added help link for Step 2 on the <strong>Create opportunity</strong> page.</li>
+  <li>Updated permissions so that only site-wide administrators can add or edit the following fields on the community attribute table:
+    <ul>
+      <li>Community type</li>
+      <li>Target audience</li>
+      <li>Duration</li>
+      <li>Agency</li>
+    </ul>
+  </li>
+  <li>Added <strong>Community attributes</strong> section to display information on the <strong>Community profile</strong> page.</li>
+  <li>Added <strong>Community marketing</strong> content section to the <strong>Administration</strong> dashboard.</li>
+</ul>
+
+<h3 id="bug-fixes-1">Bug fixes</h3>
+
+<ul>
+  <li>Fixed the results page so it’s no longer blank when a user searches for a name on the Manage users page.</li>
+  <li>Fixed the preview display of <strong>Estimated start</strong> or <strong>Estimated completion date</strong>.</li>
+</ul>
+
+<h2 id="changes-made-september-4-2020">Changes made September 4, 2020</h2>
+
+<h3 id="site-wide-enhancements-2">Site-wide enhancements</h3>
+
+<h4 id="changes-to-support-the-noaa-community-2">Changes to support the NOAA community</h4>
+
+<ul>
+  <li>Added a community <strong>Line Office Manager</strong> toggle within the <strong>Manage Community</strong> feature</li>
+  <li>Created an approval email that goes to the <strong>Line Office Manager</strong> when a new opportunity is posted.</li>
+  <li>Added a message to community members to include a line office and program in their profile.</li>
+</ul>
+
+<h4 id="changes-to-the-create-opportunity-form">Changes to the Create Opportunity form</h4>
+
+<ul>
+  <li>Changed <strong>Ongoing</strong> to <strong>Recurring</strong> on both <strong>Create opportunity</strong> and <strong>Search</strong>.</li>
+  <li>Removed the text <strong>“Requires up to 20% of a participants…”</strong> if the creator selects <strong>Recurring</strong>.</li>
+  <li>Removed the text <strong>“Allow virtual participation”</strong>.</li>
+  <li>Added a <strong>Negotiable</strong> option to the <strong>Where</strong> section.</li>
+  <li>Removed sample <strong>Estimated completion date</strong>.</li>
+  <li>Added new field for <strong>Host office will pay for travel expenses?</strong></li>
+  <li>Added new <strong>Line office</strong> dropdown.</li>
+  <li>Added new <strong>Program office</strong> dropdown.</li>
+</ul>
+
+<h4 id="changes-to-opportunity-overview-page">Changes to opportunity overview page:</h4>
+
+<ul>
+  <li>Added a link so the opportunity creator can email all non-selected applicants.</li>
+  <li>Moved the warning text above the <strong>Next step</strong> button.</li>
+  <li>Removed the <strong>Cancel</strong> link (next to Edit).</li>
+  <li>Updated the location text to say <strong>“Virtual and/or [location]”</strong> when both are selected on the create opportunity form.</li>
+  <li>Updated the blue box to display a new <strong>Travel Expenses paid</strong> section.</li>
+</ul>
+
+<h4 id="other-changes">Other changes</h4>
+
+<ul>
+  <li>Added markup to the <strong>Stories</strong> section.</li>
+  <li>Added co-owners to the emails that go to opportunity creators.</li>
+  <li>Updated the text in the <strong>Do you want to participate?</strong> modal.</li>
+  <li>Added text-based versions of all emails.</li>
+  <li>Added the number of results beside each filter on the <strong>Search</strong> page.</li>
+  <li>Changed the label from <strong>Total assigned</strong> to <strong>Total selected</strong> in the interactions section of the <strong>Administrator</strong> dashboard.</li>
+  <li>Added ability for site-wide admins to change the community on any opportunity.</li>
+  <li>Added <strong>Line office and Program</strong> to the <strong>Manage opportunities</strong> dashboard.</li>
+</ul>
+
+<h3 id="bug-fixes-2">Bug Fixes</h3>
+
+<p>We fixed the following issues:</p>
+
+<ul>
+  <li>Slow response time on <strong>Manage Opportunities</strong> for administrators.</li>
+  <li>508 issues on the opportunity card and home page.</li>
+  <li>Renew column not displaying for co-owners (for opportunities with 91+ days of inactivity).</li>
+  <li>Overflowing content in the <strong>What happens next</strong> box on the opportunity page</li>
+  <li>Incorrect sizing of the detail icon on the <strong>Create an opportunity</strong> form.</li>
+  <li>Long opportunity title overlapping the Save link on the opportunity results page.</li>
+  <li>Displaying incorrect selectee count and name information in opportunities export from a certain community.</li>
+  <li>Slow page load when navigating to manage opportunities within a certain community.</li>
+</ul>
+
+<h3 id="site-wide-enhancements-3">Site-wide enhancements</h3>
+
+<ul>
+  <li>Added the ability to display user stories and testimonials on the site.</li>
+  <li>Added ability for a user to save another user’s profile to a <strong>Saved People</strong> page.</li>
+  <li>Updated metrics for sitewide admins to include the number of laterals.</li>
+  <li>Updated the saved search feature to require unique name.</li>
+  <li>Added ability to save an opportunity from the search results page.</li>
+  <li>Added help content for saved searches.</li>
+  <li>Updated the applicant section on an opportunity so it expands when <strong>Continue accepting applications</strong> is toggled on.</li>
+  <li>Updated the location field on the <strong>Create opportunity</strong> page to use autocomplete.</li>
+  <li>Increased the character limit in the community description field.</li>
+  <li>Added markdown to the title and subtitle fields on the community administration page.</li>
+  <li>Made several changes to support the <strong>NOAA community</strong>. Added the following:
+    <ul>
+      <li>A <strong>Line Office and Program</strong> section to the Manage Community page.</li>
+      <li>The ability to add, edit and delete an existing <strong>Line Office or Program</strong>.</li>
+      <li>A <strong>Community LOM</strong> column to the <strong>Manage</strong> users section.</li>
+      <li>A <strong>Line Office and Program</strong> section to the profile for NOAA community members.</li>
+      <li>The Line Office and Program field to the user csv.</li>
+    </ul>
+  </li>
+</ul>
+
+<h3 id="bug-fixes-3">Bug Fixes</h3>
+
+<ul>
+  <li>Fixed issue so that the saved search message displays when an additional filter is added to a search.</li>
+  <li>Fixed issue to include a community image in the email for a new opportunity.</li>
+</ul>
+
+<p><a href="aug-21-2020">August 21, 2020</a><br />
+<a href="aug-07-2020">August 7, 2020</a><br />
+<a href="jun-12-2020">June 12, 2020</a><br />
+<a href="may-29-2020">May 29, 2020</a><br />
+<a href="may-15-2020">May 15, 2020</a><br />
+<a href="may-01-2020">May 1, 2020</a><br />
+<a href="apr-17-2020">April 17, 2020</a><br />
+<a href="mar-31-2020">March 31, 2020</a><br />
+<a href="mar-23-2020">March 23, 2020</a><br />
+<a href="mar-06-2020">March 6, 2020</a><br />
+<a href="feb-21-2020">February 21, 2020</a><br />
+<a href="feb-07-2020/">February 7, 2020</a><br />
+<a href="jan-27-2020/">January 27, 2020</a><br />
+<a href="jan-13-2020/">January 13, 2020</a><br />
+<a href="dec-30-2019/">December 30, 2019</a><br />
+<a href="dec-02-2019/">December 2, 2019</a><br />
+<a href="nov-04-2019/">November 4, 2019</a><br />
+<a href="oct-21-2019/">October 21, 2019</a><br />
+<a href="oct-07-2019/">October 7, 2019</a><br />
+<a href="jul-15-2019/">July 15, 2019</a><br />
+<a href="june-19-2019/">June 19, 2019</a><br />
+<a href="jan-11-2019/">January 11, 2019</a><br />
+<a href="nov-16-2018/">November 16, 2018</a><br />
+<a href="june-29-2018/">June 29, 2018</a><br />
+<a href="may-18-2018/">May 18, 2018</a><br />
+<a href="mar-09-2018/">March 9, 2018</a></p>
+:ET

@@ -1,0 +1,53 @@
+I"<h2 id="site-wide-enhancements">Site-wide enhancements</h2>
+
+<ul>
+  <li>
+    <p>Added several messaging alerts and modals to display messaging to users, including:</p>
+
+    <ul>
+      <li>A warning alert that displays when an opportunity is about to expire.</li>
+      <li>A confirmation modal that displays when a user deletes an opportunity.</li>
+      <li>A warning alert that displays when a user’s profile is missing a biography and skills.</li>
+      <li>A confirmation modal that displays when a user clicks <strong>Cancel</strong> on an opportunity.</li>
+      <li>A confirmation alert that displays when a user clicks to save a search.</li>
+      <li>A success alert that displays when a user clicks to <strong>Renew</strong> an opportunity</li>
+      <li>A warning alert that displays when a user has one or more opportunities that are at 91 days of inactivity and are in Open status.</li>
+    </ul>
+  </li>
+  <li>
+    <p>Created several new emails to send to:</p>
+
+    <ul>
+      <li>Opportunity creators on the day an opportunity is due and it hasn’t been completed.</li>
+      <li>Opportunity creators 7 days before an opportunity is due.</li>
+      <li>Opportunity creator and applicants when the opportunity is overdue.</li>
+      <li>A user when their saved search is 5 days from expiring, reminding them to renew the opportunity if they’d like to keep it.</li>
+      <li>Opportunity creators on the 91st calendar day of inactivity, asking if they’d like to keep it their opportunity open.</li>
+      <li>Opportunity creators when their opportunity has been inactive for 120+ days letting them know it has been removed from search due to inactivity.</li>
+    </ul>
+  </li>
+  <li>Updated administration so that when a community manager or sitewide administrator is logged in, they are not able to add a participant to a detail or lateral that is In progress, Open, or Not open.</li>
+  <li>Made several updates to the opportunity page:
+    <ul>
+      <li>Moved the <strong>Duplicate</strong> and <strong>Share</strong> to the same line as skills.</li>
+      <li>Moved <strong>Edit</strong> and <strong>Cancel</strong> to a new line below <strong>Duplicate</strong> and <strong>Share</strong>.</li>
+      <li>Added a <strong>Delete</strong> link to draft opportunities.</li>
+    </ul>
+  </li>
+  <li>Made changes to the dashboard/homepage:
+    <ul>
+      <li>Added a <strong>Saved opportunities</strong> section.</li>
+      <li>Changed the <strong>Delete</strong> column header to <strong>Renew</strong>. This option displays for open opportunities that have been open for 91+ days.</li>
+    </ul>
+  </li>
+  <li>Added a <strong>Save</strong> feature on opportunities—users can click the gold star on the opportunity card and details to save an opportunity.</li>
+  <li>Updated the opportunity CSV on the Administrator, Agency and Community dashboards to indicate when an opportunity is disabled because a community is disabled (disabled will be added to the name)</li>
+  <li>Added a functionality to move an opportunity from <strong>Open</strong> status to <strong>Not Open</strong> when there has been 120+ days of inactivity on an opportunity.</li>
+</ul>
+
+<h2 id="bug-fixes">Bug fixes</h2>
+
+<ul>
+  <li>Fixed issue where estimated completion date did not appear in the blue box on the opportunity detail page.</li>
+</ul>
+:ET

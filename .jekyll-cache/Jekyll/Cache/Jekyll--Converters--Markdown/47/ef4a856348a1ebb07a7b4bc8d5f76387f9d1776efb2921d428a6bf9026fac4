@@ -1,0 +1,29 @@
+I"�<h3 id="enhancements">Enhancements</h3>
+
+<ul>
+  <li>Updated the account registration process to only allow a federal email address.</li>
+  <li>Added total number of opportunities to the top of the search results page.</li>
+  <li>Updated the search results page to only display 10 opportunities per page.</li>
+  <li>Incorporated keyword search features.</li>
+  <li>Separated and relabeled skills and interests on the profile page.</li>
+  <li>Added a new email to let opportunity creators know when someone has applied to their opportunity.</li>
+  <li>Enhanced administrative functions.</li>
+  <li>Enhanced the site navigation.</li>
+  <li>Added a character limit of 35 for any new skills entered on an opportunity.</li>
+  <li>Added a help feature to the ‘create an opportunity’ process to explain the ‘continuing accepting applicants’ toggle.</li>
+</ul>
+
+<h3 id="bug-fixes">Bug fixes</h3>
+
+<p>We fixed:</p>
+
+<ul>
+  <li>Various mobile and desktop display issues.</li>
+  <li>Error handing on the Create account and Create opportunity pages.</li>
+  <li>Issues with photo upload page refresh on the Profile page.</li>
+  <li>An issue with deleting comments from opportunities for some users.</li>
+  <li>The location table—it no longer allows duplicate locations to be added and displayed.</li>
+  <li>The profile link for an applicant or participant—it’s now clickable by the opportunity creator.</li>
+  <li>The “duplicate opportunity” feature—it now copies all fields on the opportunity over.</li>
+</ul>
+:ET

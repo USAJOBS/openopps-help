@@ -1,0 +1,31 @@
+I"<h3 id="site-wide-enhancements">Site-wide enhancements</h3>
+
+<ul>
+  <li>Added the ability to display user stories and testimonials on the site.</li>
+  <li>Added ability for a user to save another user’s profile to a <strong>Saved People</strong> page.</li>
+  <li>Updated metrics for sitewide admins to include the number of laterals.</li>
+  <li>Updated the saved search feature to require unique name.</li>
+  <li>Added ability to save an opportunity from the search results page.</li>
+  <li>Added help content for saved searches.</li>
+  <li>Updated the applicant section on an opportunity so it expands when <strong>Continue accepting applications</strong> is toggled on.</li>
+  <li>Updated the location field on the <strong>Create opportunity</strong> page to use autocomplete.</li>
+  <li>Increased the character limit in the community description field.</li>
+  <li>Added markdown to the title and subtitle fields on the community administration page.</li>
+  <li>Made several changes to support the <strong>NOAA community</strong>. Added the following:
+    <ul>
+      <li>A <strong>Line Office and Program</strong> section to the Manage Community page.</li>
+      <li>The ability to add, edit and delete an existing <strong>Line Office or Program</strong>.</li>
+      <li>A <strong>Community LOM</strong> column to the <strong>Manage</strong> users section.</li>
+      <li>A <strong>Line Office and Program</strong> section to the profile for NOAA community members.</li>
+      <li>The Line Office and Program field to the user csv.</li>
+    </ul>
+  </li>
+</ul>
+
+<h3 id="bug-fixes">Bug Fixes</h3>
+
+<ul>
+  <li>Fixed issue so that the saved search message displays when an additional filter is added to a search.</li>
+  <li>Fixed issue to include a community image in the email for a new opportunity.</li>
+</ul>
+:ET

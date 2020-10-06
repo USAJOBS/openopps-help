@@ -1,0 +1,33 @@
+I"�<h3 id="sitewide-enhancements">Sitewide enhancements</h3>
+
+<ul>
+  <li>Reordered metric dashboards to show current year, quarter and month to display most current information up front.</li>
+  <li>Added functionality so administrators can search for users by email.</li>
+  <li>Updated the message to notify a user if they haven’t provided a biography or skills, when submitting an application for an opportunity.</li>
+  <li>Added the ability for sitewide administrators to remove applicants from opportunities.</li>
+  <li>Added the ability to link deactivated accounts (future) to the old account if a later sign in is attempted.</li>
+</ul>
+
+<h3 id="state-department-internship-program-changes">State Department Internship Program changes</h3>
+
+<ul>
+  <li>Added a requirement for State creators to have a bureau and office/post in their profile before they can create an internship.</li>
+  <li>Added required security clearance to the internship applicant view.</li>
+  <li>Changed the field label from Secondary application link to Exclusive job announcement.</li>
+  <li>Added a new field to the cycle table for Exclusive posting end date.</li>
+  <li>Updated selectee and alternate emails with:
+    <ul>
+      <li>Updated security clearance language for when “None” is selected.</li>
+      <li>The name of the internship.</li>
+      <li>Revised language for the cycle description.</li>
+      <li>The exclusive posting end date to indicate when they must complete the exclusive posting.</li>
+    </ul>
+  </li>
+  <li>Created a new user role of Bureau Internship Coordinator (BIC) that can approve internships for their bureau.
+    <ul>
+      <li>Added a toggle to the manage user dashboard for State where community managers can give and remove BIC access.</li>
+    </ul>
+  </li>
+  <li>Updated the UI so student intern applicants can view the list of internships they applied to and its information, after the apply cycle has closed.</li>
+</ul>
+:ET

@@ -1,0 +1,22 @@
+I"¸<h2 id="site-wide-enhancements">Site-wide enhancements</h2>
+
+<ul>
+  <li>Updated the application process for applying to details and laterals.
+    <ul>
+      <li>The application process includes a statement of interest, a resume selection field, and a sidebar with help text.</li>
+      <li>Opportunity creators can view the statement of interest, and resume when reviewing detail or lateral applications.</li>
+      <li>Applicants can update their applications while the detail or lateral opportunity is <strong>Accepting applications</strong></li>
+    </ul>
+  </li>
+  <li>Updated how resumes are handled during the application process for a detail or lateral opportunity:
+    <ul>
+      <li>Applicants can upload resumes from USAJOBS.</li>
+      <li>Applicants and opportunity creators can download and view resumes that were uploaded through USAJOBS.</li>
+      <li>Applicants and opportunity creators can view resumes created from the USAJOBS resume builder tool.</li>
+    </ul>
+  </li>
+  <li>Created a confirmation page and <strong>What happens next</strong> page that displays when an applicant submits their application for a detail or lateral opportunity.</li>
+  <li>Added a column called <strong>Community</strong> to the manage opportunities page so that sitewide administrators know which opportunities are part of a community.</li>
+  <li>Added the community name under the agency name to display on the opportunity preview and overview page.</li>
+</ul>
+:ET

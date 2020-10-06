@@ -1,0 +1,27 @@
+I"%<h2 id="sitewide-enhancements">Sitewide enhancements</h2>
+
+<ul>
+  <li>Added a new community to support COVID-19 response efforts:
+    <ul>
+      <li>Added an informational banner to the homepage and search landing page</li>
+    </ul>
+  </li>
+  <li>Updated the <strong>Limit to agency</strong> checkbox to save the last selection a user makes.</li>
+  <li>Updated display of Community types to be in alphabetical order.</li>
+  <li>Added new categories to the <strong>When</strong> section of the <strong>Create Opportunity</strong> page.</li>
+  <li>Added <strong>Commitment</strong> and <strong>Length</strong> fields to the <strong>View Opportunity</strong> page.</li>
+  <li>Updated the search function to search lateral opportunities—this feature is only available for agency communities.</li>
+  <li>Added ability to view metrics for laterals—this feature is only available for agency communities.</li>
+  <li>Added opportunity type field in .csv, so administrator users can view and create metrics.</li>
+  <li>Added the custom community URL to the non-select email, instead of the main Open Opportunities page.</li>
+  <li>Updated the community management panel, so users can see the most recently selected logo or background image.</li>
+  <li>Added a new signature block to emails, so communities can have a personal signature.</li>
+  <li>Enhanced agency branding options. You can now upload and display:
+    <ul>
+      <li>Agency logo on opportunities</li>
+      <li>Agency logo instead of photos.</li>
+      <li>Community logo on emails.</li>
+    </ul>
+  </li>
+</ul>
+:ET
