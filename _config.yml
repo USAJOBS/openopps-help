@@ -36,7 +36,9 @@ produrl: "https://openopps.usajobs.gov"
 
 google_analytics_ua: UA-33523145-1
 
-plugins: ["jekyll-sitemap"]
+plugins:
+  - jekyll-sitemap
+  - jekyll-redirect-from
 
 collections:
   pages:

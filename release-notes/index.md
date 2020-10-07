@@ -1,6 +1,7 @@
 ---
-permalink: release-notes/
 layout: default
+redirect_from: /whats-new/
+permalink: release-notes/
 section: release-notes
 category: release-notes
 title: What's new with Open Opportunities
