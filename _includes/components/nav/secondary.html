@@ -22,23 +22,33 @@
         </a>
       </li>
       <li
-        class="usajobs-openopps-help-center-nav-secondary__container opportunity {% if page.section == 'opportunity' %}is-active{% endif %}"
+        class="usajobs-openopps-help-center-nav-secondary__container opportunity-creators {% if page.section == 'opportunity-creators' %}is-active{% endif %}"
       >
         <a
           class="usajobs-openopps-help-center-nav-secondary__item"
-          href="{{ '/opportunity/' | relative_url }}"
+          href="{{ '/opportunity-creators/' | relative_url }}"
         >
-          Opportunity
+          Opportunity creators
         </a>
       </li>
       <li
-        class="usajobs-openopps-help-center-nav-secondary__container apply {% if page.section == 'apply' %}is-active{% endif %}"
+        class="usajobs-openopps-help-center-nav-secondary__container applicants {% if page.section == 'applicants' %}is-active{% endif %}"
       >
         <a
           class="usajobs-openopps-help-center-nav-secondary__item"
-          href="{{ '/apply/' | relative_url }}"
+          href="{{ '/applicants/' | relative_url }}"
         >
-          Apply
+          Applicants
+        </a>
+      </li>
+      <li
+        class="usajobs-openopps-help-center-nav-secondary__container administrators {% if page.section == 'administrators' %}is-active{% endif %}"
+      >
+        <a
+          class="usajobs-openopps-help-center-nav-secondary__item"
+          href="{{ '/administrators/' | relative_url }}"
+        >
+          Administrators
         </a>
       </li>
       <li
