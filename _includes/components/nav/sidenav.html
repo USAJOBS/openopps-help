@@ -10,11 +10,7 @@
         What is Open Opportunities?
       </a>
     </li>
-    <li>
-      <a {% if page.sidenav == 'top-10-tips' %}class="usa-current"{% endif %} href="{{ '/getting-started/top-10-tips' | relative_url }}">
-        How to write a great opportunity
-      </a>
-    </li>
+    
     <li>
       <a {% if page.sidenav == 'who-can-participate' %}class="usa-current"{% endif %} href="{{ '/getting-started/who-can-participate' | relative_url }}">
         Who can participate?
@@ -28,6 +24,11 @@
     <li>
       <a {% if page.sidenav == 'training' %}class="usa-current"{% endif %} href="{{ '/getting-started/training' | relative_url }}">
        Can my work count as training?
+      </a>
+    </li>
+    <li>
+      <a {% if page.sidenav == 'how-long-to-post-and-review' %}class="usa-current"{% endif %} href="{{ '/getting-started/how-long-to-post-and-review' | relative_url }}">
+        How long does it take to post an opportunity and review applicants?
       </a>
     </li>
   </ul>
@@ -49,107 +50,124 @@
     </li>
   </ul>
 {% endif %}
-{% if page.section == 'opportunity' %}
+{% if page.section == 'opportunity-creators' %}
   <h3 class="usajobs-openopps-help-center-article-sidenav__title">
-    Opportunity
+    Opportunity creators
   </h3>
   <ul class="usa-sidenav-list">
     <li>
-      <a {% if page.sidenav == 'opportunity' %}class="usa-current"{% endif %} href="{{ '/opportunity/' | relative_url }}">
+      <a {% if page.sidenav == 'opportunity' %}class="usa-current"{% endif %} href="{{ '/opportunity-creators/' | relative_url }}">
         How to create an opportunity
       </a>
     </li>
     <li>
-      <a {% if page.sidenav == 'opportunity-advertise' %}class="usa-current"{% endif %} href="{{ '/opportunity/advertise' | relative_url }}">
-        How to advertise an opportunity
+      <a {% if page.sidenav == 'top-10-tips' %}class="usa-current"{% endif %} href="{{ '/opportunity-creators/top-10-tips' | relative_url }}">
+        How to write a great opportunity
       </a>
     </li>
     <li>
-      <a {% if page.sidenav == 'encourage-participation' %}class="usa-current"{% endif %} href="{{ '/opportunity/encourage-participation' | relative_url }}">
-        How to encourage participation in an opportunity?
-      </a>
-    </li>
-    <li>
-      <a {% if page.sidenav == 'how-long-to-post-and-review' %}class="usa-current"{% endif %} href="{{ '/opportunity/how-long-to-post-and-review' | relative_url }}">
-        How long does it take to post an opportunity and review applicants?
-      </a>
-    </li>
-    <li>
-      <a {% if page.sidenav == 'opportunity-search' %}class="usa-current"{% endif %} href="{{ '/opportunity/search' | relative_url }}">
-        How to search for an opportunity
-      </a>
-    </li>
-    <li>
-      <a {% if page.sidenav == 'opportunity-save-search' %}class="usa-current"{% endif %} href="{{ '/opportunity/save-search' |relative_url }}">
-        How to save a search
-      </a>
-    </li>
-    <li>
-      <a {% if page.sidenav == 'post-to-community' %}class="usa-current"{% endif %} href="{{ '/opportunity/post-to-community' | relative_url}}">
-        How to post to a community
-      </a>
-    </li>
-    <li>
-      <a {% if page.sidenav == 'opportunity-extend-oppportunity' %}class="usa-current"{% endif %} href="{{ '/opportunity/extend-opportunity' | relative_url }}">
-        How to extend an opportunity
-      </a>
-    </li>
-    <li>
-      <a {% if page.sidenav == 'opportunity-select-applicant' %}class="usa-current"{% endif %} href="{{ '/opportunity/select-applicant' | relative_url }}">
-        How to a select an applicant
-      </a>
-    </li>
-    <li>
-      <a {% if page.sidenav == 'opportunity-accept-applications' %}class="usa-current"{% endif %} href="{{ '/opportunity/accept-applications' | relative_url }}">
-        How to continue accepting applicants
-      </a>
-    </li>
-    <li>
-      <a {% if page.sidenav == 'commitment' %}class="usa-current"{% endif %} href="{{ '/opportunity/commitment' | relative_url }}">
+      <a {% if page.sidenav == 'commitment' %}class="usa-current"{% endif %} href="{{ '/opportunity-creators/commitment' | relative_url }}">
         What does the type of commitment mean?
       </a>
     </li>
     <li>
-      <a {% if page.sidenav == 'opportunity-where' %}class="usa-current"{% endif %} href="{{ '/opportunity/where' | relative_url }}">
+      <a {% if page.sidenav == 'opportunity-where' %}class="usa-current"{% endif %} href="{{ '/opportunity-creators/where' | relative_url }}">
         What's the difference between a virtual and in-person opportunity?
       </a>
     </li>
-     
     <li>
-      <a {% if page.sidenav == 'opportunity-status' %}class="usa-current"{% endif %} href="{{ '/opportunity/opportunity-status' | relative_url }}">
+      <a {% if page.sidenav == 'opportunity-status' %}class="usa-current"{% endif %} href="{{ '/opportunity-creators/opportunity-status' | relative_url }}">
         What does the opportunity status mean?
       </a>
     </li>
     <li>
-      <a {% if page.sidenav == 'opportunity-sample-opportunities' %}class="usa-current"{% endif %} href="{{ '/opportunity/sample-opportunities' | relative_url }}">
+      <a {% if page.sidenav == 'post-to-community' %}class="usa-current"{% endif %} href="{{ '/opportunity-creators/post-to-community' | relative_url}}">
+        How to post to a community
+      </a>
+    </li>
+    <li>
+      <a {% if page.sidenav == 'opportunity-select-applicant' %}class="usa-current"{% endif %} href="{{ '/opportunity-creators/select-applicant' | relative_url }}">
+        How to a select an applicant
+      </a>
+    </li>
+    <li>
+      <a {% if page.sidenav == 'opportunity-accept-applications' %}class="usa-current"{% endif %} href="{{ '/opportunity-creators/accept-applications' | relative_url }}">
+        How to continue accepting applicants
+      </a>
+    </li>
+    <li>
+      <a {% if page.sidenav == 'opportunity-extend-oppportunity' %}class="usa-current"{% endif %} href="{{ '/opportunity-creators/extend-opportunity' | relative_url }}">
+        How to extend an opportunity
+      </a>
+    </li>
+    <li>
+      <a {% if page.sidenav == 'opportunity-advertise' %}class="usa-current"{% endif %} href="{{ '/opportunity-creators/advertise' | relative_url }}">
+        How to advertise an opportunity
+      </a>
+    </li>
+    <li>
+      <a {% if page.sidenav == 'encourage-participation' %}class="usa-current"{% endif %} href="{{ '/opportunity-creators/encourage-participation' | relative_url }}">
+        How to encourage participation in an opportunity?
+      </a>
+    </li>
+    <li>
+      <a {% if page.sidenav == 'opportunity-sample-opportunities' %}class="usa-current"{% endif %} href="{{ '/opportunity-creators/sample-opportunities' | relative_url }}">
         What are some examples of opportunities?
       </a>
     </li>
   </ul>
 {% endif %}
-{% if page.section == 'apply' %}
+{% if page.section == 'applicants' %}
   <h3 class="usajobs-openopps-help-center-article-sidenav__title">
-    Apply
+    Applicants
   </h3>
   <ul class="usa-sidenav-list">   
     <li>
-      <a {% if page.sidenav == 'apply-participate' %}class="usa-current"{% endif %} href="{{ '/apply/' | relative_url }}">
+      <a {% if page.sidenav == 'apply-participate' %}class="usa-current"{% endif %} href="{{ '/applicants/' | relative_url }}">
         How to apply to an opportunity
       </a>
     </li>
     <li>
-      <a {% if page.sidenav == 'application-status' %}class="usa-current"{% endif %} href="{{ '/apply/application-status' | relative_url }}">
-        What does the application status mean?
-      </a>
-    </li>
-    <li>
-      <a {% if page.sidenav == 'apply-update-application' %}class="usa-current"{% endif %} href="{{ '/apply/update' | relative_url }}">
+      <a {% if page.sidenav == 'apply-update-application' %}class="usa-current"{% endif %} href="{{ '/applicants/update' | relative_url }}">
         How to update an application
       </a>
     </li>
     <li>
-      <a {% if page.sidenav == 'apply-withdraw-application' %}class="usa-current"{% endif %} href="{{ '/apply/withdraw-application' | relative_url }}">
+      <a {% if page.sidenav == 'apply-withdraw-application' %}class="usa-current"{% endif %} href="{{ '/applicants/withdraw-application' | relative_url }}">
         How to withdraw an application
+      </a>
+    </li>
+    <li>
+      <a {% if page.sidenav == 'application-status' %}class="usa-current"{% endif %} href="{{ '/applicants/application-status' | relative_url }}">
+        What does the application status mean?
+      </a>
+    </li>
+    <li>
+      <a {% if page.sidenav == 'opportunity-search' %}class="usa-current"{% endif %} href="{{ '/applicants/search' | relative_url }}">
+        How to search for an opportunity
+      </a>
+    </li>
+    <li>
+      <a {% if page.sidenav == 'opportunity-save-search' %}class="usa-current"{% endif %} href="{{ '/applicants/save-search' |relative_url }}">
+        How to save a search
+      </a>
+    </li>
+
+  </ul>
+{% endif %}
+{% if page.section == 'administrators' %}
+  <h3 class="usajobs-openopps-help-center-article-sidenav__title">
+    Administrators
+  </h3>
+  <ul class="usa-sidenav-list">   
+    <li>
+      <a {% if page.sidenav == 'metrics' %}class="usa-current"{% endif %} href="{{ '/administrators/' | relative_url }}">
+        What do the user metrics mean?
+      </a>
+    </li>
+    <li>
+      <a {% if page.sidenav == 'interactions' %}class="usa-current"{% endif %} href="{{ '/administrators/interactions' | relative_url }}">
+        What do the interactions mean?
       </a>
     </li>
   </ul>

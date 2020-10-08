@@ -9,4 +9,8 @@ npm-debug.log
 node_modules
 .ruby-gemset
 .ruby-version
+.jekyll-cache/
+.jekyll-metadata
 _dist/
+.bundle/
+vendor/
