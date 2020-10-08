@@ -27,4 +27,4 @@ Here are a few examples of past opportunities:
 - Subject matter expert presenters
 - Event volunteers
 
-Once you are ready to create an opportunity, follow our [10 tips to create a successful opportunity post](../../getting-started/top-10-tips/). We encourage you to break up larger projects into multiple, smaller projects to reach a wider range of skillsets and make the work manageable.
+Once you are ready to create an opportunity, follow our [10 tips to create a successful opportunity post](../top-10-tips). We encourage you to break up larger projects into multiple, smaller projects to reach a wider range of skillsets and make the work manageable.
