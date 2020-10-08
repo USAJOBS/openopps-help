@@ -1,6 +1,6 @@
 ---
 permalink: opportunity-creators/top-10-tips/
-redirect_from: /opportunity/top-10-tips/
+redirect_from: /getting-started/top-10-tips/
 layout: article
 section: opportunity-creators
 category: opportunity-creators
