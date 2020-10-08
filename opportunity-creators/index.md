@@ -13,7 +13,7 @@ Current federal employees, and some federal contractors, can create and post opp
 ### Before you get started
 
 1. Ask your supervisor if it’s okay to post an opportunity—you need their approval.
-2. Read our [tips for writing a great opportunity announcement](../getting-started/top-10-tips/) and [check out a few examples](sample-opportunities).
+2. Read our [tips for writing a great opportunity announcement](../opportunity-creators/top-10-tips/) and [check out a few examples](sample-opportunities).
 3. [Create a profile](../profile/) if you don’t already have one—you must have a profile to create and post an opportunity.
 
 ### Create your opportunity

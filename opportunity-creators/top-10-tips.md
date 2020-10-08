@@ -104,6 +104,6 @@ The DigitalGov usability team asked for help with [writing usability case studie
 
 ## Market your opportunity
 
-Spread the word about Open Opportunities and your need. Are there communities of practice (CoP) that might be interested in your opportunity? Use our [marketing email template](../../opportunity/marketing-email-template.docx){:target="\_blank"} (1 page, 14 kb, MS Word .docx) to craft a message.
+Spread the word about Open Opportunities and your need. Are there communities of practice (CoP) that might be interested in your opportunity? Use our [marketing email template](../../opportunity-creators/marketing-email-template.docx){:target="\_blank"} (1 page, 14 kb, MS Word .docx) to craft a message.
 
 Want to target an individual (or six?) Use the **Share** link in your opportunity to send a form email.

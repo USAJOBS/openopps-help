@@ -10,13 +10,13 @@ title: How to apply to an opportunity
 
 Participating in an opportunity is a great way to gain experience, contribute your expertise and work with others across the Federal Government.
 
-To apply, you need to [create a profile](../../profile/) and be a current federal employee or a current student. Your profile highlights your skills, education, experience and areas of interest, such as career areas, agencies you’re interested in and other topics. And, you also need to ask your supervisor to make sure it’s okay for you to participate.
+To apply, you need to [create a profile](../profile) and be a current federal employee or a current student. Your profile highlights your skills, education, experience and areas of interest, such as career areas, agencies you’re interested in and other topics. And, you also need to ask your supervisor to make sure it’s okay for you to participate.
 
 Once you have a profile, you can apply to any open opportunity. If you’re a student you can apply to internship opportunities.
 
 1. Click **Find opportunities** on the home page or the search icon in the top navigation.
 2. Enter a keyword into the search box to search for opportunities that interest you.
-3. Use the search filters, on the right, to narrow your results. You can search by status, skill, career field, series, time commitment and more. [Learn how to search](../search/) for opportunities.
+3. Use the search filters, on the right, to narrow your results. You can search by status, skill, career field, series, time commitment and more. [Learn how to search](search) for opportunities.
 4. Read the opportunity details to learn what skills are needed, how much time is involved and to see if it’s a good match for you.
 5. Click **Apply** if you’re interested in an opportunity.
 
