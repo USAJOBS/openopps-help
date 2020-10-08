@@ -1,6 +1,6 @@
 ---
 permalink: applicants/search/
-redirect_from: /opportunity/search
+redirect_from: /opportunity/search/
 layout: article
 section: applicants
 category: applicants

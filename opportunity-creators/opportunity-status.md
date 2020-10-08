@@ -1,6 +1,6 @@
 ---
 permalink: opportunity-creators/opportunity-status/
-redirect_from: /opportunity/opportunity-status
+redirect_from: /opportunity/opportunity-status/
 layout: article
 section: opportunity-creators
 category: opportunity-creators

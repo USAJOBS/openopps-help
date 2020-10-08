@@ -1,6 +1,6 @@
 ---
 permalink: applicants/application-status/
-redirect_from: /apply/application-status
+redirect_from: /apply/application-status/
 layout: article
 section: applicants
 category: applicants
