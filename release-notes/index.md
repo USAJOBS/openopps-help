@@ -1,6 +1,6 @@
 ---
 layout: default
-redirect_from: /whats-new/
+redirect_from: /what-is-new/
 permalink: release-notes/
 section: release-notes
 category: release-notes
