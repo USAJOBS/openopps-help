@@ -10,10 +10,11 @@ title: How to withdraw an application
 
 To withdraw an application from an opportunity:
 
-1. Sign into Open Opportunities—you will go to your dashboard.
-2. Find and click the opportunity that you want to withdraw your application.
-3. Click **Withdraw your application**, located in the blue box. A message will appear to confirm you withdrew your application.
-4. Click **Okay**.
+1. Sign into Open Opportunities.
+2. Go to the **Participated** section of your dashboard.
+3. Find and click the opportunity that you want to withdraw your application.
+4. Click **Withdraw your application**, located in the blue box. A message will appear to confirm you want to withdraw your application.
+5. Click **Withdraw**.
 
 ## Withdraw an application from the U.S. Department of State Student Internship Program (Unpaid)
 
