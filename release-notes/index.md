@@ -7,6 +7,54 @@ category: release-notes
 title: What's new with Open Opportunities
 ---
 
+## Changes made October 16, 2020
+
+### Site-wide enhancements
+
+#### Changes to Communities
+
+Added the following updates to **Community** pages:
+
+* A **community profile summary** to the left-hand side of the page.
+* **Related skills** to the community profile page and individual community card.
+* **Series** to community profile page.
+* **Join** button so users can join a community.
+* **Leave community** button so users can leave a community.
+* Search function for **Communities**, including page count and total number of search results.
+* Ability to specify an alternate URL when a user clicks **View opportunity** from a community profile page.
+* Ability to add community profile page banners, which display at the top of the community profile page.
+* A new field to the **Manage community** page that captures the URL for information about participant requirements.
+* Removed **Community manager** label from members list on community profile page.
+* Updated the help text in the community members search box.
+
+#### Changes for Manage applicant flow
+
+* Added a **Display manage applicants** toggle to the **Manage Community** page.
+* Added the ability to add tasks to the Manage applicant view.
+* Added a **Manage applicant** link under each applicant name. The link displays after the creator clicks **Next step**.
+* Redesigned the right rail on an applicant’s application with the information from the **Manage applicant** view toggle.
+* Added ability for creators to edit the **Manage applicant** view on an applicant’s application.
+* Added a **Task** checklist to the right rail on the Manage applicant view.
+* Added a **Not complete** modal that displays when a creator tries to complete an opportunity, but not all applicants have been marked as Task complete.
+* Added a **Tasks not complete** modal that displays when a creator clicks **Complete task** for an applicant.
+
+#### Other changes
+
+•	Added a date range to the **Opportunity CSV** and **Applicant CSV**.
+•	Added a confirmation modal when a user clicks **Withdraw application**.
+•	Updated the “Official use” banner that displays at the top of the page.
+•	Updated user metrics on the **Administration** dashboard.
+•	Updated **Details** and **Laterals** to include a messaging after a user clicks **Next step** at the bottom of an opportunity page.
+
+### Bug fixes
+
+We fixed the following:
+
+* An issue with the statement of interest during the application process.
+* A page time-out issue caused by vanity URLs.
+* The “Alternate view opportunity URL” field to prevent users from entering bad data.
+
+
 ## Changes made October 2, 2020
 
 ### Site-wide enhancements
@@ -100,83 +148,8 @@ title: What's new with Open Opportunities
 - Fixed the results page so it’s no longer blank when a user searches for a name on the Manage users page.
 - Fixed the preview display of **Estimated start** or **Estimated completion date**.
 
-## Changes made September 4, 2020
 
-### Site-wide enhancements
-
-#### Changes to support the NOAA community
-
-- Added a community **Line Office Manager** toggle within the **Manage Community** feature
-- Created an approval email that goes to the **Line Office Manager** when a new opportunity is posted.
-- Added a message to community members to include a line office and program in their profile.
-
-#### Changes to the Create Opportunity form
-
-- Changed **Ongoing** to **Recurring** on both **Create opportunity** and **Search**.
-- Removed the text **"Requires up to 20% of a participants…"** if the creator selects **Recurring**.
-- Removed the text **"Allow virtual participation"**.
-- Added a **Negotiable** option to the **Where** section.
-- Removed sample **Estimated completion date**.
-- Added new field for **Host office will pay for travel expenses?**
-- Added new **Line office** dropdown.
-- Added new **Program office** dropdown.
-
-#### Changes to opportunity overview page:
-
-- Added a link so the opportunity creator can email all non-selected applicants.
-- Moved the warning text above the **Next step** button.
-- Removed the **Cancel** link (next to Edit).
-- Updated the location text to say **“Virtual and/or [location]”** when both are selected on the create opportunity form.
-- Updated the blue box to display a new **Travel Expenses paid** section.
-
-#### Other changes
-
-- Added markup to the **Stories** section.
-- Added co-owners to the emails that go to opportunity creators.
-- Updated the text in the **Do you want to participate?** modal.
-- Added text-based versions of all emails.
-- Added the number of results beside each filter on the **Search** page.
-- Changed the label from **Total assigned** to **Total selected** in the interactions section of the **Administrator** dashboard.
-- Added ability for site-wide admins to change the community on any opportunity.
-- Added **Line office and Program** to the **Manage opportunities** dashboard.
-
-### Bug Fixes
-
-We fixed the following issues:
-
-- Slow response time on **Manage Opportunities** for administrators.
-- 508 issues on the opportunity card and home page.
-- Renew column not displaying for co-owners (for opportunities with 91+ days of inactivity).
-- Overflowing content in the **What happens next** box on the opportunity page
-- Incorrect sizing of the detail icon on the **Create an opportunity** form.
-- Long opportunity title overlapping the Save link on the opportunity results page.
-- Displaying incorrect selectee count and name information in opportunities export from a certain community.
-- Slow page load when navigating to manage opportunities within a certain community.
-
-### Site-wide enhancements
-
-- Added the ability to display user stories and testimonials on the site.
-- Added ability for a user to save another user’s profile to a **Saved People** page.
-- Updated metrics for sitewide admins to include the number of laterals.
-- Updated the saved search feature to require unique name.
-- Added ability to save an opportunity from the search results page.
-- Added help content for saved searches.
-- Updated the applicant section on an opportunity so it expands when **Continue accepting applications** is toggled on.
-- Updated the location field on the **Create opportunity** page to use autocomplete.
-- Increased the character limit in the community description field.
-- Added markdown to the title and subtitle fields on the community administration page.
-- Made several changes to support the **NOAA community**. Added the following:
-  - A **Line Office and Program** section to the Manage Community page.
-  - The ability to add, edit and delete an existing **Line Office or Program**.
-  - A **Community LOM** column to the **Manage** users section.
-  - A **Line Office and Program** section to the profile for NOAA community members.
-  - The Line Office and Program field to the user csv.
-
-### Bug Fixes
-
-- Fixed issue so that the saved search message displays when an additional filter is added to a search.
-- Fixed issue to include a community image in the email for a new opportunity.
-
+[September 4, 2020](sep-04-2020)  
 [August 21, 2020](aug-21-2020)  
 [August 7, 2020](aug-07-2020)  
 [June 12, 2020](jun-12-2020)  
