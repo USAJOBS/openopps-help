@@ -1,5 +1,5 @@
 ---
-permalink: administrators/interactions
+permalink: administrators/interactions-metrics
 layout: article
 section: administrators
 category: administrators
