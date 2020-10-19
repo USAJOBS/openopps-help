@@ -46,4 +46,4 @@ The total number of opportunities that have a **Completed** status.
 ## Canceled
 The total number of opportunities that have a **Canceled** status.
 
-[Learn more about the different status types](../../opportunity-creators/opportunity-status).
+[Learn more about the different status types](../../opportunity-creators/opportunity-status/).
