@@ -53,6 +53,11 @@
         What is login.gov and why do I have to create an account?
       </a>
     </li>
+    <li>
+      <a {% if page.sidenav == 'account-badges' %}class="usa-current"{% endif %} href="{{ '/profile/badges' | relative_url}}">
+        What are badges?
+      </a>
+    </li>
   </ul>
 {% endif %}
 {% if page.section == 'opportunity-creators' %}
