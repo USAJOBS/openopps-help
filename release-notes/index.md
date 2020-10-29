@@ -7,6 +7,35 @@ category: release-notes
 title: What's new with Open Opportunities
 ---
 
+## Changes made October 30, 2020
+
+### Site-wide enhancements
+
+* Added commas to separate keywords on the opportunity card.
+* Sorted **Member list** alphabetically on community profile page.
+* Added the number of draft opportunities to the community dashboard.
+* Added auto filter and ability to search by name, title or agency for the community member search.
+* Moved the **View opportunities** button to the blue box on community profile page.
+* Added feature so creators can’t invite ineligible participants to their opportunities.
+* Updated emails to go directly to co-owners.
+* Updated **Search opportunities by** section to only display eligible opportunities, as well as the number of results for each category.
+* Updated emails to be sent from USAJOBS instead of AWS.
+* Added two-way data update to user profile fields.
+
+#### Changes to support the NOAA community
+
+* Added **Start** and **End dates** as a required step before **Task complete**.
+* Added **Start** and **End dates** to the **Next steps** modal and updated the **Task not complete** modal.
+* Updated **Create an opportunity** form to display **Virtual** and **In-person** options as checkboxes.
+* Made the **Line/Program office** field required.
+
+### Bug Fixes
+
+* Fixed a reset issue when you click **Cancel** when editing the right rail of an application.
+* Fixed a display issue with the **Manage applicant** right rail when you undo **Task complete**.
+* Fixed issue so when you duplicate an opportunity it does not add the opportunity to the current user’s favorites.
+
+
 ## Changes made October 16, 2020
 
 ### Site-wide enhancements
@@ -108,47 +137,8 @@ We fixed the following:
 - Fixed image rendering issue for stories on mobile.
 - Fixed punctuation appearing twice in user stories.
 
-## Changes made September 18, 2020
 
-### Site-wide enhancements
-
-- Launched a new feature that lets opportunity creators invite people to an opportunity. The new feature includes:
-  - A modal that displays when a user is invited to an opportunity.
-  - A success banner that displays when a user is successfully invited to an opportunity.
-- Made a few changes to the **Our customers’ stories** section, including:
-  - Increased the height of the banner on the stories page.
-  - Adjusted the font size of the text in the See what people are saying about us box.
-  - Added ability to include **Agency** name in stories.
-  - Adjusted the size of the story card and image on the stories preview page.
-- Updated the opportunity page to collapse the **Not-selected** section after an opportunity creator clicks **Next steps**.
-- Changed the label **Cancel your application** to **Withdraw your application**.
-
-### Changes to support the NOAA community
-
-- Added **Estimated start date** and **Estimated completion date** fields to the **Create opportunity** form.
-- Added **Line office** and **Program** fields (if included) to the blue box on the opportunity detail page.
-- Changed the **Grade** field label to **Grade/Band** on the **Create opportunity** form.
-- Added ability to include multiple **Grade/Bands** and updated how they’re displayed on detail and lateral opportunities.
-- Added ability to search detail opportunities by **Grade** range.
-- Updated opportunity preview page and duplicate feature to include all new fields.
-- Added a toggle to the **Manage community** page so users can turn “optional fields” on or off to display on the **Create opportunity** form.
-- Added a toggle to **Community** administration page to specify office naming conventions.
-- Added an **Apply confirmation modal** and updated the text for detail and lateral opportunities.
-- Added help link for Step 2 on the **Create opportunity** page.
-- Updated permissions so that only site-wide administrators can add or edit the following fields on the community attribute table:
-  - Community type
-  - Target audience
-  - Duration
-  - Agency
-- Added **Community attributes** section to display information on the **Community profile** page.
-- Added **Community marketing** content section to the **Administration** dashboard.
-
-### Bug fixes
-
-- Fixed the results page so it’s no longer blank when a user searches for a name on the Manage users page.
-- Fixed the preview display of **Estimated start** or **Estimated completion date**.
-
-
+[September 18, 2020](sep-18-2020)  
 [September 4, 2020](sep-04-2020)  
 [August 21, 2020](aug-21-2020)  
 [August 7, 2020](aug-07-2020)  
