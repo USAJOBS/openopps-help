@@ -31,6 +31,11 @@
         How long does it take to post an opportunity and review applicants?
       </a>
     </li>
+    <li>
+      <a {% if page.sidenav == 'web-browser' %}class="usa-current"{% endif %} href="{{ '/getting-started/web-browser' | relative_url }}">
+        Which web browsers work best with Open Opportunities ?
+      </a>
+    </li>
   </ul>
 {% endif %}
 {% if page.section == 'profile' %}
@@ -46,6 +51,11 @@
     <li>
       <a {% if page.sidenav == 'account-login-gov' %}class="usa-current"{% endif %} href="{{ '/profile/login-gov' | relative_url}}">
         What is login.gov and why do I have to create an account?
+      </a>
+    </li>
+    <li>
+      <a {% if page.sidenav == 'account-badges' %}class="usa-current"{% endif %} href="{{ '/profile/badges' | relative_url}}">
+        What are badges?
       </a>
     </li>
   </ul>
