@@ -176,6 +176,11 @@
   </h3>
   <ul class="usa-sidenav-list">   
     <li>
+      <a {% if page.sidenav == 'approve-opportunity' %}class="usa-current"{% endif %} href="{{ '/administrators/approve-opportunity' | relative_url }}">
+        How to approve an opportunity
+      </a>
+    </li>
+    <li>
       <a {% if page.sidenav == 'metrics' %}class="usa-current"{% endif %} href="{{ '/administrators/' | relative_url }}">
         What do the user metrics mean?
       </a>
