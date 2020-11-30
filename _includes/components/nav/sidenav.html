@@ -181,6 +181,11 @@
       </a>
     </li>
     <li>
+      <a {% if page.sidenav == 'add-participant' %}class="usa-current"{% endif %} href="{{ '/administrators/add-participant' | relative_url }}">
+        How to add a participant to an opportunity
+      </a>
+    </li>
+    <li>
       <a {% if page.sidenav == 'add-member' %}class="usa-current"{% endif %} href="{{ '/administrators/add-member' | relative_url }}">
         How to add a member to a community
       </a>
