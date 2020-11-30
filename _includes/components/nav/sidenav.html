@@ -186,6 +186,11 @@
       </a>
     </li>
     <li>
+      <a {% if page.sidenav == 'delete-opportunity' %}class="usa-current"{% endif %} href="{{ '/administrators/delete-opportunity' | relative_url }}">
+        How to delete an opportunity
+      </a>
+    </li>
+    <li>
       <a {% if page.sidenav == 'add-member' %}class="usa-current"{% endif %} href="{{ '/administrators/add-member' | relative_url }}">
         How to add a member to a community
       </a>
