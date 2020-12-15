@@ -1,10 +1,10 @@
 ---
-permalink: administrators/change-community-owner
+permalink: administrators/change-opportunity-owner
 layout: article
 section: administrators
 category: administrators
-sidenav: change-community-owner
-title: How to change the owner of a community
+sidenav: change-opportunity-owner
+title: How to change the owner of an opportunity
 ---
 If you’re a sitewide, agency, or community manager, you can change the owner of an opportunity. You might need to change the owner if the current owner has left your agency and the opportunity needs to stay open or in progress.  The new owner must be in your agency.
 
