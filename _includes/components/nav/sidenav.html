@@ -186,6 +186,10 @@
       </a>
     </li>
     <li>
+      <a {% if page.sidenav == 'delete-participant' %}class="usa-current"{% endif %} href="{{ '/administrators/delete-participant' | relative_url }}">
+        How to delete a participant from an opportunity
+      </a>
+    </li>    <li>
       <a {% if page.sidenav == 'delete-opportunity' %}class="usa-current"{% endif %} href="{{ '/administrators/delete-opportunity' | relative_url }}">
         How to delete an opportunity
       </a>
