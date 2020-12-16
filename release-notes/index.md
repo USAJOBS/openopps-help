@@ -7,6 +7,12 @@ category: release-notes
 title: What's new with Open Opportunities
 ---
 
+## Changes made December 11, 2020
+
+### Site-wide enhancements
+
+* Updated the layout and design across the site to comply with the US Web design system version 2.0.
+
 ## Changes made October 30, 2020
 
 ### Site-wide enhancements
