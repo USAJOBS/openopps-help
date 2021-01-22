@@ -7,6 +7,24 @@ category: release-notes
 title: What's new with Open Opportunities
 ---
 
+## Changes made January 22, 2021
+
+### Sitewide enhancements
+**Profile**
+
+-	Added a notification banner for signed in users to update their profile skills and biography for use in skills matching.
+-	Updated the skills section within the biography to a text box that includes formatting options instead of a select box.
+-	Launched Skills Engine feature—when a user updates their **Skills** or **Biography** and clicks **Save**, their data is sent to Skills Engine and Skills Engine will assign and save related skills tags to the user’s profile behind the scenes.
+
+**Create Opportunity**
+-	Updated the Create opportunity process to 4-steps with a tracker at the top to show progress.
+-	Updated help text for the **What you’ll do**, **What you’ll learn**, and **Requirements** fields, explaining that these fields will be used for skills matching. After clicking Next in step 2, the data for these fields will be sent to Skills Engine.
+-	Moved **Skills** and **Related keywords** to a new step 3.
+-	Updated Step 3 to display the relevant skills from Skills engine and other skills that are available.
+-	Added ability for Opportunity creators to select up to 5 of the skills to add to their opportunity.
+
+A future release will allow for us to suggest opportunities based on a user’s skills in their profile and the skills on an opportunity.
+
 ## Changes made December 11, 2020
 
 ### Site-wide enhancements
@@ -89,61 +107,7 @@ We fixed the following:
 * A page time-out issue caused by vanity URLs.
 * The “Alternate view opportunity URL” field to prevent users from entering bad data.
 
-
-## Changes made October 2, 2020
-
-### Site-wide enhancements
-
-- Added a **Community** link in the top navigation.
-- Added profile pages for each community.
-- Added markdown to the community manager field in the **Community attributes** page.
-- Added a toggle for custom survey links to the community attributes page
-- Made the following changes to the **Create opportunity** form:
-  - Changed the field label and help text from Series to **Occupational series**.
-  - Added placeholder text in the date fields.
-  - Updated error messaging for start and end date fields.
-- Added a new toggle so administrators can display or not display a community on the **Communities** page.
-- Removed **Internships** link from the navigation.
-- Made the following changes to the stories and testimonials section:
-  - Set image size to 300x300.
-  - Added photos to the See what others are saying about Open Opportunities section.
-  - Split name into two fields on the testimonials section of community attributes.
-  - Changed the link below a testimonial to only display first name.
-  - Added featured stories to the main search page.
-- Added the ability to invite someone to apply to an opportunity.
-- Updated default text on the opportunity detail when no applicants have applied.
-- Updated how you select a community during the opportunity creation process.
-- Added ability for users to search for members by community.
-- Added a field for adding related skills and series to a community.
-- Moved **How often do you need this time?** field under **How many hours do you need?** on the **Create opportunity** form.
-- Added ability to run reports on applicant statistics.
-- Added all new fields to the opportunity csv file.
-- Added custom survey links to the complete emails.
-- Listed community managers on the community profile page.
-- Added an index page listing all communities.
-- Added help content for the following:
-  - What’s the difference between an in person and virtual opportunity.
-  - How to select applicants.
-- Updated the modal display when a user applies for a NOAA opportunity.
-- Added default help text to the invite to opportunity search box.
-- Added the invited to apply section to the signed in dashboard.
-
-### Changes to support the NOAA community
-
-- Updated the NOAA community to include **Line office and Program office** fields:
-  - Added ability to search by these fields.
-  - Added these fields to the **Manage User** page.
-  - Added a banner encouraging users to add these fields to their profile.
-  - Added a toggle to require applicants and creators to have a Line office and Program office in their profile.
-  - Added warning message for applicants and creators when missing Line office and Program office from their profile
-
-### Bug Fixes
-
-- Fixed issue so users don’t have to select a new image (if there is an existing image) when editing a testimonial.
-- Fixed image rendering issue for stories on mobile.
-- Fixed punctuation appearing twice in user stories.
-
-
+[October 2, 2020](oct-02-2020)  
 [September 18, 2020](sep-18-2020)  
 [September 4, 2020](sep-04-2020)  
 [August 21, 2020](aug-21-2020)  

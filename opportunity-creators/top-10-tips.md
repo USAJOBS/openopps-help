@@ -76,6 +76,7 @@ If you’re posting a detail opportunity, make sure to include the word “Detai
 ## What you’ll do
 
 ### Be specific about the work
+We will analyze the content you enter in this section to recommend skills for your opportunity.  
 
 - Describe exactly what needs to be done and what deliverables you expect.
 - Be concise, but offer enough details so the participant knows what's involved.
@@ -84,6 +85,7 @@ If you’re posting a detail opportunity, make sure to include the word “Detai
 ## What you’ll learn
 
 ### Tell the participants what’s in it for them
+We will analyze the content you enter in this section to recommend skills for your opportunity.  
 
 The goal of Open Opportunities is to help participants learn and network.
 
@@ -101,6 +103,18 @@ The DigitalGov usability team asked for help with [writing usability case studie
 
 - Briefly describe what makes your organization unique.
 - Include who the participant will work with on a regular basis.
+
+## Requirements
+### List required certifications, training, or qualifications 
+
+This section only appears if you’re creating a Detail opportunity. We will analyze the content you enter in this section to recommend skills for your opportunity. 
+
+Include all requirements a person must have to participate in the opportunity.
+
+## Skills
+### Add skills to your opportunity
+
+We use Skills Engine ™ to analyze your opportunity and recommend the most relevant skills your participants will need. To get the best results, make sure you complete the **What you’ll do**, **What you’ll learn** and **Requirements** (for detail opportunities only) sections. Adding skills to your opportunity will let participants know what you’re looking for and help your opportunity show up in search results.
 
 ## Market your opportunity
 

@@ -60,11 +60,14 @@ If you’re a federal contractor:
 ## 3. Complete or link your Open Opportunities profile
 Once you’ve created your login.gov account and USAJOBS profile, we’ll link them to your existing Open Opportunities profile. If you don’t have an Open Opportunities profile, we’ll help you complete the final steps of adding skills and a photo.
 
-Your profile highlights your skills, experience and areas of interest, such as career areas, agencies you’re interested in and other topics.  We encourage you to review your information and fill in anything that’s missing.
+Your profile highlights your skills, experience and areas of interest, such as career areas, agencies you’re interested in and other topics.  Complete the skills and biography section of your profile, so we can match you with opportunities based on your skills.
 
 ## Why should I complete my profile?
-Having a complete profile is important because this is what opportunity creators will look at first, if you apply to their opportunity. Also, now that Open Opportunities and USAJOBS share one profile, having a complete one will help you:
+Having a complete profile is important because this is what opportunity creators will look at first, if you apply to their opportunity. Plus, if you fill in your biography and skills, we’ll match you with opportunities based on your skills and experience.
+
+With a complete profile you can: 
+
 * Connect with others who share similar interests and skills.
 * House and manage your contact information, experience, education and documents, all in one place.
-* Get access to future features such as recommended jobs and learning opportunities.
+* Get access to features such as recommended learning opportunities.
 * Have one place to aggregate your learning experiences.
