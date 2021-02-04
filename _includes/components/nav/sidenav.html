@@ -116,6 +116,11 @@
       </a>
     </li>
     <li>
+      <a {% if page.sidenav == 'cancel-opportunity' %}class="usa-current"{% endif %} href="{{ '/opportunity-creators/cancel-opportunity' | relative_url }}">
+        How to cancel an opportunity
+      </a>
+    </li>
+    <li>
       <a {% if page.sidenav == 'opportunity-complete-oppportunity' %}class="usa-current"{% endif %} href="{{ '/opportunity-creators/complete-opportunity' | relative_url }}">
         How to complete and close out an opportunity
       </a>
