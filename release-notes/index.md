@@ -15,6 +15,7 @@ title: What's new with Open Opportunities
 * Added a **Good**, **Better** and **Best** indicator to matching opportunities. This helps a user know how well an opportunity matches their profile.
 * Updated the search results default to sort by **Profile match**.
 * Added a new **Profile match** filter on the search page to filter opportunities by good, better, and best match.
+* Removed completed opportunities from skills search filters to improve system performance
 
 ### Other
 
