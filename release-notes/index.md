@@ -7,6 +7,33 @@ category: release-notes
 title: What's new with Open Opportunities
 ---
 
+## Changes made February 5, 2021
+### Sitewide enhancements
+#### Skills Engine
+
+* Added a **Recommended opportunities** tab to the landing page for signed in users. This tab displays the first six recommended opportunities that match a user based on their profile (skills and biography) and the skills on an opportunity.
+* Added a **Good**, **Better** and **Best** indicator to matching opportunities. This helps a user know how well an opportunity matches their profile.
+* Updated the search results default to sort by **Profile match**.
+* Added a new **Profile match** filter on the search page to filter opportunities by good, better, and best match.
+* Removed completed opportunities from skills search filters to improve system performance
+
+### Other
+
+* Added a new toggle to the community attribute page so community managers can determine where applicant lists will display for all signed in users for opportunities posted in the community.
+* Added a new **Ambassador badge** to award users who are proactive supporters of Open Opportunities. The badge will display in the profile.
+* Made the location field required on the **Create opportunity** page for in-person opportunities.
+* Updated the series filter to show all series in a list.
+* Updated help center links to reflect new help center navigation.
+
+### Bug Fixes
+
+* Fixed several 508 compliance issues.
+* Limited the mm/dd/yyyy fields to 2 or 4 characters respectively.
+* Removed special characters appearing in some emails.
+* Updated a help link on the home page to open in a new window.
+* Resolved issue with emails going to participants login.gov email instead of federal email.
+* Resolved issues with mobile display of series on communities and community attribute page.
+
 ## Changes made January 22, 2021
 
 ### Sitewide enhancements
@@ -59,54 +86,7 @@ A future release will allow for us to suggest opportunities based on a user’s 
 * Fixed a display issue with the **Manage applicant** right rail when you undo **Task complete**.
 * Fixed issue so when you duplicate an opportunity it does not add the opportunity to the current user’s favorites.
 
-
-## Changes made October 16, 2020
-
-### Site-wide enhancements
-
-#### Changes to Communities
-
-Added the following updates to **Community** pages:
-
-* A **community profile summary** to the left-hand side of the page.
-* **Related skills** to the community profile page and individual community card.
-* **Series** to community profile page.
-* **Join** button so users can join a community.
-* **Leave community** button so users can leave a community.
-* Search function for **Communities**, including page count and total number of search results.
-* Ability to specify an alternate URL when a user clicks **View opportunity** from a community profile page.
-* Ability to add community profile page banners, which display at the top of the community profile page.
-* A new field to the **Manage community** page that captures the URL for information about participant requirements.
-* Removed **Community manager** label from members list on community profile page.
-* Updated the help text in the community members search box.
-
-#### Changes for Manage applicant flow
-
-* Added a **Display manage applicants** toggle to the **Manage Community** page.
-* Added the ability to add tasks to the Manage applicant view.
-* Added a **Manage applicant** link under each applicant name. The link displays after the creator clicks **Next step**.
-* Redesigned the right rail on an applicant’s application with the information from the **Manage applicant** view toggle.
-* Added ability for creators to edit the **Manage applicant** view on an applicant’s application.
-* Added a **Task** checklist to the right rail on the Manage applicant view.
-* Added a **Not complete** modal that displays when a creator tries to complete an opportunity, but not all applicants have been marked as Task complete.
-* Added a **Tasks not complete** modal that displays when a creator clicks **Complete task** for an applicant.
-
-#### Other changes
-
-•	Added a date range to the **Opportunity CSV** and **Applicant CSV**.
-•	Added a confirmation modal when a user clicks **Withdraw application**.
-•	Updated the “Official use” banner that displays at the top of the page.
-•	Updated user metrics on the **Administration** dashboard.
-•	Updated **Details** and **Laterals** to include a messaging after a user clicks **Next step** at the bottom of an opportunity page.
-
-### Bug fixes
-
-We fixed the following:
-
-* An issue with the statement of interest during the application process.
-* A page time-out issue caused by vanity URLs.
-* The “Alternate view opportunity URL” field to prevent users from entering bad data.
-
+[October 16, 2020](oct-16-2020)  
 [October 2, 2020](oct-02-2020)  
 [September 18, 2020](sep-18-2020)  
 [September 4, 2020](sep-04-2020)  
