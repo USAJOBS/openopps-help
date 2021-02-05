@@ -1,8 +1,8 @@
 ---
-permalink: opportunity/cancel-opportunity/
+permalink: opportunity-creators/cancel-opportunity/
 layout: article
-section: opportunity
-category: opportunity
+section: opportunity-creators
+category: opportunity-creators
 sidenav: cancel-opportunity
 title: How to cancel an opportunity
 ---
