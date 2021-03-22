@@ -7,6 +7,14 @@ category: release-notes
 title: What's new with Open Opportunities
 ---
 
+## Changes made March 19, 2021
+### Sitewide enhancements
+
+We made significant technical upgrades to the site including:
+
+* Upgraded to latest PostgreSQL client for improved data access and latest PostgreSQL features.
+* Upgraded from NodeJS version 12 to 14 to improve the underlying framework of the site.
+
 ## Changes made February 5, 2021
 ### Sitewide enhancements
 #### Skills Engine
@@ -58,34 +66,8 @@ A future release will allow for us to suggest opportunities based on a user’s 
 
 * Updated the layout and design across the site to comply with the US Web design system version 2.0.
 
-## Changes made October 30, 2020
 
-### Site-wide enhancements
-
-* Added commas to separate keywords on the opportunity card.
-* Sorted **Member list** alphabetically on community profile page.
-* Added the number of draft opportunities to the community dashboard.
-* Added auto filter and ability to search by name, title or agency for the community member search.
-* Moved the **View opportunities** button to the blue box on community profile page.
-* Added feature so creators can’t invite ineligible participants to their opportunities.
-* Updated emails to go directly to co-owners.
-* Updated **Search opportunities by** section to only display eligible opportunities, as well as the number of results for each category.
-* Updated emails to be sent from USAJOBS instead of AWS.
-* Added two-way data update to user profile fields.
-
-#### Changes to support the NOAA community
-
-* Added **Start** and **End dates** as a required step before **Task complete**.
-* Added **Start** and **End dates** to the **Next steps** modal and updated the **Task not complete** modal.
-* Updated **Create an opportunity** form to display **Virtual** and **In-person** options as checkboxes.
-* Made the **Line/Program office** field required.
-
-### Bug Fixes
-
-* Fixed a reset issue when you click **Cancel** when editing the right rail of an application.
-* Fixed a display issue with the **Manage applicant** right rail when you undo **Task complete**.
-* Fixed issue so when you duplicate an opportunity it does not add the opportunity to the current user’s favorites.
-
+[October 30, 2020](oct-30-2020)  
 [October 16, 2020](oct-16-2020)  
 [October 2, 2020](oct-02-2020)  
 [September 18, 2020](sep-18-2020)  
