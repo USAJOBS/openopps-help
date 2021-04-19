@@ -12,10 +12,11 @@ You can’t add a participant to a detail or lateral, because those opportunitie
 To add a participant:
 
 1.	Sign into Open Opportunities.
-2.	Go to the **Administration** section of your dashboard.
-3.	Click **Manage** next to opportunities.
-4.	Select the **Open**, **Not open**, or **In progress** status.
-5.	Find the one-time or recurring opportunity you want to add a participant.
-6.	Click the **Add participant** icon.
-7.	Type the person's name until you see it in the list—they must have an Open Opportunities account.
-8.	Select the person's name and click **Add applicant**.
+2.	Click **Administration**—you’ll go to your dashboard.
+3.	Click the **Sitewide**, **Agency** or **Community** tab. Depending on your role, you’ll only see tab options that you’re an administrator for. If you are a community manager, you will only see the **Community** tab.
+4.	Click **Manage Opportunties** in the sub-navigation.
+5.	Select the **Open**, **Not open**, or **In progress** status.
+6.	Find the one-time or recurring opportunity you want to add a participant.
+7.	Click the **Add participant** icon.
+8.	Type the person's name until you see it in the list—they must have an Open Opportunities account.
+9.	Select the person's name and click **Add applicant**.
