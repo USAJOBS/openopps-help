@@ -11,10 +11,11 @@ If you’re a sitewide, agency, or community manager, you can change the owner o
 To change an owner:
 
 1.	Sign into Open Opportunities.
-2.	Go to the **Administration** section of your dashboard.
-3.	Click **Manage** next to opportunities.
-4.	Select the **Open**, **Not open**, or **In progress** status.
-5.	Find the opportunity where you need to change the owner.
-6.	Click the **Change owner icon**.
-7.	Type the new owner’s name until you see it in the list—they must have an Open Opportunities account and they must be in your agency.
-8.	Select the new owner’s name and click **Change owner**.
+2.	Click **Administration** and you’ll go to your dashboard.
+3.	Go to the **Sitewide**, **Agency** or **Community** tab. Depending on your role, you’ll only see tab options that you’re an administrator for. If you are a community manager, you will only see the **Community** tab.
+4.	Click **Manage Opportunities** in the sub-navigation.
+5.	Select the **Open**, **Not open**, or **In progress** status.
+6.	Find the opportunity where you need to change the owner.
+7.	Click the **Change owner icon**.
+8.	Type the new owner’s name until you see it in the list—they must have an Open Opportunities account and they must be in your agency.
+9.	Select the new owner’s name and click **Change owner**.
