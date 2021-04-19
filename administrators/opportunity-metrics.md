@@ -10,40 +10,48 @@ Opportunity metrics show the number and type of opportunities created. If you’
 
 Sitewide metrics show metrics for all opportunities. Agency metrics show metrics for opportunities within a specific agency.  Community metrics show metrics for opportunities within a specific community.
 
-## Total created
-The total number of opportunities for all statuses including canceled and draft.
+## Total published
+Includes all opportunities with the open status and beyond.
 
-## One-time
+The following metrics are for published opportunities:
+
+### One-time
 The total number of one-time opportunities.
 
-## Recurring
+### Recurring
 The total number of recurring opportunities.
 
-## Part-time detail
+### Part-time detail
 The total number of part-time detail opportunities.
 
-## Full-time detail
+### Full-time detail
 The total number of full-time detail opportunities.
 
-## Draft
+### Lateral
+The total number of lateral detail opportunities.
+
+## Total created
+The total number of opportunities with the draft status and on. 
+
+### Draft
 The total number of opportunities that are in **Draft** status.
 
-## Submitted
+### Submitted
 The total number of opportunities that are in **Submitted** status.
 
-## Open
+### Open
 The total number of opportunities that have an **Open** status. This number includes opportunities that are “in progress” and still accepting applicants.
 
-## Not open
+### Not open
 The total number of opportunities that have a **Not open** status
 
-## In progress
+### In progress
 The total number of opportunities that have an **In progress** status. This number does not include opportunities that are “in progress” and still accepting applicants.
 
-## Completed
+### Completed
 The total number of opportunities that have a **Completed** status.
 
-## Canceled
+### Canceled
 The total number of opportunities that have a **Canceled** status.
 
 [Learn more about the different status types](../opportunity-creators/opportunity-status/).

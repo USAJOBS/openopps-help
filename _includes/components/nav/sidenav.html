@@ -214,6 +214,11 @@
         How to change the owner of an opportunity
       </a>
     </li>
+     <li>
+      <a {% if page.sidenav == 'add-member' %}class="usa-current"{% endif %} href="{{ '/administrators/add-member' | relative_url }}">
+        How to add a member to a community
+      </a>
+    </li>
     <li>
       <a {% if page.sidenav == 'add-community-manager' %}class="usa-current"{% endif %} href="{{ '/administrators/add-community-manager' | relative_url }}">
         How to make a member a community manager

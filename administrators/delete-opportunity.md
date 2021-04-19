@@ -11,10 +11,11 @@ If you're a sitewide or community administrator, you can delete opportunities th
 To delete an opportunity:
 
 1.	Sign into Open Opportunities.
-2.	Go to the **Administration** section of your dashboard.
-3.	Click **Manage** next to opportunities.
-4.	Select the **Draft** or **Submitted** status.
-5.	Go to the opportunity you want to delete.
-6.	Click the red x in the **Delete** column—you’ll see a confirmation message.
-7.	Click **Delete**.
-8.	Repeat these steps for each opportunity you want to delete.
+2.	Click **Administration**—you’ll go to your dashboard.
+3.	Go to the **Sitewide**, **Agency** or **Community** tab. Depending on your role, you’ll only see tab options that you’re an administrator for. If you are a community manager, you will only see the **Community** tab.
+4.	Click **Manage Opportunities** in the sub-navigation.
+5.	Select the **Draft** or **Submitted** status.
+6.	Go to the opportunity you want to delete.
+7.	Click the red x in the **Delete** column—you’ll see a confirmation message.
+8.	Click **Delete**.
+9.	Repeat these steps for each opportunity you want to delete.

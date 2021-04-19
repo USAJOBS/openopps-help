@@ -7,6 +7,23 @@ category: release-notes
 title: What's new with Open Opportunities
 ---
 
+## Changes made April 19, 2021
+### Sitewide enhancements
+We made several changes to the dashboard for sitewide, community managers, and agency administrators, including:
+
+* Updated the dashboard counts on agency and administrator pages to have a consistent look and feel.
+* Created separate tabs for sitewide and agency administrator’s views, preferences, and settings.
+* Added the ability to publish an opportunity from the opportunity page.
+* Updated the status dates on opportunities to increase clarity for sitewide and agency administrators.
+* Updated the **Testimonial** stories page.
+* Added a back button on the homepage to improve navigation and workflow.
+
+### Bug Fixes
+
+* Removed office and bureau data when removing an opportunity from a community.
+* Removed an old help link from the profile page.
+
+
 ## Changes made March 19, 2021
 ### Sitewide enhancements
 
@@ -60,13 +77,8 @@ We made significant technical upgrades to the site including:
 
 A future release will allow for us to suggest opportunities based on a user’s skills in their profile and the skills on an opportunity.
 
-## Changes made December 11, 2020
 
-### Site-wide enhancements
-
-* Updated the layout and design across the site to comply with the US Web design system version 2.0.
-
-
+[December 11, 2020](dec-11-2020)  
 [October 30, 2020](oct-30-2020)  
 [October 16, 2020](oct-16-2020)  
 [October 2, 2020](oct-02-2020)  
