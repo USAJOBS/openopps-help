@@ -7,6 +7,16 @@ category: release-notes
 title: What's new with Open Opportunities
 ---
 
+## Changes made April 30, 2021
+
+### Sitewide enhancements
+
+* Added Google analytics tag manager to track user engagement.
+* Updated the Agency table—you can now search for an agency by acronym and select “agency-wide” as a department option for reporting metrics. 
+* Updated the call to action button for reactivating a community to Request activation.
+* Added a section for who can apply on an opportunity detail page.
+* Moved the Sort by feature to the right of the page on the Saved search and Saved people tabs.
+
 ## Changes made April 19, 2021
 ### Sitewide enhancements
 We made several changes to the dashboard for sitewide, community managers, and agency administrators, including:
@@ -59,25 +69,7 @@ We made significant technical upgrades to the site including:
 * Resolved issue with emails going to participants login.gov email instead of federal email.
 * Resolved issues with mobile display of series on communities and community attribute page.
 
-## Changes made January 22, 2021
-
-### Sitewide enhancements
-**Profile**
-
--	Added a notification banner for signed in users to update their profile skills and biography for use in skills matching.
--	Updated the skills section within the biography to a text box that includes formatting options instead of a select box.
--	Launched Skills Engine feature—when a user updates their **Skills** or **Biography** and clicks **Save**, their data is sent to Skills Engine and Skills Engine will assign and save related skills tags to the user’s profile behind the scenes.
-
-**Create Opportunity**
--	Updated the Create opportunity process to 4-steps with a tracker at the top to show progress.
--	Updated help text for the **What you’ll do**, **What you’ll learn**, and **Requirements** fields, explaining that these fields will be used for skills matching. After clicking Next in step 2, the data for these fields will be sent to Skills Engine.
--	Moved **Skills** and **Related keywords** to a new step 3.
--	Updated Step 3 to display the relevant skills from Skills engine and other skills that are available.
--	Added ability for Opportunity creators to select up to 5 of the skills to add to their opportunity.
-
-A future release will allow for us to suggest opportunities based on a user’s skills in their profile and the skills on an opportunity.
-
-
+[January 22, 2021](jan-22-2021)  
 [December 11, 2020](dec-11-2020)  
 [October 30, 2020](oct-30-2020)  
 [October 16, 2020](oct-16-2020)  
