@@ -7,6 +7,28 @@ category: release-notes
 title: What's new with Open Opportunities
 ---
 
+## Changes made May 14, 2021
+### Sitewide enhancements
+
+* Updated the **Administrator dashboard** with the following:
+  * Improved the user interface improvements in the alignment of text.
+  * Added new banner notifications.
+  * Revised content to be clearer.
+* Created a monthly extract report to assist in measuring the success of skills matching.
+* Updated the button labels on the **Create opportunity** process to be clearer and improve the user flow.
+* Updated the **Profile** to display communities that a user belongs to.
+* Added more date fields to the opportunity .csv to improve metrics reporting.
+* Created another **Certificate of completion** that includes a second signature from a learning officer.
+* Added the **Last updated date** to the opportunity detail to help applicants understand how current an opportunity is.
+* Added a message prompting users to save their profile if they click to make updates in USAJOBS.
+* Updated the behavior of notification banners—if a user dismisses a banner, it will stay dismissed during the users session.
+* Updated the **Saved star** to display on opportunities even when a user is signed out—clicking the **Saved star** will prompt the user to sign in to save the opportunity as a favorite.
+* Updated when an applicant status changes and badge is awarded—we will now update the applicant status and send badges when the opportunity creator marks the participant as complete, instead of when the opportunity is marked as complete.
+### Bug fixes
+
+* Resolved an issue where the Join community button was displaying on the community profile page for closed communities.
+* Resolved a **Duplicate opportunity** issue so it no longer takes too long to copy an opportunity.
+
 ## Changes made April 30, 2021
 
 ### Sitewide enhancements
@@ -42,33 +64,7 @@ We made significant technical upgrades to the site including:
 * Upgraded to latest PostgreSQL client for improved data access and latest PostgreSQL features.
 * Upgraded from NodeJS version 12 to 14 to improve the underlying framework of the site.
 
-## Changes made February 5, 2021
-### Sitewide enhancements
-#### Skills Engine
-
-* Added a **Recommended opportunities** tab to the landing page for signed in users. This tab displays the first six recommended opportunities that match a user based on their profile (skills and biography) and the skills on an opportunity.
-* Added a **Good**, **Better** and **Best** indicator to matching opportunities. This helps a user know how well an opportunity matches their profile.
-* Updated the search results default to sort by **Profile match**.
-* Added a new **Profile match** filter on the search page to filter opportunities by good, better, and best match.
-* Removed completed opportunities from skills search filters to improve system performance
-
-### Other
-
-* Added a new toggle to the community attribute page so community managers can determine where applicant lists will display for all signed in users for opportunities posted in the community.
-* Added a new **Ambassador badge** to award users who are proactive supporters of Open Opportunities. The badge will display in the profile.
-* Made the location field required on the **Create opportunity** page for in-person opportunities.
-* Updated the series filter to show all series in a list.
-* Updated help center links to reflect new help center navigation.
-
-### Bug Fixes
-
-* Fixed several 508 compliance issues.
-* Limited the mm/dd/yyyy fields to 2 or 4 characters respectively.
-* Removed special characters appearing in some emails.
-* Updated a help link on the home page to open in a new window.
-* Resolved issue with emails going to participants login.gov email instead of federal email.
-* Resolved issues with mobile display of series on communities and community attribute page.
-
+[February 5, 2021](feb-05-2021)  
 [January 22, 2021](jan-22-2021)  
 [December 11, 2020](dec-11-2020)  
 [October 30, 2020](oct-30-2020)  
