@@ -3,27 +3,19 @@ permalink: administrators/
 layout: article
 section: administrators
 category: administrators
-sidenav: metrics
-title: What do the user metrics mean?
+sidenav: approve-opportunity
+title: How to approve an opportunity
 ---
-User metrics show how many users engage with your agency or community opportunities. If you’re a sitewide, agency or community administrator, you can view and manage the user metrics within the Administration dashboard. 
+If you’re a sitewide, community or sub-community administrator, you are responsible for approving new opportunities to be posted on Open Opportunities. You will get an email when there is an opportunity ready for you to review and approve. You can click on the link in the email to open the opportunity or sign into Open Opportunities at any time to see if you have opportunities to approve.
 
-Sitewide metrics show metrics for all users of Open Opportunities. Agency metrics show metrics for users within a specific agency.  Community metrics show metrics for members of a specific community.
-
-## Total accounts
-The total number of Open Opportunities users with a profile, including disabled profiles (those who haven’t been active for 365 days or have left their federal job and were manually disabled). 
-
-## Disabled accounts
-The total number of users who haven’t been active within the last 365 days or have left their federal job. 
-
-## Active users
-The total number of active users who have signed in within the last 365 days.
-
-## Federal
-The total number of active users who are current federal employees.
-
-## Contractor
-The total number of active users who are federal contractors.
-
-## Student
-The total number of active users who are students and are eligible to apply for internships. This metric will only show for student communities and sitewide administrators.
+1.	Sign in to Open Opportunities.
+2.	Click **Administration** and you’ll go to your dashboard.
+3.	Go to the **Sitewide**, **Agency** or **Community** tab. Depending on your role, you’ll only see tab options that you’re an administrator for. If you are a community manager, you will only see the **Community** tab.
+4.	Click **Manage Opportunities** in the sub-navigation. You’ll see the default view of submitted opportunities that are ready to review.
+5.	Click the opportunity title that you want to review.
+6.	Review the opportunity to make sure it’s easy to understand and has the correct information.
+7.	Email the opportunity creator if you find issues with the content or want to suggest edits. The creator will need to let you know when they’ve made updates. As an administrator you can also edit the opportunity to fix minor spelling mistakes. 
+8.	Go back to the list of submitted opportunities.
+9.	Click the green checkmark under **Publish** if you want to approve the opportunity.
+10.	Click **Publish** on the confirmation modal—the creator will receive an email that their opportunity was approved and published to the site.
+11.	Repeat this process for each submitted opportunity.
