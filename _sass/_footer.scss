@@ -574,6 +574,7 @@ li.usa-footer-primary-content {
       padding: $size-S $size-S $size-S 0;
       font-size: $xsmall-font-size;
       line-height: 1.5;
+      font-weight: normal;
 
       @include grid-media($SM) {
         padding-left: 0;
@@ -583,11 +584,12 @@ li.usa-footer-primary-content {
 
   &__note {
     color: $color-white;
-    font-size: $small-font-size;
+    font-size: $medium-font-size;
     margin-bottom: $size-default;
 
     @include grid-media($ML) {
-      margin-top: $size-M;
+      //margin-top: $size-M;
+      margin-top: 1.3rem;
     }
 
     a {
@@ -618,15 +620,17 @@ li.usa-footer-primary-content {
 
   &__col {
     @include grid-media($L) {
-      @include grid-column(8);
+      @include grid-column(7);
       margin-left: 0;
     }
   }
 
   &__col.usajobs-footer--openopps__contact {
     @include grid-media($L) {
-      @include grid-column(4);
+      @include grid-column(5);
     }
+    margin-top: -10px;
+    
   }
 
   &__contact-email {
@@ -649,7 +653,16 @@ li.usa-footer-primary-content {
     @include grid-media($ML) {
       margin-bottom: $size-default; // Creates a space of 3rem between lines
     }
+
+    .help-email {
+      font-weight: bold;
+      font-size: 2.3rem;
+      padding-right: 1.7rem;
+    }
+
   }
+
+  
 
   ul.usajobs-footer--openopps__subsection-large {
     @include clearfix();
