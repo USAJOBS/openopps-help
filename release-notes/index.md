@@ -7,6 +7,19 @@ category: release-notes
 title: What's new with Open Opportunities
 ---
 
+## Changes made May 28, 2021
+### Sitewide enhancements
+
+* Updated the email notifications.
+* Updated skills engine to display more skill selections and create monthly exports of skills data.
+* Added a **Select date** field for applicants to show when an applicant was selected for an opportunity.
+* Started tracking the **Select date** for applicants who are selected for an opportunity.
+
+### Bug Fixes
+
+* Fixed 508 compliance issues with the profile and community administration settings. 
+
+
 ## Changes made May 14, 2021
 ### Sitewide enhancements
 
@@ -56,14 +69,7 @@ We made several changes to the dashboard for sitewide, community managers, and a
 * Removed an old help link from the profile page.
 
 
-## Changes made March 19, 2021
-### Sitewide enhancements
-
-We made significant technical upgrades to the site including:
-
-* Upgraded to latest PostgreSQL client for improved data access and latest PostgreSQL features.
-* Upgraded from NodeJS version 12 to 14 to improve the underlying framework of the site.
-
+[March 19, 2021](mar-19-2021)  
 [February 5, 2021](feb-05-2021)  
 [January 22, 2021](jan-22-2021)  
 [December 11, 2020](dec-11-2020)  
