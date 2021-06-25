@@ -7,6 +7,24 @@ category: release-notes
 title: What's new with Open Opportunities
 ---
 
+## Changes made June 25, 2021
+### Sitewide enhancements
+#### Discussion Board updates
+
+* Added ability for community managers to block users.
+* Consolidated user permissions to a dedicated page.
+* Created a mobile version of discussion boards.
+* Created several new email notifications that the system will send when:
+  * A user is blocked by a community manager.
+  * A post or comment is reported to the community manager.
+  * A post or comment is deleted by a community manager.
+  * A post or comment has a new reply.
+
+### Bug Fixes
+
+* Fixed 508 issues in several areas of Open Opportunities.
+* Fixed a query issue with searching by an agency.
+
 ## Changes made June 11, 2021
 ### Sitewide enhancements
 #### Email notifications
@@ -77,33 +95,8 @@ Implemented new discussion board features including:
 * Resolved an issue where the Join community button was displaying on the community profile page for closed communities.
 * Resolved a **Duplicate opportunity** issue so it no longer takes too long to copy an opportunity.
 
-## Changes made April 30, 2021
-
-### Sitewide enhancements
-
-* Added Google analytics tag manager to track user engagement.
-* Updated the Agency table—you can now search for an agency by acronym and select “agency-wide” as a department option for reporting metrics. 
-* Updated the call to action button for reactivating a community to Request activation.
-* Added a section for who can apply on an opportunity detail page.
-* Moved the Sort by feature to the right of the page on the Saved search and Saved people tabs.
-
-## Changes made April 19, 2021
-### Sitewide enhancements
-We made several changes to the dashboard for sitewide, community managers, and agency administrators, including:
-
-* Updated the dashboard counts on agency and administrator pages to have a consistent look and feel.
-* Created separate tabs for sitewide and agency administrator’s views, preferences, and settings.
-* Added the ability to publish an opportunity from the opportunity page.
-* Updated the status dates on opportunities to increase clarity for sitewide and agency administrators.
-* Updated the **Testimonial** stories page.
-* Added a back button on the homepage to improve navigation and workflow.
-
-### Bug Fixes
-
-* Removed office and bureau data when removing an opportunity from a community.
-* Removed an old help link from the profile page.
-
-
+[Aoril 30, 2021](apr-30-2021)  
+[April 19, 2021](apr-19-2021)  
 [March 19, 2021](mar-19-2021)  
 [February 5, 2021](feb-05-2021)  
 [January 22, 2021](jan-22-2021)  
