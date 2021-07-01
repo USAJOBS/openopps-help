@@ -24,7 +24,7 @@ Not everyone will see the same filters. If you’re a student looking for an int
 
 You can search for opportunities by the type of skills you have or are looking to gain. Examples are graphic design, writing, photography or data visualization. You can enter as many skills as you’d like and the search results will update based on what you enter.
 
-## Filters for Federal Employees
+## Filters for federal employees
 
 ### Status
 
@@ -54,7 +54,7 @@ You can search for opportunities by career field. Select a career field from the
 
 ### Series
 
-Jobs in the Federal Government are categorized into “series” – a family of similar occupations. You can search for opportunities that fall within a specific occupational series. For example, if you want an opportunity that falls under information technology, you can search by 2200. [See the list of all occupational series](https://www.opm.gov/policy-data-oversight/classification-qualifications/classifying-general-schedule-positions/#url=Standards){:target="_blank"}.
+Jobs in the federal government are categorized into “series” – a family of similar occupations. You can search for opportunities that fall within a specific occupational series. For example, if you want an opportunity that falls under information technology, you can search by 2200. [See the list of all occupational series](https://www.opm.gov/policy-data-oversight/classification-qualifications/classifying-general-schedule-positions/#url=Standards){:target="_blank"}.
 
 ### Time commitment
 
