@@ -45,13 +45,13 @@ In your USAJOBS profile, make sure you:
 If you’re a federal employee:
 
   * Select your **Department & agency**.
-  * Add your **Federal Government email address**.
+  * Add your **federal government email address**.
   * Confirm your federal email address—look for the confirmation email in your inbox.
   * Fill out your **Biography**—this helps other Open Opps users get to know you and managers use it to decide if you're the right fit for the opportunitiy.
   
 If you’re a federal contractor:
 
-  * Select **I am a current contractor working for the Federal Government** in the **Federal Service Experience** section.
+  * Select **I am a current contractor working for the federal government** in the **Federal Service Experience** section.
   * Select the **Department & agency** you’re currently working for.
   * Add your federal email address.
   * Confirm your federal email address—look for the confirmation email in your inbox.
