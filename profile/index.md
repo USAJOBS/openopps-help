@@ -55,7 +55,7 @@ If you’re a federal contractor:
   * Select the **Department & agency** you’re currently working for.
   * Add your federal email address.
   * Confirm your federal email address—look for the confirmation email in your inbox.
-  * Fill out your **Biography**—this helps other Open Opps users get to know you and managers use it to decide if you're the right fit for the opportunitiy.
+  * Fill out the **About me** section—this helps other Open Opps users get to know you and managers use it to decide if you're the right fit for the opportunitiy.
 
 ## 3. Complete or link your Open Opportunities profile
 Once you’ve created your login.gov account and USAJOBS profile, we’ll link them to your existing Open Opportunities profile. If you don’t have an Open Opportunities profile, we’ll help you complete the final steps of adding skills and a photo.
