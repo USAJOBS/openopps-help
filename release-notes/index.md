@@ -7,6 +7,33 @@ category: release-notes
 title: What's new with Open Opportunities
 ---
 
+## Changes made July 9, 2021
+### Sitewide enhancements
+#### User Profile
+
+* Added a new profile settings section to the profile page.
+* Added ability for users to hide fields from the profile.
+* Displayed hidden fields on user’s account setting page.
+* Renamed Biography field to **About Me** on profile page, banners, alerts, and modals. 
+
+#### Discussion board
+
+* Fixed line spacing and padding to improve the layout of text.
+* Improved the breadcrumb on the discussion board pages.
+* Added time stamp to posts and comments.
+
+#### Other
+
+* Created a new tab to for the **What’s New** and **Latest achievement** sections.
+* Added LinkedIn URL to profile pages.
+* Fixed overlap of title headers and the saved star icon on Opportunity cards.
+
+#### Bug fixes
+
+* Fixed the ability for Community managers to see applicant list on active opportunities.
+* Fixed the “created/participated” column and allow for timely updates.
+* Fixed 508 discrepancies on **Stories** page, individual stories, **Manage opportunities**, and the **Manage users** page. 
+
 ## Changes made June 25, 2021
 ### Sitewide enhancements
 #### Discussion Board updates
@@ -72,29 +99,7 @@ Implemented new discussion board features including:
 
 * Fixed 508 compliance issues with the profile and community administration settings. 
 
-
-## Changes made May 14, 2021
-### Sitewide enhancements
-
-* Updated the **Administrator dashboard** with the following:
-  * Improved the user interface improvements in the alignment of text.
-  * Added new banner notifications.
-  * Revised content to be clearer.
-* Created a monthly extract report to assist in measuring the success of skills matching.
-* Updated the button labels on the **Create opportunity** process to be clearer and improve the user flow.
-* Updated the **Profile** to display communities that a user belongs to.
-* Added more date fields to the opportunity .csv to improve metrics reporting.
-* Created another **Certificate of completion** that includes a second signature from a learning officer.
-* Added the **Last updated date** to the opportunity detail to help applicants understand how current an opportunity is.
-* Added a message prompting users to save their profile if they click to make updates in USAJOBS.
-* Updated the behavior of notification banners—if a user dismisses a banner, it will stay dismissed during the users session.
-* Updated the **Saved star** to display on opportunities even when a user is signed out—clicking the **Saved star** will prompt the user to sign in to save the opportunity as a favorite.
-* Updated when an applicant status changes and badge is awarded—we will now update the applicant status and send badges when the opportunity creator marks the participant as complete, instead of when the opportunity is marked as complete.
-### Bug fixes
-
-* Resolved an issue where the Join community button was displaying on the community profile page for closed communities.
-* Resolved a **Duplicate opportunity** issue so it no longer takes too long to copy an opportunity.
-
+[May 14, 2021](may-14-2021)  
 [Aoril 30, 2021](apr-30-2021)  
 [April 19, 2021](apr-19-2021)  
 [March 19, 2021](mar-19-2021)  
