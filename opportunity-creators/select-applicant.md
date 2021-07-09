@@ -17,7 +17,7 @@ To review and select an applicant:
 3. Click on the opportunity you want to review.
 4. Review the list of applicants located in the right column under **Applicants**.
 5. Click **View application** for each applicant you want to review.
-6. Review the applicants’ profile, biography, skills and application (if applicable). You can also call or email the applicant to learn more about their skill set, interests or to get a better idea if they’re the right person for the work.
+6. Review the applicants’ profile, skills, about me section and application (if applicable). You can also call or email the applicant to learn more about their skill set, interests or to get a better idea if they’re the right person for the work.
 7. Go to the **Applicant selection** box and click **Select** or **Don’t select**—you’ll go back to the opportunity. The applicant name will move to either the **Selected applicant** or the **Not-selected applicant** section.
 8. Repeat these steps for each applicant you want to review.
 9. Click **Next step** once you’re done reviewing and selecting the applicants—we’ll send an automatic email to all applicants telling them whether or not they were selected.

@@ -47,7 +47,7 @@ If you’re a federal employee:
   * Select your **Department & agency**.
   * Add your **federal government email address**.
   * Confirm your federal email address—look for the confirmation email in your inbox.
-  * Fill out your **Biography**—this helps other Open Opps users get to know you and managers use it to decide if you're the right fit for the opportunitiy.
+  * Fill out the **About me** section—this helps other Open Opps users get to know you and managers use it to decide if you're the right fit for the opportunitiy.
   
 If you’re a federal contractor:
 
@@ -55,15 +55,15 @@ If you’re a federal contractor:
   * Select the **Department & agency** you’re currently working for.
   * Add your federal email address.
   * Confirm your federal email address—look for the confirmation email in your inbox.
-  * Fill out your **Biography**—this helps other Open Opps users get to know you and managers use it to decide if you're the right fit for the opportunitiy.
+  * Fill out the **About me** section—this helps other Open Opps users get to know you and managers use it to decide if you're the right fit for the opportunitiy.
 
 ## 3. Complete or link your Open Opportunities profile
 Once you’ve created your login.gov account and USAJOBS profile, we’ll link them to your existing Open Opportunities profile. If you don’t have an Open Opportunities profile, we’ll help you complete the final steps of adding skills and a photo.
 
-Your profile highlights your skills, experience and areas of interest, such as career areas, agencies you’re interested in and other topics.  Complete the skills and biography section of your profile, so we can match you with opportunities based on your skills.
+Your profile highlights your skills, experience and areas of interest, such as career areas, agencies you’re interested in and other topics.  Complete the skills and **About me** section of your profile, so we can match you with opportunities based on your skills.
 
 ## Why should I complete my profile?
-Having a complete profile is important because this is what opportunity creators will look at first, if you apply to their opportunity. Plus, if you fill in your biography and skills, we’ll match you with opportunities based on your skills and experience.
+Having a complete profile is important because this is what opportunity creators will look at first, if you apply to their opportunity. Plus, if you fill in your **About me** section and skills, we’ll match you with opportunities based on your skills and experience.
 
 With a complete profile you can: 
 
