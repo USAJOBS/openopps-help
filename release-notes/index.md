@@ -7,6 +7,33 @@ category: release-notes
 title: What's new with Open Opportunities
 ---
 
+## Changes made July 23, 2021
+### Sitewide enhancements
+#### Discussion board
+
+* Updated line spacing and padding to improve the layout of text in posts. 
+* Improved the breadcrumbs on discussion board pages.
+* Added the ability to send an email notification when an administrator deletes a post.
+
+#### Other
+
+* Updated the navigation buttons in the **Create an opportunity** process.
+* Added a success banner that will display when a user makes changes to the community settings page.
+* Updated the label **Official government email address** to **Federal government email address**. 
+* Lowercased “Federal Government” to “federal government” throughout the site.
+* Changed **Series** title to **Occupational series** on the Opportunity Search page.
+* Added **Select date** and **Last updated date** to opportunity .csv.
+* Updated administrator's permissions so they can see all fields on the profile page regardless of a user’s privacy settings.
+* Indented the checkboxes on **Privacy settings** and added a description.
+* Added alt text to the ambassador badge.
+* Moved the title field within the **Create an opportunity** process from step 2 to step 1.
+
+### Bug fixes
+
+* Removed the ability for line/program office managers to click on .csv files.
+* Fixed a CSS display issue with select2 when using search.
+* Updated the discussion board header to **Discussion board latest posts**.
+
 ## Changes made July 9, 2021
 ### Sitewide enhancements
 #### User Profile
@@ -87,18 +114,7 @@ Implemented new discussion board features including:
 * Fixed 508 errors on the Amp report.
 * Fixed the **Open** pill on the opportunity search page.
 
-## Changes made May 28, 2021
-### Sitewide enhancements
-
-* Updated the email notifications.
-* Updated skills engine to display more skill selections and create monthly exports of skills data.
-* Added a **Select date** field for applicants to show when an applicant was selected for an opportunity.
-* Started tracking the **Select date** for applicants who are selected for an opportunity.
-
-### Bug Fixes
-
-* Fixed 508 compliance issues with the profile and community administration settings. 
-
+[May 28, 2021](may-28-2021)  
 [May 14, 2021](may-14-2021)  
 [Aoril 30, 2021](apr-30-2021)  
 [April 19, 2021](apr-19-2021)  
