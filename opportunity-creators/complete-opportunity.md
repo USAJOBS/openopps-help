@@ -3,7 +3,7 @@ permalink: opportunity-creators/complete-opportunity/
 layout: article
 section: opportunity-creators
 category: opportunity-creators
-sidenav: opportunity-complete-opportunity
+sidenav: complete-opportunity
 title: How to complete and close out an opportunity
 ---
 To complete and close out an opportunity, you need to mark all of your participants as complete. Follow these steps:

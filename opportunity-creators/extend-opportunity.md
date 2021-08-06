@@ -4,7 +4,7 @@ redirect_from: /opportunity/extend-opportunity
 layout: article
 section: opportunity-creators
 category: opportunity-creators
-sidenav: opportunity-extend-opportunity
+sidenav: extend-opportunity
 title: How to extend an opportunity
 ---
 
