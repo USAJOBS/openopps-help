@@ -7,7 +7,7 @@ sidenav: account-badges
 title: What are badges?
 ---
 
-You can earn badges by participating in or creating an opportunity. We award badges when all participant tasks are complete and the opportunity creator clicks Complete on the opportunity.
+You can earn badges by participating in or creating an opportunity. We award badges when **all** participant tasks are complete and the opportunity creator clicks **Complete** on the opportunity.
 
 ## Badges for applicants
 You may receive a badge for participating in an opportunity. The different badges are based on the number of opportunities you complete.
@@ -30,8 +30,8 @@ You get the Partner badge after you complete 15 opportunities.
 ## Badges for creators
 You may receive a badge if you create an opportunity. You’ll receive different badges for the different types of opportunities that are available. 
 
-### Mentor
-You’ll get the Mentor badge after you create your first ongoing opportunity.
+### Creator
+You’ll get the Creator badge after you create your first ongoing opportunity.
 
 ### Instigator
 You’ll get the Instigator badge after you create your first one-time opportunity.
@@ -50,4 +50,10 @@ You’ll get the Community manager badge if you assist with the administration o
 Only Administrators and Community managers can award this badge to someone. 
 
 You’ll get the Ambassador badge if you are a champion of Open Opportunities or of a specific community within Open Opportunities. You help get the word out through marketing, promoting and being a pro-active supporter of the program.
+
+### Mentor
+Only Administrators and Community managers can award this badge to someone.
+
+You’ll get the Mentor badge if you have acted as a mentor to another Open Opportunities user.
+
 
