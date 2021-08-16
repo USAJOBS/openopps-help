@@ -7,6 +7,41 @@ category: release-notes
 title: What's new with Open Opportunities
 ---
 
+## Changes made August 6, 2021
+### Sitewide enhancements
+#### Mentoring
+
+* Updated the profile to show mentoring status.
+* Added a mentorship section to **Profile** edit page.
+* Updated the people card to display mentoring status.
+* Added a Mentorship filter to the **Networking** page.
+* Added a new **Creator** badge. 
+* Added alt text to the **Mentor** badge. 
+* Added ability to manually assign the **Mentor** badge to users. 
+* Added a new email notification when a **Mentor** badge is assigned. 
+
+#### Endorsement
+
+* Added ability for opportunity creators to leave endorsements for participants.
+  * Added an endorsement modal during the Task complete process. 
+  * Updated the **Task complete** email notification to include any endorsement.
+* Updated the user **Profile** to display their endorsements. 
+
+#### People search
+
+* Changed **People search** to **Your network** on profile settings.
+* Changed **Saved people** tab on homepage to **Your network**.
+* Updated the **Home** page and **Search** page with a notification that highlights the new networking feature.
+* Added a **Search people** button on **Your network** tab. 
+* Added ability for users who are not signed in to see the **Networking** page. 
+* Revised text on right rail of **Search opportunities** page. 
+
+#### Bug fixes
+
+* Removed the ability for line/program office managers to click on .csv files.
+* Fixed the opportunity application from sending error messages.
+* Resolved elastic search duplication for user profiles.
+
 ## Changes made July 23, 2021
 ### Sitewide enhancements
 #### Discussion board
@@ -79,41 +114,8 @@ title: What's new with Open Opportunities
 * Fixed 508 issues in several areas of Open Opportunities.
 * Fixed a query issue with searching by an agency.
 
-## Changes made June 11, 2021
-### Sitewide enhancements
-#### Email notifications
-Added new email notifications when:
 
-* A user is added as a co-owner of an opportunity. 
-* A co-owner is added as a primary owner of an opportunity. 
-* A primary owner is made co-owner of an opportunity. 
-* A co-owner is removed from an opportunity.
-* A user is made an ambassador to Open Opportunities. 
-
-#### Discussion board
-Implemented new discussion board features including:
-
-* Adding a link to discussion boards from a community page.
-* Added the ability for users to create and edit posts and replies on a discussion board.
-* Added keyword search to find discussion posts and comments.
-* Added the ability for users to report posts and comments.
-* Included new admin permissions (block users, delete posts and comments)
-* Displayed a discussion board sub-header in the community settings page.
-
-#### Other
-
-* Upgraded Select 2 to latest version.
-* Displayed associated communities on a user’s profile.
-* Updated the **Custom URL** destination.
-
-#### Bug fixes
-
-* Fixed the Who may apply display on the opportunity preview page.
-* Fixed an apostrophe error when a user enters an email address and sends to USAJOBS.
-* Removed the duplicate display count on the **Saved people** tab.
-* Fixed 508 errors on the Amp report.
-* Fixed the **Open** pill on the opportunity search page.
-
+[June 11, 2021](jun-11-2021)  
 [May 28, 2021](may-28-2021)  
 [May 14, 2021](may-14-2021)  
 [Aoril 30, 2021](apr-30-2021)  
