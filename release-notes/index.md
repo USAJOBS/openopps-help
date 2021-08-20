@@ -7,6 +7,18 @@ category: release-notes
 title: What's new with Open Opportunities
 ---
 
+## Changes made August 20, 2021
+### Sitewide enhancements
+#### People search
+
+* Added a banner on the Search opportunities page to call out the new **Networking** feature.  
+
+#### Bug fixes
+
+* Fixed an issue so the opportunity tables display for line and program managers and community coordinators.
+* Fixed some styling issues when a user selects **Detail** during the create opportunity process.
+* Fixed the **Ambassador badge** name to match badge image.  
+
 ## Changes made August 6, 2021
 ### Sitewide enhancements
 #### Mentoring
@@ -96,25 +108,8 @@ title: What's new with Open Opportunities
 * Fixed the “created/participated” column and allow for timely updates.
 * Fixed 508 discrepancies on **Stories** page, individual stories, **Manage opportunities**, and the **Manage users** page. 
 
-## Changes made June 25, 2021
-### Sitewide enhancements
-#### Discussion Board updates
 
-* Added ability for community managers to block users.
-* Consolidated user permissions to a dedicated page.
-* Created a mobile version of discussion boards.
-* Created several new email notifications that the system will send when:
-  * A user is blocked by a community manager.
-  * A post or comment is reported to the community manager.
-  * A post or comment is deleted by a community manager.
-  * A post or comment has a new reply.
-
-### Bug Fixes
-
-* Fixed 508 issues in several areas of Open Opportunities.
-* Fixed a query issue with searching by an agency.
-
-
+[June 25, 2021](jun-25-2021)  
 [June 11, 2021](jun-11-2021)  
 [May 28, 2021](may-28-2021)  
 [May 14, 2021](may-14-2021)  
