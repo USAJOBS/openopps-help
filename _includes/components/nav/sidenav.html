@@ -241,4 +241,47 @@
     </li>
   </ul>
 {% endif %}
+{% if page.section == 'networking' %}
+  <h3 class="usajobs-openopps-help-center-article-sidenav__title">
+    Networking
+  </h3>
+  <ul class="usa-sidenav-list">   
+    <li>
+      <a {% if page.sidenav == 'networking' %}class="usa-current"{% endif %} href="{{ '/networking/' | relative_url }}">
+        What is networking?
+      </a>
+    </li>
+    <li>
+      <a {% if page.sidenav == 'search-people' %}class="usa-current"{% endif %} href="{{ '/networking/search-people' | relative_url }}">
+        How to search for and add people to my network
+      </a>
+    </li>
+    <li>
+      <a {% if page.sidenav == 'mentoring' %}class="usa-current"{% endif %} href="{{ '/networking/mentoring' | relative_url }}">
+        What is mentoring?
+      </a>
+    </li>
+    <li>
+      <a {% if page.sidenav == 'become-mentor' %}class="usa-current"{% endif %} href="{{ '/networking/become-mentor' | relative_url }}">
+        How can I become a mentor or say I'm looking for a mentor?
+      </a>
+    </li>    <li>
+      <a {% if page.sidenav == 'find-mentor' %}class="usa-current"{% endif %} href="{{ '/networking/find-mentor' | relative_url }}">
+        How can I find a mentor or someone looking for a mentor?
+      </a>
+    </li>
+  </ul>
+{% endif %}
+{% if page.section == 'communities' %}
+  <h3 class="usajobs-openopps-help-center-article-sidenav__title">
+    Communities
+  </h3>
+  <ul class="usa-sidenav-list">   
+    <li>
+      <a {% if page.sidenav == 'communities' %}class="usa-current"{% endif %} href="{{ '/communities/' | relative_url }}">
+        What is a community?
+      </a>
+    </li>
+  </ul>
+{% endif %}
 </div>
