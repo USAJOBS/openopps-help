@@ -282,6 +282,16 @@
         What is a community?
       </a>
     </li>
+    <li>
+      <a {% if page.sidenav == 'join-discussion' %}class="usa-current"{% endif %} href="{{ '/communities/join-discussion' | relative_url }}">
+        How to join and create community discussion threads
+      </a>
+    </li>
+    <li>
+      <a {% if page.sidenav == 'add-discussion' %}class="usa-current"{% endif %} href="{{ '/communities/add-discussion' | relative_url }}">
+        How to add a discussion board to your community
+      </a>
+    </li>
   </ul>
 {% endif %}
 </div>
