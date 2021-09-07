@@ -7,6 +7,30 @@ category: release-notes
 title: What's new with Open Opportunities
 ---
 
+## Changes made September 3, 2021
+### Sitewide enhancements
+#### Authentication
+
+Made changes to improve the authentication process for new and existing users of Open Opportunities:
+
+* Updated the profile creation process and page for new users.
+* Created a new profile page.
+* Created a new page for ineligible users.
+* Added validation for when a user switches their federal email address.
+* Updated the page that displays after confirming federal email address.
+* Updated some profile fields with prepopulated information coming from an active USAJOBS profile. 
+* Updated the profile page to show user status field.
+
+Implemented a one-year expiration of federal email address confirmation for security purposes:
+
+* Added a warning banner for when a federal email address will expire in 30 days.
+* Updated the **Confirm federal email address** page to display after one-year expiration and after expiration period.
+
+#### Bug fixes
+
+* Fixed the default setting for community question on **Create an opportunity** page.
+* Fixed a validation issue on the detail question on **Create an opportunity** page.
+
 ## Changes made August 20, 2021
 ### Sitewide enhancements
 #### People search
@@ -81,34 +105,7 @@ title: What's new with Open Opportunities
 * Fixed a CSS display issue with select2 when using search.
 * Updated the discussion board header to **Discussion board latest posts**.
 
-## Changes made July 9, 2021
-### Sitewide enhancements
-#### User Profile
-
-* Added a new profile settings section to the profile page.
-* Added ability for users to hide fields from the profile.
-* Displayed hidden fields on user’s account setting page.
-* Renamed Biography field to **About Me** on profile page, banners, alerts, and modals. 
-
-#### Discussion board
-
-* Fixed line spacing and padding to improve the layout of text.
-* Improved the breadcrumb on the discussion board pages.
-* Added time stamp to posts and comments.
-
-#### Other
-
-* Created a new tab to for the **What’s New** and **Latest achievement** sections.
-* Added LinkedIn URL to profile pages.
-* Fixed overlap of title headers and the saved star icon on Opportunity cards.
-
-#### Bug fixes
-
-* Fixed the ability for Community managers to see applicant list on active opportunities.
-* Fixed the “created/participated” column and allow for timely updates.
-* Fixed 508 discrepancies on **Stories** page, individual stories, **Manage opportunities**, and the **Manage users** page. 
-
-
+[July 9, 2021](jul-09-2021)  
 [June 25, 2021](jun-25-2021)  
 [June 11, 2021](jun-11-2021)  
 [May 28, 2021](may-28-2021)  
