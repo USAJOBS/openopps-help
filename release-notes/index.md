@@ -7,6 +7,25 @@ category: release-notes
 title: What's new with Open Opportunities
 ---
 
+## Changes made September 17, 2021
+### Sitewide enhancements
+#### Authentication
+
+* Created a new modal that will display when a user updates their profile to no longer be a current federal employee or federal contractor. The modal will tell them they’re no longer eligible to use Open Opportunities.
+
+#### Endorsements
+
+* Updated the **Profile dashboard** so a participant can see their endorsements and who endorsed them. Participants can also choose if they want others to see their endorsements.
+* Updated the **Task completed email** to include any endorsements.
+
+#### Messaging
+
+* Added a **Messages** area where users can view and manage their email messages from Open Opportunities.  Users can:
+  * Flag messages as read and unread.
+  * Sort messages by newest or oldest.
+  * Filter messages by read or unread.
+  * Delete messages.
+
 ## Changes made September 3, 2021
 ### Sitewide enhancements
 #### Authentication
@@ -78,33 +97,7 @@ Implemented a one-year expiration of federal email address confirmation for secu
 * Fixed the opportunity application from sending error messages.
 * Resolved elastic search duplication for user profiles.
 
-## Changes made July 23, 2021
-### Sitewide enhancements
-#### Discussion board
-
-* Updated line spacing and padding to improve the layout of text in posts. 
-* Improved the breadcrumbs on discussion board pages.
-* Added the ability to send an email notification when an administrator deletes a post.
-
-#### Other
-
-* Updated the navigation buttons in the **Create an opportunity** process.
-* Added a success banner that will display when a user makes changes to the community settings page.
-* Updated the label **Official government email address** to **Federal government email address**. 
-* Lowercased “Federal Government” to “federal government” throughout the site.
-* Changed **Series** title to **Occupational series** on the Opportunity Search page.
-* Added **Select date** and **Last updated date** to opportunity .csv.
-* Updated administrator's permissions so they can see all fields on the profile page regardless of a user’s privacy settings.
-* Indented the checkboxes on **Privacy settings** and added a description.
-* Added alt text to the ambassador badge.
-* Moved the title field within the **Create an opportunity** process from step 2 to step 1.
-
-### Bug fixes
-
-* Removed the ability for line/program office managers to click on .csv files.
-* Fixed a CSS display issue with select2 when using search.
-* Updated the discussion board header to **Discussion board latest posts**.
-
+[July 23, 2021](jul-23-2021)  
 [July 9, 2021](jul-09-2021)  
 [June 25, 2021](jun-25-2021)  
 [June 11, 2021](jun-11-2021)  
