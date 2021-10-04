@@ -7,6 +7,29 @@ category: release-notes
 title: What's new with Open Opportunities
 ---
 
+## Changes made October 1, 2021
+### Sitewide enhancements
+
+* Added a **Last active date** to the profile that displays the last time a user actively signed into Open Opportunities.  This will help users know if who is active when using the **Networking** and **People Search** feature.
+* Updated **Networking** to show all users, not just those that have signed in within the last year.
+
+#### Communities
+
+* Added an **Event** feature and section to communities.  Community events let you:
+  * Create and edit events in the **Manage Community** section (community managers only)
+  * Display events on a community profile page
+  * Added an email to notify a user when a new event is posted for a community that they are a member of.
+  * Updated email settings on the user profile so users can opt out of receiving an email when a community event is posted.
+  * Added an email to notify users when a new discussion is posted to the discussion board for a community that they are a member of.
+  * Updated the email settings on the user profile so users can opt out of receiving an email when a new discussion is posted.
+
+###Bug fixes
+
+* Fixed an issue where the administrator change owner dropdown was not returning results.
+* Fixed an access issue and now requre sitewide administrators to select an agency to access administrative features.
+* Made several updates to resolve 508 compliance issues.
+
+
 ## Changes made September 17, 2021
 ### Sitewide enhancements
 #### Authentication
@@ -62,41 +85,7 @@ Implemented a one-year expiration of federal email address confirmation for secu
 * Fixed some styling issues when a user selects **Detail** during the create opportunity process.
 * Fixed the **Ambassador badge** name to match badge image.  
 
-## Changes made August 6, 2021
-### Sitewide enhancements
-#### Mentoring
-
-* Updated the profile to show mentoring status.
-* Added a mentorship section to **Profile** edit page.
-* Updated the people card to display mentoring status.
-* Added a Mentorship filter to the **Networking** page.
-* Added a new **Creator** badge. 
-* Added alt text to the **Mentor** badge. 
-* Added ability to manually assign the **Mentor** badge to users. 
-* Added a new email notification when a **Mentor** badge is assigned. 
-
-#### Endorsement
-
-* Added ability for opportunity creators to leave endorsements for participants.
-  * Added an endorsement modal during the Task complete process. 
-  * Updated the **Task complete** email notification to include any endorsement.
-* Updated the user **Profile** to display their endorsements. 
-
-#### People search
-
-* Changed **People search** to **Your network** on profile settings.
-* Changed **Saved people** tab on homepage to **Your network**.
-* Updated the **Home** page and **Search** page with a notification that highlights the new networking feature.
-* Added a **Search people** button on **Your network** tab. 
-* Added ability for users who are not signed in to see the **Networking** page. 
-* Revised text on right rail of **Search opportunities** page. 
-
-#### Bug fixes
-
-* Removed the ability for line/program office managers to click on .csv files.
-* Fixed the opportunity application from sending error messages.
-* Resolved elastic search duplication for user profiles.
-
+[August 6, 2021](aug-06-2021)  
 [July 23, 2021](jul-23-2021)  
 [July 9, 2021](jul-09-2021)  
 [June 25, 2021](jun-25-2021)  
