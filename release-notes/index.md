@@ -7,6 +7,41 @@ category: release-notes
 title: What's new with Open Opportunities
 ---
 
+## Changes made October 15, 2021
+### Sitewide enhancements
+#### Messages
+
+* Added mobile view of the messages page.
+* Fixed some design and formatting issues.
+
+#### Community Stories
+
+* Added ability for administrators to create and edit a community story.
+* Added a **Community Stories** tab within the community table.
+* Added the ability to preview a community story on **Community** home page.
+* Created a new page to display all community stories.
+* Created a new page to display selected community story.
+* Added a success banner to display after a user adds or edits a community story.
+
+#### Other
+
+* Moved the **Sign out** link to the main navigation.
+* Removed the supervisory approval on lateral detail opportunities.
+* Added a help link on the **People search** filter.
+* Updated the **Manage Community** tab to add a community administrator option to the **Sort by** feature.
+* Added a default sort order on the **Community** page.
+* Added a success banner to display when a user changes their email settings.
+* Updated the styling of quotes within stories.
+* Removed the red dot next to a users’ name on the home page.
+
+### Bug fixes
+
+* Fixed the display of the **Community title** on **Community search** pages.
+* Fixed 508 issues on the **Community events** tab.
+* Fixed the location display on the **Shared profile** email.
+* Removed inactive members from displaying in search results.
+* Fixed issues with the view count text on the **Discussion posts** page.
+
 ## Changes made October 1, 2021
 ### Sitewide enhancements
 
@@ -72,19 +107,9 @@ Implemented a one-year expiration of federal email address confirmation for secu
 
 * Fixed the default setting for community question on **Create an opportunity** page.
 * Fixed a validation issue on the detail question on **Create an opportunity** page.
+ 
 
-## Changes made August 20, 2021
-### Sitewide enhancements
-#### People search
-
-* Added a banner on the Search opportunities page to call out the new **Networking** feature.  
-
-#### Bug fixes
-
-* Fixed an issue so the opportunity tables display for line and program managers and community coordinators.
-* Fixed some styling issues when a user selects **Detail** during the create opportunity process.
-* Fixed the **Ambassador badge** name to match badge image.  
-
+[August 20, 2021](aug-20-2021)  
 [August 6, 2021](aug-06-2021)  
 [July 23, 2021](jul-23-2021)  
 [July 9, 2021](jul-09-2021)  
