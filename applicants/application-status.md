@@ -27,37 +27,3 @@ You were not selected for the opportunity.
 ### Complete
 
 You’ve completed your tasks for the opportunity.
-
-## Application status for student internship opportunities
-
-### In progress
-
-You’ve started your internship application, but haven’t submitted it yet. You need to complete and submit the application to be considered for the internship.
-
-### Applied
-
-You’ve submitted your internship application.
-
-### Not submitted
-
-You didn’t complete and submit the application before the deadline.
-
-### Primary select
-
-You’ve been selected as a primary candidate for the internship opportunity.
-
-### Not selected
-
-You were not selected for the internship opportunity.
-
-### Alternate select
-
-You’ve been selected as an alternate candidate for the internship opportunity. You may be selected if the primary candidate falls through.
-
-### Completed
-
-You’ve completed your tasks for the internship.
-
-### Not completed
-
-You didn’t complete the internship. This may be because you didn’t show up to start the internship, or you did not complete your tasks before the internship was over.
