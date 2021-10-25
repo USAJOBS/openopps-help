@@ -81,25 +81,3 @@ A virtual opportunity means you can work from wherever you want. Most of your wo
 #### In person
 
 An in-person opportunity requires you to be physically present to do the work. If you select this filter, you can also search by a specific city and state.
-
-## Filters for students and internship opportunities
-
-### Program
-
-Choose the internship program you want to search within. Some programs may not be available to search if it’s outside of their application period.
-
-### Language
-
-You can search for internship opportunities by a foreign language. You’re not required to know a foreign language to apply to internship opportunities, but it might be helpful if you only want to look for internships where you can use your language skills.
-
-### Agency
-
-You can search internships by a specific agency.
-
-### Bureau
-
-You can search internships by a specific bureau.
-
-### Office/post
-
-You can search internships by a specific office or post.
