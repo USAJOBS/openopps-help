@@ -7,6 +7,49 @@ category: release-notes
 title: What's new with Open Opportunities
 ---
 
+## Changes made October 29, 2021
+### Sitewide enhancements 
+
+#### Sitewide events 
+
+* Added a section on the What’s new dashboards tab to display sitewide events. 
+* Created a new page to display all sitewide events. 
+* Added ability to display an event on the following pages: 
+  * Landing page 
+  * What’s new tab 
+  * Search page 
+
+* Added ability for administators to create a new event.  
+* Added ability for administrators to edit an active event.
+* Created several warning modals that display when: 
+  * A user navigates away from event creation page without saving their changes.
+  * A user deletes an active event.
+ 
+ * Created several success banners that display after a user:
+   * Creates a new event.
+   * Edits an active event.
+   * Deletes an event. 
+
+* Updated the user profile to include sitewide email settings, so users can manage the emails they receive.
+* Added email notifications for new events. 
+* Created the ability to share events. 
+
+#### Community Events 
+
+* Added ability to display time and an event title link.
+* Updated the event email sent to community members to include community name and event time.
+* Added ability to display time zones for start and end times (if provided).
+* Increased the font size for the event date in the expanded view. 
+
+#### Other 
+
+* Upgraded the site from USWDS 2.9.0 to USWDS 2.12.1.
+* Moved the Release notes above Latest achievements on What’s New tab. 
+
+### Bug fixes 
+
+* Resolved member count discrepancy on the community card on the Community search page. 
+
 ## Changes made October 15, 2021
 ### Sitewide enhancements
 #### Messages
@@ -58,7 +101,7 @@ title: What's new with Open Opportunities
   * Added an email to notify users when a new discussion is posted to the discussion board for a community that they are a member of.
   * Updated the email settings on the user profile so users can opt out of receiving an email when a new discussion is posted.
 
-###Bug fixes
+### Bug fixes
 
 * Fixed an issue where the administrator change owner dropdown was not returning results.
 * Fixed an access issue and now requre sitewide administrators to select an agency to access administrative features.
@@ -103,7 +146,7 @@ Implemented a one-year expiration of federal email address confirmation for secu
 * Added a warning banner for when a federal email address will expire in 30 days.
 * Updated the **Confirm federal email address** page to display after one-year expiration and after expiration period.
 
-#### Bug fixes
+### Bug fixes
 
 * Fixed the default setting for community question on **Create an opportunity** page.
 * Fixed a validation issue on the detail question on **Create an opportunity** page.
