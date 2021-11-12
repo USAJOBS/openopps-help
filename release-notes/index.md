@@ -7,6 +7,49 @@ category: release-notes
 title: What's new with Open Opportunities
 ---
 
+## Changes made November 12, 2021
+### Sitewide enhancements
+
+#### Sitewide Events
+
+* Updated how events display—we will remove events on the Event page when the start date or end date (if provided) has passed. 
+* Changed **Display** column to **Featured** events.
+* Removed the maximum number of sitewide events that a user can display. 
+* Added a banner telling users to edit their email settings to receive email notifications of new events. 
+
+#### Communities
+
+* Changed the font color of the story title and author name to black. 
+* Changed capitalization for **View All Stories** and **Read More** to lower case.
+* Added several warning modals to display when a user selects cancel while:
+  * Creating a new story page.
+  * Editing an event
+  * Creating a new community.
+
+* Added a confirmation modal that displays when a user joins an open community. 
+* Added a success banner that displays when a user joins a community. 
+
+#### Other
+
+* Fixed the overlap of profile text and icon in mobile view. 
+* Updated the opportunity list to only show opportunities a user is selected for.
+* Revised the text on success banner when a user changes their email setting.
+* Completed code refactor.
+* Added a unique ID to **Find opportunities** buttons on landing page. 
+
+### Bug fixes
+
+* Fixed the **Community** dropdown when creating an opportunity for a specific community.
+* Fixed closed communities displaying as open.
+* Fixed the display of the organization title on opportunity preview and create pages.
+* Deleted the verified government email address from the record table.
+* Resolved 508 issues with admin events, search, and view events.
+* Fixed the display of the Department of State admin dashboard for community admin.
+* Updated to use the correct banner when deactivating a community.
+* Reduced window size on search page.
+* Stopped sending the message center notification for when a user earns a new badge after completing five tasks.
+* Removed special characters when email is sent to message center.
+
 ## Changes made October 29, 2021
 ### Sitewide enhancements 
 
@@ -127,31 +170,8 @@ title: What's new with Open Opportunities
   * Filter messages by read or unread.
   * Delete messages.
 
-## Changes made September 3, 2021
-### Sitewide enhancements
-#### Authentication
-
-Made changes to improve the authentication process for new and existing users of Open Opportunities:
-
-* Updated the profile creation process and page for new users.
-* Created a new profile page.
-* Created a new page for ineligible users.
-* Added validation for when a user switches their federal email address.
-* Updated the page that displays after confirming federal email address.
-* Updated some profile fields with prepopulated information coming from an active USAJOBS profile. 
-* Updated the profile page to show user status field.
-
-Implemented a one-year expiration of federal email address confirmation for security purposes:
-
-* Added a warning banner for when a federal email address will expire in 30 days.
-* Updated the **Confirm federal email address** page to display after one-year expiration and after expiration period.
-
-### Bug fixes
-
-* Fixed the default setting for community question on **Create an opportunity** page.
-* Fixed a validation issue on the detail question on **Create an opportunity** page.
  
-
+[September 3, 2021](sep-03-2021)  
 [August 20, 2021](aug-20-2021)  
 [August 6, 2021](aug-06-2021)  
 [July 23, 2021](jul-23-2021)  
