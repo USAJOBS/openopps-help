@@ -7,6 +7,27 @@ category: release-notes
 title: What's new with Open Opportunities
 ---
 
+## Changes made November 26, 2021 
+### Sitewide enhancements
+#### Sitewide events 
+
+* Revised the success banner that displays after creating a sitewide event. The banner now includes the total number of events you can display.  
+
+#### Communities
+
+* Removed a modal so it no longer displays when a user joins a community. 
+
+#### Other 
+
+* Fixed an issue using parenthesis with skills engine—doing so will not stop a user from progressing through the **Create opportunity** process.  
+* Updated the time format in multiple areas of the site to be consistent. 
+* Worked on the future Student Marketplace feature—this will offer the ability to create and apply to unpaid internships (feature is not live yet).
+
+### Bug fixes 
+
+* Fixed an issue so non-federal users can not access an open community. 
+
+
 ## Changes made November 12, 2021
 ### Sitewide enhancements
 
@@ -151,26 +172,7 @@ title: What's new with Open Opportunities
 * Made several updates to resolve 508 compliance issues.
 
 
-## Changes made September 17, 2021
-### Sitewide enhancements
-#### Authentication
-
-* Created a new modal that will display when a user updates their profile to no longer be a current federal employee or federal contractor. The modal will tell them they’re no longer eligible to use Open Opportunities.
-
-#### Endorsements
-
-* Updated the **Profile dashboard** so a participant can see their endorsements and who endorsed them. Participants can also choose if they want others to see their endorsements.
-* Updated the **Task completed email** to include any endorsements.
-
-#### Messaging
-
-* Added a **Messages** area where users can view and manage their email messages from Open Opportunities.  Users can:
-  * Flag messages as read and unread.
-  * Sort messages by newest or oldest.
-  * Filter messages by read or unread.
-  * Delete messages.
-
- 
+[September 17, 2021](sep-17-2021)   
 [September 3, 2021](sep-03-2021)  
 [August 20, 2021](aug-20-2021)  
 [August 6, 2021](aug-06-2021)  
