@@ -28,3 +28,5 @@ You can find a mentor or someone who is looking for a mentor through Your networ
 4. Go to the filters on the right side of the page.
 5. Select **Willing to mentor** if you're looking for a mentor.
 6. Select **Looking for a mentor** if you're looking for a mentor or someone who wants a mentor.
+
+[Watch this short video on how to use the mentoring feature](https://www.youtube.com/watch?v=qPf3vEWPbPU){:target="_blank"}.
