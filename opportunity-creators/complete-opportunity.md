@@ -17,3 +17,5 @@ The opportunity status on your dashboard will change to **Completed** and we’l
 
 ## Complete the survey 
 Once you complete and close an opportunity, you’ll receive an email with a link to a survey about your experience. Please take time to complete the survey.  The participants will also receive an email with a survey.
+
+[Watch this short video on how to complete an opportunity](https://www.youtube.com/watch?v=dXLhHMcMCzQ){:target="_blank"}.
