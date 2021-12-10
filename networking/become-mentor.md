@@ -16,3 +16,4 @@ To be a mentor or a mentee, you need to edit your profile to select those option
 5. Select the box(es) for **Willing to mentor** or **Looking for a mentor**&mdash;you can be both.
 6. Click **Save**.
 
+[Watch this short video on how to use the mentoring feature](https://www.youtube.com/watch?v=qPf3vEWPbPU){:target="_blank"}.

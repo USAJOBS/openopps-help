@@ -7,6 +7,34 @@ category: release-notes
 title: What's new with Open Opportunities
 ---
 
+## Changes made December 10, 2021
+### Sitewide enhancements 
+
+* Upgraded the site to the latest version of NodeJS.
+* Added a warning modal that displays when a user uses Internet Explorer for browsing open opportunities.
+* Created a administrator settings tab for **Stories**.
+* Updated timeout settings from 15 to 20 minutes.
+* Updated timeout warning to display after 12 minutes of activity. 
+
+#### Opportunities
+
+* Separated location(s) on the opportunity cards and pages to better show which opportunities are virtual and in person.
+* Added an **Opportunity type** tag to all opportunity cards. 
+
+#### Sitewide events
+
+* Created a warning modal that will display when an administrator cancels out of an creating an event without saving.
+* Added **Active** and **Expired** tabs to help administrators manage sitewide events. 
+
+#### Communities
+
+* Added a default image that will display when a community administrator does not upload an image. 
+
+### Bug fixes 
+
+* Fixed an issue on the landing page so event cards will now display properly between ~1054 px wide and ~1005 px wide.
+* Fixed an issue so community managers can now edit their Line/program office.  
+
 ## Changes made November 26, 2021 
 ### Sitewide enhancements
 #### Sitewide events 
@@ -149,29 +177,7 @@ title: What's new with Open Opportunities
 * Removed inactive members from displaying in search results.
 * Fixed issues with the view count text on the **Discussion posts** page.
 
-## Changes made October 1, 2021
-### Sitewide enhancements
-
-* Added a **Last active date** to the profile that displays the last time a user actively signed into Open Opportunities.  This will help users know if who is active when using the **Networking** and **People Search** feature.
-* Updated **Networking** to show all users, not just those that have signed in within the last year.
-
-#### Communities
-
-* Added an **Event** feature and section to communities.  Community events let you:
-  * Create and edit events in the **Manage Community** section (community managers only)
-  * Display events on a community profile page
-  * Added an email to notify a user when a new event is posted for a community that they are a member of.
-  * Updated email settings on the user profile so users can opt out of receiving an email when a community event is posted.
-  * Added an email to notify users when a new discussion is posted to the discussion board for a community that they are a member of.
-  * Updated the email settings on the user profile so users can opt out of receiving an email when a new discussion is posted.
-
-### Bug fixes
-
-* Fixed an issue where the administrator change owner dropdown was not returning results.
-* Fixed an access issue and now requre sitewide administrators to select an agency to access administrative features.
-* Made several updates to resolve 508 compliance issues.
-
-
+[October 1, 2021](oct-01-2021)  
 [September 17, 2021](sep-17-2021)   
 [September 3, 2021](sep-03-2021)  
 [August 20, 2021](aug-20-2021)  
