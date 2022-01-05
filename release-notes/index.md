@@ -7,6 +7,31 @@ category: release-notes
 title: What's new with Open Opportunities
 ---
 
+## Changes made January 7, 2022
+### Sitewide enhancements
+
+* Added the ability for an administrator to unlink an Open Opportunities account from USAJOBS.
+* Added an alert for new users if they’re missing profile information when they first use the site.
+* Added a new section to the user profile page to display any opportunities that a user has created.   
+
+#### Communities
+
+* Updated communities so when a user creates a new community event, it will display within the community by default. 
+
+#### Other
+
+* Made several changes to support the future Internship opportunity feature.
+
+### Bug fixes
+
+* Fixed a modal display issue so it no longer displays after an active session expires.
+* Fixed a display issue with the **Networking** tab so it shows the ‘underline’ which indicates what page the user is on.
+* Fixed a broken link on the dashboard page to go to the correct help center page.
+* Fixed the **Virtual location** filter to show opportunities that are virtual in the search results.
+* Fixed the **Sort by** filter on an active saved search so it displays archived saved searches.
+* Fixed the pagination function on the **Networking** page.
+* Updated the sitewide event card to correctly display the event date. 
+
 ## Changes made December 10, 2021
 ### Sitewide enhancements 
 
@@ -142,41 +167,7 @@ title: What's new with Open Opportunities
 
 * Resolved member count discrepancy on the community card on the Community search page. 
 
-## Changes made October 15, 2021
-### Sitewide enhancements
-#### Messages
-
-* Added mobile view of the messages page.
-* Fixed some design and formatting issues.
-
-#### Community Stories
-
-* Added ability for administrators to create and edit a community story.
-* Added a **Community Stories** tab within the community table.
-* Added the ability to preview a community story on **Community** home page.
-* Created a new page to display all community stories.
-* Created a new page to display selected community story.
-* Added a success banner to display after a user adds or edits a community story.
-
-#### Other
-
-* Moved the **Sign out** link to the main navigation.
-* Removed the supervisory approval on lateral detail opportunities.
-* Added a help link on the **People search** filter.
-* Updated the **Manage Community** tab to add a community administrator option to the **Sort by** feature.
-* Added a default sort order on the **Community** page.
-* Added a success banner to display when a user changes their email settings.
-* Updated the styling of quotes within stories.
-* Removed the red dot next to a users’ name on the home page.
-
-### Bug fixes
-
-* Fixed the display of the **Community title** on **Community search** pages.
-* Fixed 508 issues on the **Community events** tab.
-* Fixed the location display on the **Shared profile** email.
-* Removed inactive members from displaying in search results.
-* Fixed issues with the view count text on the **Discussion posts** page.
-
+[October 15, 2021](oct-15-2021)  
 [October 1, 2021](oct-01-2021)  
 [September 17, 2021](sep-17-2021)   
 [September 3, 2021](sep-03-2021)  
