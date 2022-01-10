@@ -69,6 +69,17 @@
     }
   }
 
+  &__callout2 {
+    max-width: 17.7rem;
+    margin-left: auto;
+    margin-right: auto;
+
+    @include grid-media($M) {
+      float: left;
+      padding: $size-M;
+    }
+  }
+  
   &__callout-link {
     display: block;
     padding: $size-base;
