@@ -19,7 +19,7 @@ If you're a Community Manager, download and use our interactive Community Manage
 * Put your community on a path towards sustained success.
 
 <div class="usajobs-openopps-help-center-article__callout2">
-  <a class="usajobs-openopps-help-center-article__callout-link" href="{{ site.baseurl }}/assets/Community Manager Playbook V3.pdf">
+  <a class="usajobs-openopps-help-center-article__callout-link" href="{{ site.baseurl }}/assets/Community Manager Playbook V3.pdf" target= "blank">
     {% include icons/download.svg %}Download the Community Manager Playbook
   </a>
 </div>
