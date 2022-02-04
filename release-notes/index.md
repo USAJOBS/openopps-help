@@ -7,15 +7,20 @@ category: release-notes
 title: What's new with Open Opportunities
 ---
 
+## Changes made February 4, 2022
+### Other
+
+* Made several changes to support the future **Internship opportunity** feature. These changes are not live yet. 
+
 ## Changes made January 21, 2022
 
 ### Other
 
-* Made several changes to support the future Internship opportunity feature. Changes are not live yet.
+* Made several changes to support the future **Internship opportunity** feature. Changes are not live yet.
 
 ### Bug fixes
 
-* •	Fixed several 508 issues involving the future **Internship opportunity** feature 
+* Fixed several 508 issues involving the future **Internship opportunity** feature 
 
 ## Changes made January 7, 2022
 ### Sitewide enhancements
