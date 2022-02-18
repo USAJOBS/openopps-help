@@ -7,6 +7,17 @@ category: release-notes
 title: What's new with Open Opportunities
 ---
 
+## Changes made February 18th, 2022 
+ 
+### Other 
+
+* Made several changes to support the future internship opportunity feature. These changes are not live yet. 
+
+### Bug fixes
+
+* Fixed an issue where community banners and discussion boards would not change color when customized.
+* Fixed an issue where “inactive” would not display in the community dropdown list.
+
 ## Changes made February 4, 2022
 ### Other
 
@@ -95,51 +106,7 @@ title: What's new with Open Opportunities
 
 * Fixed an issue so non-federal users can not access an open community. 
 
-
-## Changes made November 12, 2021
-### Sitewide enhancements
-
-#### Sitewide Events
-
-* Updated how events display—we will remove events on the Event page when the start date or end date (if provided) has passed. 
-* Changed **Display** column to **Featured** events.
-* Removed the maximum number of sitewide events that a user can display. 
-* Added a banner telling users to edit their email settings to receive email notifications of new events. 
-
-#### Communities
-
-* Changed the font color of the story title and author name to black. 
-* Changed capitalization for **View All Stories** and **Read More** to lower case.
-* Added several warning modals to display when a user selects cancel while:
-  * Creating a new story page.
-  * Editing an event
-  * Creating a new community.
-
-* Added a confirmation modal that displays when a user joins an open community. 
-* Added a success banner that displays when a user joins a community. 
-
-#### Other
-
-* Fixed the overlap of profile text and icon in mobile view. 
-* Updated the opportunity list to only show opportunities a user is selected for.
-* Revised the text on success banner when a user changes their email setting.
-* Completed code refactor.
-* Added a unique ID to **Find opportunities** buttons on landing page. 
-
-### Bug fixes
-
-* Fixed the **Community** dropdown when creating an opportunity for a specific community.
-* Fixed closed communities displaying as open.
-* Fixed the display of the organization title on opportunity preview and create pages.
-* Deleted the verified government email address from the record table.
-* Resolved 508 issues with admin events, search, and view events.
-* Fixed the display of the Department of State admin dashboard for community admin.
-* Updated to use the correct banner when deactivating a community.
-* Reduced window size on search page.
-* Stopped sending the message center notification for when a user earns a new badge after completing five tasks.
-* Removed special characters when email is sent to message center.
-
-
+[November 12, 2021](nov-12-2021)  
 [October 29, 2021](oct-29-2021)  
 [October 15, 2021](oct-15-2021)  
 [October 1, 2021](oct-01-2021)  
