@@ -7,7 +7,7 @@ category: release-notes
 title: What's new with Open Opportunities
 ---
 
-## Changes made March 2, 2022
+## Changes made March 4, 2022
 ### Sitewide enhancements
 
 * Added the ability for users to enter demographic data. 
