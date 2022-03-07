@@ -7,6 +7,22 @@ category: release-notes
 title: What's new with Open Opportunities
 ---
 
+## Changes made March 2, 2022
+### Sitewide enhancements
+
+* Added the ability for users to enter demographic data. 
+* Updated the monthly endorsement report used for data analysis purposes. 
+* Updated the monthly mentor report used for data analysis purposes. 
+
+### Other  
+
+* Made several changes to support the future internship opportunity feature. These changes are not live yet.  
+ 
+### Bug fixes 
+
+* Fixed a display issue with usajobs.gov URL’s on the community search pages. 
+
+
 ## Changes made February 18th, 2022 
  
 ### Other 
@@ -84,28 +100,9 @@ title: What's new with Open Opportunities
 ### Bug fixes 
 
 * Fixed an issue on the landing page so event cards will now display properly between ~1054 px wide and ~1005 px wide.
-* Fixed an issue so community managers can now edit their Line/program office.  
+* Fixed an issue so community managers can now edit their Line/program office.   
 
-## Changes made November 26, 2021 
-### Sitewide enhancements
-#### Sitewide events 
-
-* Revised the success banner that displays after creating a sitewide event. The banner now includes the total number of events you can display.  
-
-#### Communities
-
-* Removed a modal so it no longer displays when a user joins a community. 
-
-#### Other 
-
-* Fixed an issue using parenthesis with skills engine—doing so will not stop a user from progressing through the **Create opportunity** process.  
-* Updated the time format in multiple areas of the site to be consistent. 
-* Worked on the future Student Marketplace feature—this will offer the ability to create and apply to unpaid internships (feature is not live yet).
-
-### Bug fixes 
-
-* Fixed an issue so non-federal users can not access an open community. 
-
+[November 26, 2021](nov-26-2021)  
 [November 12, 2021](nov-12-2021)  
 [October 29, 2021](oct-29-2021)  
 [October 15, 2021](oct-15-2021)  
