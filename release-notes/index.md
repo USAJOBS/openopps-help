@@ -7,6 +7,23 @@ category: release-notes
 title: What's new with Open Opportunities
 ---
 
+## Changes made March 18, 2022
+### Sitewide enhancements  
+
+* Added the ability for users to edit their demographic data on the profile page.
+
+### Other
+
+* Made several changes to support the future internship opportunity feature. These changes are not live yet.
+
+### Bug fixes
+
+* Fixed an issue so a blank page no longer displays when updating an application.
+* Fixed an issue so the user count on the networking page shows the correct number of users.
+* Fixed an issue so validation text no longer displays after uploading a required document.
+* Fixed an issue so internships will show on the dashboard of a new owner.  
+
+
 ## Changes made March 4, 2022
 ### Sitewide enhancements
 
@@ -74,34 +91,8 @@ title: What's new with Open Opportunities
 * Fixed the pagination function on the **Networking** page.
 * Updated the sitewide event card to correctly display the event date. 
 
-## Changes made December 10, 2021
-### Sitewide enhancements 
 
-* Upgraded the site to the latest version of NodeJS.
-* Added a warning modal that displays when a user uses Internet Explorer for browsing open opportunities.
-* Created a administrator settings tab for **Stories**.
-* Updated timeout settings from 15 to 20 minutes.
-* Updated timeout warning to display after 12 minutes of activity. 
-
-#### Opportunities
-
-* Separated location(s) on the opportunity cards and pages to better show which opportunities are virtual and in person.
-* Added an **Opportunity type** tag to all opportunity cards. 
-
-#### Sitewide events
-
-* Created a warning modal that will display when an administrator cancels out of an creating an event without saving.
-* Added **Active** and **Expired** tabs to help administrators manage sitewide events. 
-
-#### Communities
-
-* Added a default image that will display when a community administrator does not upload an image. 
-
-### Bug fixes 
-
-* Fixed an issue on the landing page so event cards will now display properly between ~1054 px wide and ~1005 px wide.
-* Fixed an issue so community managers can now edit their Line/program office.   
-
+[December 10, 2021](dec-10-2021)  
 [November 26, 2021](nov-26-2021)  
 [November 12, 2021](nov-12-2021)  
 [October 29, 2021](oct-29-2021)  
