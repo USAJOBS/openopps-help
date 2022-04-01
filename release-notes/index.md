@@ -7,6 +7,20 @@ category: release-notes
 title: What's new with Open Opportunities
 ---
 
+## Changes made April 1, 2022    
+### Sitewide enhancements
+
+* Updated the formatting of the certificates we issue when a user completes an opportunity or internship. 
+
+### Other
+
+* Made several changes to support the future internship opportunity feature. These changes are not live yet.
+
+### Bug fixes
+
+* Fixed an issue where some federal employees were not able to create an account. 
+* Fixed an issue where creators were re-directed to the home page instead of the profile page when selecting an applicant. 
+
 ## Changes made March 18, 2022
 ### Sitewide enhancements  
 
