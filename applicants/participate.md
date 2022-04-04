@@ -5,7 +5,7 @@ layout: article
 section: applicants
 category: applicants
 sidenav: apply-participate
-title: How to apply to an opportunity
+title: How to apply to an opportunity or internship
 ---
 
 Participating in an opportunity or internship is a great way to gain experience, contribute your expertise and work with others across the federal government.
