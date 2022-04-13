@@ -8,7 +8,7 @@ title: How to approve an opportunity or internship
 ---
 If you’re a sitewide or community administrator, you are responsible for approving new opportunities or internships to be posted on Open Opportunities. You will get an email when there is an <a href="#How_to_approve_an_opportunity">opportunity </a> or <a href="#How_to_approve_an_internship">internship </a> ready for you to review and approve. You can click on the link in the email to open the opportunity or internship or sign into Open Opportunities at any time to see if you have anything to approve.
 
-<h3 id="How_to_approve_an_opportunity">How to approve an opportunity</h3>
+<h3 id="How_to_approve_an_opportunity">How to approve an opportunity:</h3>
 
 1.	Sign in to Open Opportunities.
 2.	Click **Administration** and you’ll go to your dashboard.
@@ -22,7 +22,7 @@ If you’re a sitewide or community administrator, you are responsible for appro
 10.	Click **Publish** on the confirmation modal—the creator will receive an email that their opportunity was approved and published to the site.
 11.	Repeat this process for each submitted opportunity.
 
-<h3 id="How_to_approve_an_internship">How to approve an internship</h3>
+<h3 id="How_to_approve_an_internship">How to approve an internship:</h3>
 
 1.	Sign in to Open Opportunities.
 2.	Click **Administration** and you’ll go to your dashboard.
