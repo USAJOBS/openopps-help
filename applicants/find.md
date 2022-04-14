@@ -20,8 +20,6 @@ Use the keyword search box to enter an opportunity name, skill, other keywords. 
 
 You can search for opportunities by the type of skills you have or are looking to gain. Examples are graphic design, writing, photography or data visualization. You can enter as many skills as you’d like and the search results will update based on what you enter.
 
-## Filters for federal employees
-
 ### Status
 
 Every opportunity has a status, depending on where it is in the process. You can search for and filter opportunities by one of the following statuses.
