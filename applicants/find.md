@@ -5,7 +5,7 @@ layout: article
 section: applicants
 category: applicants
 sidenav: opportunity-search
-title: How to search for an opportunity?
+title: How to search for an opportunity
 ---
 
 You can search for opportunities by keyword or filters.
@@ -15,10 +15,6 @@ You can search for opportunities by keyword or filters.
 Use the keyword search box to enter an opportunity name, skill, other keywords. The keyword search box is located at the top of the page or you can click the search icon located in the upper right corner.
 
 ## Search by filters
-
-Not everyone will see the same filters. If you’re a student looking for an internship, you’ll only see [filters that apply to internship opportunities](#filters-for-students-and-internship-opportunities). If you’re a federal employee, you’ll see different filters.
-
-## Filters for everyone
 
 ### Skill
 
