@@ -7,6 +7,43 @@ category: release-notes
 title: What's new with Open Opportunities
 ---
 
+## Changes made April 15, 2022
+### Sitewide enhancements  
+
+* Launched a new Student Internship feature. Federal employees can create internship opportunities and “students” can apply to the internships. The internship feature includes:
+  * A selection process so internship creators can review application details and select or reject student applicants.
+  * New statuses for student internships; Open, Reviewing applications, In progress and Complete. A dedicated page for administrators to manage internships and add co-owners to student internships.
+  * A dedicated search page and filters for internship opportunities.
+  * A custom survey to send to internship creators when an internship is completed.  
+  * The ability to award badges when a student internship is completed.
+
+* The student internship feature will let students:
+  * Upload a resume or transcript.
+  * Indicate language proficiency.
+  * Select skills during the application process.
+
+### Communities 
+
+* Redesigned the community cards. 
+* Updated the community filters to include:
+  * All communities
+  * Student communities
+  * Federal communities
+
+* Created a new community type for student internships.
+* Removed the Applicant management and Opportunity page and apply process sections for student communities.
+* Added a toggle to enable Language and GPA requirements for student communities.
+* Added the ability to create an internship within a student community.
+* Added discussion boards to student communities. 
+
+### Bug fixes 
+
+* Fixed an issue so toggling off community stories and events will remove them from the community profile page.
+* Fixed an issue so the **Back to results** link goes to the correct page.
+* Fixed an issue so the banner goes away after withdrawing an application.
+* Fixed an issue so past events no longer continue to display on the search page.
+* Fixed an issue so a link will display the correct color when revisiting a page.  
+
 ## Changes made April 1, 2022    
 ### Sitewide enhancements
 
@@ -80,32 +117,7 @@ title: What's new with Open Opportunities
 
 * Fixed several 508 issues involving the future **Internship opportunity** feature 
 
-## Changes made January 7, 2022
-### Sitewide enhancements
-
-* Added the ability for an administrator to unlink an Open Opportunities account from USAJOBS.
-* Added an alert for new users if they’re missing profile information when they first use the site.
-* Added a new section to the user profile page to display any opportunities that a user has created.   
-
-#### Communities
-
-* Updated communities so when a user creates a new community event, it will display within the community by default. 
-
-#### Other
-
-* Made several changes to support the future Internship opportunity feature.
-
-### Bug fixes
-
-* Fixed a modal display issue so it no longer displays after an active session expires.
-* Fixed a display issue with the **Networking** tab so it shows the ‘underline’ which indicates what page the user is on.
-* Fixed a broken link on the dashboard page to go to the correct help center page.
-* Fixed the **Virtual location** filter to show opportunities that are virtual in the search results.
-* Fixed the **Sort by** filter on an active saved search so it displays archived saved searches.
-* Fixed the pagination function on the **Networking** page.
-* Updated the sitewide event card to correctly display the event date. 
-
-
+[January 7, 2022](jan-07-2022)  
 [December 10, 2021](dec-10-2021)  
 [November 26, 2021](nov-26-2021)  
 [November 12, 2021](nov-12-2021)  
