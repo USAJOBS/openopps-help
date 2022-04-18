@@ -12,16 +12,14 @@ You can update your application for the following types of opportunities:
 
 1. Details
 2. Laterals
-3. Department of State Unpaid Student Internships
+3. Internships
 
-## Update your application for details and laterals
-
-You can update an application for a detail or lateral opportunity, as long as it’s still open and accepting applications.
+## To update an application:
 
 1. Sign into Open Opportunities.
 2. Click on your name in the navigation—you will go to your landing page.
 3. Go to the list of opportunities under **Participated**.
-4. Find the detail or lateral you want to update and click the link—you’ll go to the opportunity detail page.
+4. Find the dopportunity or internship you want to update and click the link-you'll go to the detail page.
 5. Click **Update application**.
 6. Update your statement of interest or resume.
 7. Click **Submit**.
