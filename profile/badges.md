@@ -1,4 +1,4 @@
---
+---
 permalink: profile/badges/
 layout: article
 section: profile
