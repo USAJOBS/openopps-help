@@ -1,4 +1,4 @@
---
+---
 permalink: applicants/how-to-search-for-internship
 redirect_from: /internship/search/
 layout: article
