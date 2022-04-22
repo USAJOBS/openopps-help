@@ -17,6 +17,14 @@ Any federal employee can create and post an opportunity. Some federal contractor
 
 Current federal employees can apply to and work on opportunities. **If you’re a student** you can apply to internship opportunities.
 
+## Post an internship
+
+If you're a federal employee, you can create and post an internship opportunity. Some federal contractors can post internship opportunities on behalf of their federal manager, <b> but they can't apply to or work on</b> them.
+
+## Work on an internship
+
+<b>If you're a student</b>, you can apply to student internship opportunities.
+
 ## Do I need approval to participate?
 
 Yes. You must have your supervisor’s permission to participate in an opportunity, whether it’s posting an opportunity or applying to one. You must confirm you have your supervisor’s permission during the application process.
