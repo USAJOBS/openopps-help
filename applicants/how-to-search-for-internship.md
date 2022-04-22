@@ -1,4 +1,4 @@
----
+--
 permalink: applicants/how-to-search-for-internship
 redirect_from: /internship/search/
 layout: article
@@ -11,14 +11,13 @@ title: How to search for an internship
 You can search for internships by keyword or filters.
 
 ## Search by keyword
+<hr />
 
 Use the keyword search box to enter an internship name, skill, or other keywords. The keyword search box is located at the top of the page or you can click the search icon located in the upper right corner.
 
 ## Search by filters
-
+<hr />
 Not everyone will see the same filters. If you’re a student looking for an internship, you’ll only see filters pertaining to internships.
-
-## Filters for students
 
 ### Skill
 
