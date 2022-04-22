@@ -1,4 +1,3 @@
-
 <div class="usajobs-openopps-help-center-article-sidenav">
 {% if page.section == 'getting-started' %}
   <h3 class="usajobs-openopps-help-center-article-sidenav__title">
@@ -10,7 +9,7 @@
         What is Open Opportunities?
       </a>
     </li>
-    
+
     <li>
       <a {% if page.sidenav == 'who-can-participate' %}class="usa-current"{% endif %} href="{{ '/getting-started/who-can-participate' | relative_url }}">
         Who can participate?
@@ -53,11 +52,6 @@
         What is login.gov and why do I have to create an account?
       </a>
     </li>
-	  <li>
-      <a {% if page.sidenav == 'privacy-settings' %}class="usa-current"{% endif %} href="{{ '/profile/privacy-settings' | relative_url}}">
-        How to update your privacy and email settings
-      </a>
-    </li> 
     <li>
       <a {% if page.sidenav == 'account-badges' %}class="usa-current"{% endif %} href="{{ '/profile/badges' | relative_url}}">
         What are badges?
@@ -152,14 +146,53 @@
     </li>
   </ul>
 {% endif %}
+{% if page.section == 'internship-creators' %}
+  <h3 class="usajobs-openopps-help-center-article-sidenav__title">
+    Internship creators
+  </h3>
+  <ul class="usa-sidenav-list">
+    <li>
+      <a {% if page.sidenav == 'internship' %}class="usa-current"{% endif %} href="{{ '/internship-creators/' | relative_url }}">
+        How to create and post an internship
+      </a>
+      <a {% if page.sidenav == 'internship-status' %}class="usa-current"{% endif %} href="{{ '/internship-creators/internship-status' | relative_url }}">
+          What does the internship status mean?
+        </a>
+      </li>
+    <li>
+          <a {% if page.sidenav == 'post-internship-to-community' %}class="usa-current"{% endif %} href="{{ '/internship-creators/post-internship-to-community' | relative_url }}">
+        How to post to a community
+      </a>
+    </li>
+    <li>
+          <a {% if page.sidenav == 'select-internship-applicant' %}class="usa-current"{% endif %} href="{{ '/internship-creators/select-internship-applicant' | relative_url }}">
+        How to select an applicant
+      </a>
+    </li>
+  <li>
+    <a {% if page.sidenav == 'complete-internship' %}class="usa-current"{% endif %} href="{{ '/internship-creators/complete-internship' | relative_url }}">
+  How to complete and close out an internship
+  </a>
+  </li>
+  <li>
+    <a {% if page.sidenav == 'cancel-internship' %}class="usa-current"{% endif %} href="{{ '/internship-creators/cancel-internship' | relative_url }}">
+  How to cancel an internship
+  </a>
+  </li>
+    {% endif %}
 {% if page.section == 'applicants' %}
   <h3 class="usajobs-openopps-help-center-article-sidenav__title">
     Applicants
   </h3>
-  <ul class="usa-sidenav-list">   
+  <ul class="usa-sidenav-list">
     <li>
       <a {% if page.sidenav == 'apply-participate' %}class="usa-current"{% endif %} href="{{ '/applicants/' | relative_url }}">
         How to apply to an opportunity
+      </a>
+    </li>
+    <li>
+      <a {% if page.sidenav == 'apply-to-internship' %}class="usa-current"{% endif %} href="{{ '/applicants/apply-to-internship' | relative_url }}">
+        How to apply to an internship
       </a>
     </li>
     <li>
@@ -183,6 +216,11 @@
       </a>
     </li>
     <li>
+      <a {% if page.sidenav == 'internship-search' %}class="usa-current"{% endif %} href="{{ '/applicants/how-to-search-for-internship' | relative_url }}">
+        How to search for an internship
+      </a>
+    </li>
+    <li>
       <a {% if page.sidenav == 'opportunity-save-search' %}class="usa-current"{% endif %} href="{{ '/applicants/save-search' |relative_url }}">
         How to save a search
       </a>
@@ -194,13 +232,13 @@
   <h3 class="usajobs-openopps-help-center-article-sidenav__title">
     Administrators
   </h3>
-  <ul class="usa-sidenav-list">   
+  <ul class="usa-sidenav-list">
     <li>
-      <a {% if page.sidenav == 'approve-opportunity' %}class="usa-current"{% endif %} href="{{ '/administrators/' | relative_url }}">
-        How to approve an opportunity
-      </a>
+    <a {% if page.sidenav == 'approve-opportunity' %}class="usa-current"{% endif %} href="{{ '/administrators/approve-opportunity' | relative_url }}">
+    How to approve an oppourtunity or internship
+    </a>
     </li>
-    <li>
+        <li>
       <a {% if page.sidenav == 'add-participant' %}class="usa-current"{% endif %} href="{{ '/administrators/add-participant' | relative_url }}">
         How to add a participant to an opportunity
       </a>
@@ -209,14 +247,15 @@
       <a {% if page.sidenav == 'delete-participant' %}class="usa-current"{% endif %} href="{{ '/administrators/delete-participant' | relative_url }}">
         How to delete a participant from an opportunity
       </a>
-    </li>    <li>
+    </li>
+    <li>
       <a {% if page.sidenav == 'delete-opportunity' %}class="usa-current"{% endif %} href="{{ '/administrators/delete-opportunity' | relative_url }}">
-        How to delete an opportunity
+        How to delete an opportunity or internship
       </a>
     </li>
-      <li>
+    <li>
       <a {% if page.sidenav == 'change-opportunity-owner' %}class="usa-current"{% endif %} href="{{ '/administrators/change-opportunity-owner' | relative_url }}">
-        How to change the owner of an opportunity
+        How to change the owner of an opportunity or internship
       </a>
     </li>
      <li>
@@ -250,7 +289,7 @@
   <h3 class="usajobs-openopps-help-center-article-sidenav__title">
     Networking
   </h3>
-  <ul class="usa-sidenav-list">   
+  <ul class="usa-sidenav-list">
     <li>
       <a {% if page.sidenav == 'networking' %}class="usa-current"{% endif %} href="{{ '/networking/' | relative_url }}">
         What is networking?
@@ -270,7 +309,7 @@
       <a {% if page.sidenav == 'become-mentor' %}class="usa-current"{% endif %} href="{{ '/networking/become-mentor' | relative_url }}">
         How can I become a mentor or say I'm looking for a mentor?
       </a>
-    </li>    
+    </li>
     <li>
       <a {% if page.sidenav == 'find-mentor' %}class="usa-current"{% endif %} href="{{ '/networking/find-mentor' | relative_url }}">
         How can I find a mentor or someone looking for a mentor?
@@ -292,7 +331,7 @@
   <h3 class="usajobs-openopps-help-center-article-sidenav__title">
     Communities
   </h3>
-  <ul class="usa-sidenav-list">   
+  <ul class="usa-sidenav-list">
     <li>
       <a {% if page.sidenav == 'communities' %}class="usa-current"{% endif %} href="{{ '/communities/' | relative_url }}">
         What is a community?
@@ -303,11 +342,6 @@
         What is a community manager?
       </a>
     </li>
-    <li>
-	      <a {% if page.sidenav == 'community-manager-playbook' %}class="usa-current"{% endif %} href="{{ '/communities/community-manager-playbook' | relative_url }}">
-	        What is the Community Manager Playbook?
-	      </a>
-	    </li>
     <li>
       <a {% if page.sidenav == 'join-discussion' %}class="usa-current"{% endif %} href="{{ '/communities/join-discussion' | relative_url }}">
         How to join and create community discussion threads
