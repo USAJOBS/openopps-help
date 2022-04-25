@@ -5,7 +5,7 @@ layout: article
 section: getting-started
 category: getting-started
 sidenav: how-long-to-post-and-review
-title: How long does it take to post an opportunity and review applicants?
+title: How long does it take to post an opportunity or internship and review applicants?
 ---
 
 It only takes a few minutes to create and post an opportunity. Before you get started, [read these tips on how to write a great opportunity](../../opportunity-creators/top-10-tips/).

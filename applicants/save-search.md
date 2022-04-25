@@ -8,7 +8,7 @@ sidenav: opportunity-save-search
 title: How to save a search
 ---
 
-You can save a search to help you look for opportunities that interest you. When you save a search, we’ll look for opportunities that match the keywords and other criteria in your search and email you when an opportunity matches your search.
+You can save a search to help you look for opportunities or internships that interest you. When you save a search, we’ll look for opportunities or internships that match the keywords and other criteria in your search and email you when an opportunity or internship matches your search.
 
 - You can create and save up to 10 saved searches—a saved search will **expire one year after you create it**.
 - You can sign up to receive email notifications when an opportunity matches your search.
@@ -16,7 +16,7 @@ You can save a search to help you look for opportunities that interest you. When
 
 ## To save a search and sign up for email notifications
 
-Sign into Open Opportunities. If you don’t have a profile, you need to create one. Only signed in users can save their search.
+Sign into Open Opportunities. If you don’t have a profile, you need to create one. Only signed-in users can save their search.
 
 1. Start a search by entering a keyword or location in the search box and click **Search**.
 2. Narrow your results using filters.

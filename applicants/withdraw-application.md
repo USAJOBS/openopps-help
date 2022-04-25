@@ -5,16 +5,17 @@ layout: article
 section: applicants
 category: applicants
 sidenav: apply-withdraw-application
-title: How to withdraw an application
+title: How to withdraw an application from an opportunity or internship
 ---
 
-To withdraw an application from an opportunity:
+To withdraw an application:
 
 1. Sign into Open Opportunities.
 2. Go to the **Participated** section of your dashboard.
-3. Find and click the opportunity that you want to withdraw your application.
-4. Click **Withdraw your application**, located in the blue box. A message will appear to confirm you want to withdraw your application.
-5. Click **Withdraw**.
+3. Find and click the opportunity or internship that you want to withdraw your application from.
+4. Click **Withdraw my application**, located in the blue box.
+5. A message will appear to confirm you want to withdraw your application.
+6. Click **Withdraw**.
 
 ### How to use updated profile information in an application
 
