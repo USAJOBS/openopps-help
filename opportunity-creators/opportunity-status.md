@@ -11,6 +11,7 @@ title: What does the opportunity status mean?
 Each status tells you where the opportunity is in the process. The status may be different based on whether you’re a creator or applicant, and also depends on if it’s a federal employee opportunity or a student internship opportunity.
 
 ## Federal opportunity status
+<hr>
 
 ### Draft
 
@@ -41,6 +42,7 @@ All work for the opportunity is done.
 The opportunity is no longer available—work was not started or completed.
 
 ## Internship opportunity status
+<hr>
 
 ### Draft
 
@@ -50,14 +52,22 @@ The internship opportunity has been saved as a draft. It hasn’t been submitted
 
 The internship opportunity has been submitted to the community manager for approval.
 
-### Approved
-
-The community manager has approved the internship opportunity.
-
 ### Open
 
 The internship is accepting applicants or is in progress.
 
+### In review
+
+The creator is currently reviewing all applicants.
+
+### In progress
+
+Participants have been assigned and are working on the internship. The internship is not accepting new applicants.
+
 ### Completed
 
-The internship cycle has closed and the internship is completed.
+The internship has closed and the internship is completed.
+
+### Canceled
+
+The internship is no longer available—work was not started or completed.
