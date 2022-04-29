@@ -7,6 +7,33 @@ category: release-notes
 title: What's new with Open Opportunities
 ---
 
+## Changes made April 29, 2022
+### Sitewide enhancements   
+
+* Created an automated demographic report. 
+ 
+#### Internships
+
+* Added an **Email settings** section on the student profile page. 
+* Created a success banner that displays when a student makes an update to their email settings. 
+* Added **Required languages** to the internship detail page. 
+* Added two emails:
+  * An email sent to a primary owner of an internship when they have been made co-owner.
+  * An email sent to an internship co-owner when they have been made a primary owner. 
+
+* Added the ability for internship creators and co-owners to cancel an internship. 
+* Added internship metrics to the sitewide administrator’s dashboard. 
+
+#### Communities 
+
+* Created a **Manage internships** tab for student community administrators. 
+
+### Bug fixes  
+
+* Fixed a paging issue on the **Networking** page. 
+* Fixed a display issue so submitted internships will display on the sitewide administrator’s dashboard. 
+* Fixed several 508 issues across the site.
+
 ## Changes made April 15, 2022
 ### Sitewide enhancements  
 
