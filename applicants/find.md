@@ -5,44 +5,41 @@ layout: article
 section: applicants
 category: applicants
 sidenav: opportunity-search
-title: How to search for an opportunity?
+title: How to search for an opportunity or internship
 ---
 
-You can search for opportunities by keyword or filters.
+## Opportunities
 
-## Search by keyword
+### Search by keyword
+<hr />
 
 Use the keyword search box to enter an opportunity name, skill, other keywords. The keyword search box is located at the top of the page or you can click the search icon located in the upper right corner.
 
-## Search by filters
+### Search by filters
+<hr />
 
-Not everyone will see the same filters. If you’re a student looking for an internship, you’ll only see [filters that apply to internship opportunities](#filters-for-students-and-internship-opportunities). If you’re a federal employee, you’ll see different filters.
-
-## Filters for everyone
 
 ### Skill
 
 You can search for opportunities by the type of skills you have or are looking to gain. Examples are graphic design, writing, photography or data visualization. You can enter as many skills as you’d like and the search results will update based on what you enter.
 
-## Filters for federal employees
-
 ### Status
 
 Every opportunity has a status, depending on where it is in the process. You can search for and filter opportunities by one of the following statuses.
 
-#### Open
+##### Open
 
 An opportunity that’s “open” is accepting applicants. The work has not yet started and you can apply to any “open” opportunity.
 
-#### In progress
+##### In progress
 
 An opportunity that’s “in progress” has already started. Participants have been assigned and are working on the opportunity. You can’t apply to an opportunity that’s “in progress”.
 
 ### Profile match
 
-We use Skills Engine ™ to analyze the skills you list in your profile and the skills needed for an opportunity. We will highlight opportunities based on how well your skills match. The matching can range from **Good** to **Better** to **Best**. 
+We use Skills Engine ™ to analyze the skills you list in your profile and the skills needed for an opportunity. We will highlight opportunities based on how well your skills match. The matching can range from **Good** to **Better** to **Best**.
 
-You can apply to any opportunity, even ones that don’t show as a match, and the opportunity creator will not know if you match the opportunity. Use the profile match as a guideline to understand which opportunities might be a good fit for your skills. 
+You can apply to any opportunity, even ones that don’t show as a match, and the opportunity creator will not know if you match the opportunity. Use the profile match as a guideline to understand which opportunities might be a good fit for your skills.
 
 ### Community
 
@@ -81,3 +78,41 @@ A virtual opportunity means you can work from wherever you want. Most of your wo
 #### In person
 
 An in-person opportunity requires you to be physically present to do the work. If you select this filter, you can also search by a specific city and state.
+
+# Internships
+
+## Search by keyword
+<hr />
+
+Use the keyword search box to enter an internship name, skill, or other keywords. The keyword search box is located at the top of the page or you can click the search icon located in the upper right corner.
+
+## Search by filters
+<hr />
+Not everyone will see the same filters. If you’re a student looking for an internship, you’ll only see filters pertaining to internships.
+
+### Skill
+
+You can search for internships by the type of skills you have or are looking to gain. Examples are graphic design, writing, photography or data visualization. You can enter as many skills as you’d like and the search results will update based on what you enter.
+
+### Status
+
+Every internship has a status, depending on where it is in the process. You can search for and filter internships by the following status.
+
+#### Open
+
+An internship that’s “open” is accepting applicants. The work has not yet started and you can apply to any “open” internship.
+
+### Community
+
+You can search for internships specific to a community. These internships typically share a common goal or interest, such as acquisitions or cyber.
+
+
+### Location
+
+#### Virtual
+
+A virtual internships means you can work from wherever you want. Most of your work and communication with other participants will be online.
+
+#### In person
+
+An in-person internship requires you to be physically present to do the work. If you select this filter, you can also search by a specific city
