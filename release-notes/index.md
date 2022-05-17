@@ -7,6 +7,30 @@ category: release-notes
 title: What's new with Open Opportunities
 ---
 
+## Changes made May 13, 2022
+### Sitewide enhancements   
+
+* Created an automated demographic report. 
+
+### Internships
+
+* Added internship details to the right rail of the student application pages. 
+* Removed the **Co-owner** section of an internship when viewed as a co-owner. 
+* Created a modal that displays when an internship creator or sitewide administrator cancels an internship. 
+
+### Communities 
+
+* Added new toggles to manage the display of community logos on the community banners.
+* Updated the community profile banner on all pages to display a full banner image.
+* Moved the community search banner drawer to make the drawer more visible on the community settings page.
+* Added the ability for a student community administrator to display, create and edit internship cycles within a student community. 
+
+### Bug fixes  
+
+* Fixed the **Share** link for internships to open the “mail to client”, even if there is a large amount of text in the introduction section of an internship.
+* Fixed an issue where the primary owner of an internship would show as both the primary and co-owner when making the co-owner of internship the primary.  
+
+
 ## Changes made April 29, 2022
 ### Sitewide enhancements   
 
@@ -134,16 +158,8 @@ title: What's new with Open Opportunities
 
 * Made several changes to support the future **Internship opportunity** feature. These changes are not live yet. 
 
-## Changes made January 21, 2022
 
-### Other
-
-* Made several changes to support the future **Internship opportunity** feature. Changes are not live yet.
-
-### Bug fixes
-
-* Fixed several 508 issues involving the future **Internship opportunity** feature 
-
+[January 21, 2022](jan-21-2022)  
 [January 7, 2022](jan-07-2022)  
 [December 10, 2021](dec-10-2021)  
 [November 26, 2021](nov-26-2021)  
