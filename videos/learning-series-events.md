@@ -8,6 +8,12 @@ title: learning series
 ---
 
 
-[Open Opportunities Panel Discussion: Leveraging the Power of Open Opportunities](https://www.youtube.com/watch?v=vWAPk8B0XY0&t=382s){:target="_blank"}.
+  <p align="center"><b>USAJOBS Open Opportunities Panel Discussion: Leveraging the Power of Open Opportunities</b></p>
+<p align="center"> 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vWAPk8B0XY0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+    </p>
 
-[Envisioning the What and Why of a Post-Pandemic Future of Work Pt. I](https://www.youtube.com/watch?v=njSOR2HtHJg){:target="_blank"}.
+  <p align="center"><b>Envisioning the What and Why of the Post-Pandemic Future of Work Pt. 1</b></p>
+<p align="center"> 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/njSOR2HtHJg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+    </p>
