@@ -1,5 +1,5 @@
 ---
-permalink: applicants/participate
+permalink: applicants
 redirect_from: /apply/
 layout: article
 section: applicants
