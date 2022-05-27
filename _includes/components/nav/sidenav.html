@@ -319,6 +319,7 @@
       </a>
     </li>
   </ul>
+  {% endif %}
 {% if page.section == 'videos' %}
   <h3 class="usajobs-openopps-help-center-article-sidenav__title">
   Videos
@@ -328,6 +329,5 @@
       <a {% if page.sidenav == 'Tutorials' %}class="usa-current"{% endif %} href="{{ '/videos/' | relative_url }}">
       Tutorials
       </a>
-      {% endif %}
-{% endif %}
+    {% endif %}
 </div>
