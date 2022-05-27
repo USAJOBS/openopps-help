@@ -8,7 +8,7 @@ sidenav: apply-participate
 title: How to apply to an opportunity or internship
 ---
 
-# Opportunity
+## Opportunity
 <hr>
 
 Participating in an opportunity is a great way to gain experience, contribute your expertise and work with others across the federal government.
@@ -41,7 +41,7 @@ Feel free to post questions in the comments section at the bottom of the opportu
 
 Participating in an internship is a great way to gain experience, contribute your expertise and work with others across the federal government.
 
-# Internship
+## Internship
 <hr>
 
 To apply, you need to [create a profile](../profile) and be a current student. Your profile highlights your skills, education, experience and areas of interest, such as career areas, agencies you’re interested in and other topics.
