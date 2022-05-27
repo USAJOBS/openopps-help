@@ -319,5 +319,15 @@
       </a>
     </li>
   </ul>
+{% if page.section == 'videos' %}
+  <h3 class="usajobs-openopps-help-center-article-sidenav__title">
+  Videos
+  </h3>
+  <ul class="usa-sidenav-list">
+    <li>
+      <a {% if page.sidenav == 'Tutorials' %}class="usa-current"{% endif %} href="{{ '/videos/' | relative_url }}">
+      Tutorials
+      </a>
+      {% endif %}
 {% endif %}
 </div>
