@@ -1,5 +1,5 @@
 ---
-permalink: tutorials
+permalink: videos/
 layout: article
 section: videos
 category: videos
