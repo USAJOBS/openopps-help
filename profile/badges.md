@@ -7,10 +7,10 @@ sidenav: account-badges
 title: What are badges?
 ---
 
-You can earn badges by participating in or creating an opportunity. We award badges when **all** participant tasks are complete and the opportunity creator clicks **Complete** on the opportunity.
+You can earn badges by participating in or creating an opportunity or internship. We award badges when **all** participant tasks are complete and the creator clicks **Complete** on the opportunity or internship.
 
 ## Badges for applicants
-You may receive a badge for participating in an opportunity. The different badges are based on the number of opportunities you complete.
+You may receive a badge for participating in an opportunity or internship. The different badges are based on the number of opportunities or internships you complete.
 
 ### Newcomer
 You get the Newcomer badge after you complete your first opportunity.
@@ -28,7 +28,7 @@ You get the Disruptor badge after you complete 10 opportunities.
 You get the Partner badge after you complete 15 opportunities.
 
 ## Badges for creators
-You may receive a badge if you create an opportunity. You’ll receive different badges for the different types of opportunities that are available. 
+You may receive a badge if you create an opportunity. You’ll receive different badges for the different types of opportunities that are available.
 
 ### Creator
 You’ll get the Creator badge after you create your first ongoing opportunity.
@@ -40,14 +40,14 @@ You’ll get the Instigator badge after you create your first one-time opportuni
 You’ll get the Team builder badge if you assign at least four participants to the same opportunity.
 
 ## Badges for community managers
-You may receive a badge if you’re a community manager. 
+You may receive a badge if you’re a community manager.
 
 ### Community manager
 You’ll get the Community manager badge if you assist with the administration of a community. A sitewide administrator or another community manager will award this badge.
 
 ## Badges for anyone
 ### Ambassador
-Only Administrators and Community managers can award this badge to someone. 
+Only Administrators and Community managers can award this badge to someone.
 
 You’ll get the Ambassador badge if you are a champion of Open Opportunities or of a specific community within Open Opportunities. You help get the word out through marketing, promoting and being a pro-active supporter of the program.
 
@@ -56,4 +56,6 @@ Only Administrators and Community managers can award this badge to someone.
 
 You’ll get the Mentor badge if you have acted as a mentor to another Open Opportunities user.
 
+## Badges for students
 
+You'll get a badge for every internship that you have completed all tasks for.
