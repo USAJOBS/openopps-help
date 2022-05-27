@@ -7,6 +7,46 @@ category: release-notes
 title: What's new with Open Opportunities
 ---
 
+## Changes made May 27, 2022
+   
+### Sitewide enhancements   
+
+* Updated the **Events** feature so newly created sitewide events will default as a featured event. 
+* Added a mentoring help link to the profile page for federal users. 
+* Moved the demographics section on the user profile page so it’s more visible.
+
+### Internships
+
+* Added a drawer with instructions on how to evaluate and select student applicants.
+* Removed the ability for a student to withdraw an application after an internship is in progress.
+* Added a help content link for transcripts on the **Internship application** page.
+* Added an application due date column to the participated table found on the student dashboard.
+* Updated the modal that displays when a user has unsaved changes, and they exit the **Internship application** process.
+
+### Opportunities
+
+* Removed the **How to apply** section from the **Create opportunity** flow.
+* Added a notice for updating demographic information after applying to a detail or lateral opportunity.
+* Updated the modal that displays when a user has unsaved changes, and they exit the **Create opportunity** process.
+* Created a warning modal that displays when a user has unsaved changes, and they exit the **Application process** for detail or Lateral opportunities. 
+
+### Communities 
+
+* Added the ability for internship creators to select a cycle during the internship creation process.
+* Created a modal that displays when a community administrator deletes a cycle.
+* Added a toggle for displaying the How to apply section during the internship creation process.
+* Created an **Apply process** drawer on the community settings page.
+* Added many toggles to the **Apply process** drawer that affect the application process for details and laterals within a community.
+* Created a **Search applications** page in student communities.
+* Created a **Manage internships** page in student communities.
+* Removed the **View opportunities** button on the community profile page of discussion communities. 
+
+### Bug fixes  
+
+* Fixed an issue where the total number of internships would display incorrectly on the sitewide administration dashboard. 
+* Fixed an issue where a help link was navigating users to the incorrect help page. 
+
+
 ## Changes made May 13, 2022
 ### Sitewide enhancements   
 
@@ -153,12 +193,7 @@ title: What's new with Open Opportunities
 * Fixed an issue where community banners and discussion boards would not change color when customized.
 * Fixed an issue where “inactive” would not display in the community dropdown list.
 
-## Changes made February 4, 2022
-### Other
-
-* Made several changes to support the future **Internship opportunity** feature. These changes are not live yet. 
-
-
+[February 4, 2022](feb-04-2022)  
 [January 21, 2022](jan-21-2022)  
 [January 7, 2022](jan-07-2022)  
 [December 10, 2021](dec-10-2021)  
