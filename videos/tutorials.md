@@ -3,8 +3,8 @@ permalink: videos/
 layout: article
 section: videos
 category: videos
-sidenav: tutorials
-title: tutorials
+sidenav: Tutorials
+title: Tutorials
 ---
 <p align="center"><b>How to Find a Mentor or Mentee</b></p>
 
