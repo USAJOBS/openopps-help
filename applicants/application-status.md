@@ -34,7 +34,7 @@ You’ve completed your tasks for the opportunity.
 
 ### Applied
 
-You've applied to the internship
+You've applied to the internship.
 
 ### Application started
 
