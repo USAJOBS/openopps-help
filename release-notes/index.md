@@ -7,6 +7,42 @@ category: release-notes
 title: What's new with Open Opportunities
 ---
 
+## Changes made June 10th, 2022
+### Sitewide enhancements   
+
+* Added a help link to the status indicator on the sitewide administrators Manage internships page.
+* Added a help link to the metrics section on the sitewide administrator dashboard.
+* Updated the modal that displays when deleting a message to indicate that a duplicate exists in the email address listed on a user’s profile.  
+
+### Internships
+
+* Added an applicant count to the **Internship Detail** page.
+* Updated the **What happens next?** page to prompt a student user to update their demographic information if they have not previously added it.
+* Updated the **Internship** page heading to “Search for unpaid internships”.
+* Renamed the **Commitment filter** on the internship search page to Unpaid internships.
+* Added a **Salary** label to the Internship detail page—this includes a sub-label of “Unpaid”.
+* Removed the ability for a student to become a co-owner of an internship.
+* Created an email that is sent to a co-owner when they have been added as a co-owner to an internship. 
+
+### Opportunities
+
+* Added an applicant count to the Opportunities page. 
+* Removed the **Applicant list** from the **Opportunity** page for all users, except creators, co-owners or sitewide administrators. 
+
+### Communities 
+
+* Removed the **Hide applicant** list toggle from the federal communities settings page. 
+* Updated the **Internship Creation review** page to display the “community” name when a creator selects a community during the internship creation process. 
+* Updated the **Internship detail** page to display the “community” name when a user selects a community during the internship creation process. 
+* Created eight new internship tables on the community administrators **Manage internship** page. 
+* Created a modal that displays when a community administrator approves an internship within a community. 
+* Removed the ability for students to see the member section on the Community profile page. 
+
+### Bug fixes  
+
+* Fixed the opportunity count so it displays correctly when using the search function on the community administrators **Manage opportunities** page. 
+* Fixed a typo on the **What happens next?** page.  
+
 ## Changes made May 27, 2022
    
 ### Sitewide enhancements   
