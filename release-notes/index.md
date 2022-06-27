@@ -206,38 +206,7 @@ title: What's new with Open Opportunities
 * Fixed an issue where some federal employees were not able to create an account. 
 * Fixed an issue where creators were re-directed to the home page instead of the profile page when selecting an applicant. 
 
-## Changes made March 18, 2022
-### Sitewide enhancements  
-
-* Added the ability for users to edit their demographic data on the profile page.
-
-### Other
-
-* Made several changes to support the future internship opportunity feature. These changes are not live yet.
-
-### Bug fixes
-
-* Fixed an issue so a blank page no longer displays when updating an application.
-* Fixed an issue so the user count on the networking page shows the correct number of users.
-* Fixed an issue so validation text no longer displays after uploading a required document.
-* Fixed an issue so internships will show on the dashboard of a new owner.  
-
-
-## Changes made March 4, 2022
-### Sitewide enhancements
-
-* Added the ability for users to enter demographic data. 
-* Updated the monthly endorsement report used for data analysis purposes. 
-* Updated the monthly mentor report used for data analysis purposes. 
-
-### Other  
-
-* Made several changes to support the future internship opportunity feature. These changes are not live yet.  
- 
-### Bug fixes 
-
-* Fixed a display issue with usajobs.gov URL’s on the community search pages. 
-
+[March 2022](mar-2022)  
 [February 2022](feb-04-2022)  
 [January 21, 2022](jan-21-2022)  
 [January 7, 2022](jan-07-2022)  
