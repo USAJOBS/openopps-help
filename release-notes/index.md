@@ -7,6 +7,27 @@ category: release-notes
 title: What's new with Open Opportunities
 ---
 
+## Changes made June 28th, 2022  
+### Sitewide enhancements   
+
+* Updated the student profile page to include a language section where a student can add, edit, or delete languages. 
+
+### Internships
+
+* Added new functionality so when a user adds languages during the application process, we also add the languages to their Open Opportunities and USAJOBS profile.
+* Updated the application process to automatically add skills to the internship application for users who already have skills listed in their profile.
+* Added the ability for students to add, edit, or delete skills when applying to an internship.
+* Created a success banner that displays when a creator cancels an internship.
+* Created an email that is sent to applicants when an internship is cancelled. 
+ 
+### Communities 
+
+* Updated the **Community search** page banners for student communities.
+* Added a modal that displays when a student attempts to join a non-student community.
+* Created a toggle for an **applicant cap** in student communities.
+* Updated the **student internship applicant count** to include an applicant cap when toggled on.
+* Added functionality to the application process that prevents applicants from applying to an internship when the applicant cap has been reached. 
+
 ## Changes made June 10th, 2022
 ### Sitewide enhancements   
 
@@ -185,51 +206,8 @@ title: What's new with Open Opportunities
 * Fixed an issue where some federal employees were not able to create an account. 
 * Fixed an issue where creators were re-directed to the home page instead of the profile page when selecting an applicant. 
 
-## Changes made March 18, 2022
-### Sitewide enhancements  
-
-* Added the ability for users to edit their demographic data on the profile page.
-
-### Other
-
-* Made several changes to support the future internship opportunity feature. These changes are not live yet.
-
-### Bug fixes
-
-* Fixed an issue so a blank page no longer displays when updating an application.
-* Fixed an issue so the user count on the networking page shows the correct number of users.
-* Fixed an issue so validation text no longer displays after uploading a required document.
-* Fixed an issue so internships will show on the dashboard of a new owner.  
-
-
-## Changes made March 4, 2022
-### Sitewide enhancements
-
-* Added the ability for users to enter demographic data. 
-* Updated the monthly endorsement report used for data analysis purposes. 
-* Updated the monthly mentor report used for data analysis purposes. 
-
-### Other  
-
-* Made several changes to support the future internship opportunity feature. These changes are not live yet.  
- 
-### Bug fixes 
-
-* Fixed a display issue with usajobs.gov URL’s on the community search pages. 
-
-
-## Changes made February 18th, 2022 
- 
-### Other 
-
-* Made several changes to support the future internship opportunity feature. These changes are not live yet. 
-
-### Bug fixes
-
-* Fixed an issue where community banners and discussion boards would not change color when customized.
-* Fixed an issue where “inactive” would not display in the community dropdown list.
-
-[February 4, 2022](feb-04-2022)  
+[March 2022](mar-2022)  
+[February 2022](feb-04-2022)  
 [January 21, 2022](jan-21-2022)  
 [January 7, 2022](jan-07-2022)  
 [December 10, 2021](dec-10-2021)  
