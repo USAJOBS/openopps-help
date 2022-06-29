@@ -43,7 +43,7 @@ If you want to remove an opportunity or internship that is open or in progress i
 3.	Go to the **Sitewide**, **Agency** or **Community** tab. Depending on your role, you’ll only see tab options that you’re an administrator for. If you are a community manager, you will only see the **Community** tab.
 4.	Click **Manage internships** in the sub-navigation.
 5.	Select the **Draft** or **Submitted** status.
-6.	Go to the opportunity you want to delete.
+6.	Go to the internship you want to delete.
 7.	Click the red x in the **Delete** column—you’ll see a confirmation message.
 8.	Click **Delete**.
-9.	Repeat these steps for each opportunity you want to delete.
+9.	Repeat these steps for each internship you want to delete.
