@@ -46,14 +46,14 @@ Participating in an internship is a great way to gain experience, contribute you
 
 To apply, you need to [create a profile](../profile) and be a current student. Your profile highlights your skills, education, experience and areas of interest, such as career areas, agencies you’re interested in and other topics.
 
-Once you have a profile, you can apply to any open internship opportunities.
+Once you have a profile, you can apply for up to **three** internship opportunities.
 
 1. Click **Find opportunities** on the home page or the search icon in the top navigation.
 2. Click **Internships** in the navigation.
 3. Scroll through the available internships or enter a keyword into the search box to search for internships that interest you.
 4. Use the search filters, on the right, to narrow your results. You can search by status, commitment, community, skill, language, agency and more. [Learn how to search](search) for internships.
 5. Read the internship details to learn what skills are needed, how much time is involved and to see if it’s a good match for you.
-6. Click **Apply** if you’re interested in the internship.
+6. Click **Apply** if you’re interested in the internship. You can only apply for up to **three** internships.
 7. Follow the steps outlined in the apply process.
 
 ## What happens after I apply?
