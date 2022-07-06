@@ -20,6 +20,12 @@ title: Tutorials
   <iframe width="560" height="315" src="https://www.youtube.com/embed/tzjOqn1hax4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
   </p>
   
+ <p align="center"><b>How to apply for a VSFS internship</b></p>
+
+<p align="center"> 
+  <iframe width="560" height="315" src="https://www.youtube.com/watch?v=rigKpml8tE0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+  </p>
+  
   
   <p align="center"><b>How to create a VSFS internship posting</b></p>
 
