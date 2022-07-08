@@ -7,6 +7,57 @@ category: release-notes
 title: What's new with Open Opportunities
 ---
 
+## Changes made July 8th, 2022
+   
+### Sitewide enhancements   
+
+* Updated several help content links in the following areas of the site:
+  * **Saved** section on the **Student dashboard**.
+  * **Status** section on the **Internship detail** page.
+  * **Manage internships** page when viewed as a sitewide admin. 
+
+* Added a column for **Withdrawn applicants**, **Co-owner name** and **Co-owner email** to the sitewide administrators’ opportunity report.  
+
+### Internships
+
+* Updated the **Application review** page to show selected **Language and skills** level.
+* Added a 30-minute and 5-minute countdown banner to the internship application process to let a user know how much time is left to apply.
+* Made the **Resume** and **Transcript** cards, that display during the application process, to be clickable.
+* Updated the **Student dashboard** to show an internships' status as **Selected**, **Not selected** and **Canceled**.
+* Updated the button text to say **Update application** when a user is updating an application after they already submitted it.
+* Added a **Search for open internships** button to internships that are no longer in an Open status.
+* Created the following emails that will be sent to:
+  * A creator when a student applies to one of their internships.
+  * A student when they have started an application but have not submitted it before the application due date.
+  * An internship creator when a student withdraws an application from their internship.
+  * An applicant when an internship is canceled.
+
+* Created new success banners that display when:
+  * A student successfully updates an application.
+  * A creator cancels an internship. 
+
+* Added a modal that displays when a non-U.S. citizen attempts to apply to an internship.
+* Added congratulatory text that displays on the internship page when a student has been selected for an internship.
+* Added three new tables to the **Manage internships** page for sitewide administrators:
+  * Completed
+  * In-progress
+  * Canceled 
+
+* Added functionality to automatically include the skills in a user’s profile in their internship application.
+* Added the ability for students to add, edit, or delete skills when applying to an internship. 
+
+### Bug fixes
+
+Fixed the following issues:
+
+* Some internship applicants not being able to upload a resume.
+* Showing inactive communities on the communities page.
+* Co-owner cards overlapping in the co-owner section of the internship page.
+* Search criteria not saving when using the back link.
+* A modal displaying incorrectly when a user signs in, saying the user had hit the three-internship limit.
+* When typing a user’s first name and capitalizing the first letter in the search field of a community, no results would display.
+* The end of sentence ellipses not showing on the last line of text in the **Statement of interest** section of an internship application. 
+
 ## Changes made June 28th, 2022  
 ### Sitewide enhancements   
 
@@ -127,85 +178,7 @@ title: What's new with Open Opportunities
 * Fixed the **Share** link for internships to open the “mail to client”, even if there is a large amount of text in the introduction section of an internship.
 * Fixed an issue where the primary owner of an internship would show as both the primary and co-owner when making the co-owner of internship the primary.  
 
-
-## Changes made April 29, 2022
-### Sitewide enhancements   
-
-* Created an automated demographic report. 
- 
-#### Internships
-
-* Added an **Email settings** section on the student profile page. 
-* Created a success banner that displays when a student makes an update to their email settings. 
-* Added **Required languages** to the internship detail page. 
-* Added two emails:
-  * An email sent to a primary owner of an internship when they have been made co-owner.
-  * An email sent to an internship co-owner when they have been made a primary owner. 
-
-* Added the ability for internship creators and co-owners to cancel an internship. 
-* Added internship metrics to the sitewide administrator’s dashboard. 
-
-#### Communities 
-
-* Created a **Manage internships** tab for student community administrators. 
-
-### Bug fixes  
-
-* Fixed a paging issue on the **Networking** page. 
-* Fixed a display issue so submitted internships will display on the sitewide administrator’s dashboard. 
-* Fixed several 508 issues across the site.
-
-## Changes made April 15, 2022
-### Sitewide enhancements  
-
-* Launched a new Student Internship feature. Federal employees can create internship opportunities and “students” can apply to the internships. The internship feature includes:
-  * A selection process so internship creators can review application details and select or reject student applicants.
-  * New statuses for student internships; Open, Reviewing applications, In progress and Complete. A dedicated page for administrators to manage internships and add co-owners to student internships.
-  * A dedicated search page and filters for internship opportunities.
-  * A custom survey to send to internship creators when an internship is completed.  
-  * The ability to award badges when a student internship is completed.
-
-* The student internship feature will let students:
-  * Upload a resume or transcript.
-  * Indicate language proficiency.
-  * Select skills during the application process.
-
-### Communities 
-
-* Redesigned the community cards. 
-* Updated the community filters to include:
-  * All communities
-  * Student communities
-  * Federal communities
-
-* Created a new community type for student internships.
-* Removed the Applicant management and Opportunity page and apply process sections for student communities.
-* Added a toggle to enable Language and GPA requirements for student communities.
-* Added the ability to create an internship within a student community.
-* Added discussion boards to student communities. 
-
-### Bug fixes 
-
-* Fixed an issue so toggling off community stories and events will remove them from the community profile page.
-* Fixed an issue so the **Back to results** link goes to the correct page.
-* Fixed an issue so the banner goes away after withdrawing an application.
-* Fixed an issue so past events no longer continue to display on the search page.
-* Fixed an issue so a link will display the correct color when revisiting a page.  
-
-## Changes made April 1, 2022    
-### Sitewide enhancements
-
-* Updated the formatting of the certificates we issue when a user completes an opportunity or internship. 
-
-### Other
-
-* Made several changes to support the future internship opportunity feature. These changes are not live yet.
-
-### Bug fixes
-
-* Fixed an issue where some federal employees were not able to create an account. 
-* Fixed an issue where creators were re-directed to the home page instead of the profile page when selecting an applicant. 
-
+[April 2022](apr-2022)  
 [March 2022](mar-2022)  
 [February 2022](feb-04-2022)  
 [January 21, 2022](jan-21-2022)  
