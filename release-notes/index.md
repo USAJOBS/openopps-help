@@ -7,6 +7,33 @@ category: release-notes
 title: What's new with Open Opportunities
 ---
 
+## Changes made July 22, 2022
+### Internships
+
+* Added a **Congratulations** message to the internship page that a student applicant will see if they have been selected for the internship. This message will only appear for internships that are in a community with the **Accept/Decline** feature turned on.  
+* Added the ability for a student applicant to **Accept** or **Decline** an internship via two buttons under the **Congratulations** message of an internship. 
+* Added specific messaging that appears on an internship page when an applicant accepts, declines or chooses another internship. 
+* Updated the **Selected**, **Rejected** and **Applicant** tables to display if an applicant accepts, declines, or chooses another internship. 
+* Updated the selected applicants table to display if an applicant is still pending a response.
+* Created two confirmation modals for **Accepting** or **Declining** an internship. 
+* Updated the **Confirm your final selection** modal describing the accept or decline process for internship creators.
+
+### Communities
+
+Created the following:
+
+* A .csv file and download link containing internship data for community administrators. 
+* An **Apply process** drawer on the community settings page. This includes settings for the student application process.
+* An **Accept/Decline** feature toggle for student internships.   
+
+## Bug fixes
+
+Fixed the following issues:
+
+* A validation error displaying when a user enters a postal code outside of the United States. 
+* Displaying the wrong number of internships in the **Open** status on the **Manage internships** table for sitewide administrators.
+* Sending multiple **Confirm your email address** messages to a single user. 
+
 ## Changes made July 8th, 2022
    
 ### Sitewide enhancements   
@@ -115,69 +142,7 @@ Fixed the following issues:
 * Fixed the opportunity count so it displays correctly when using the search function on the community administrators **Manage opportunities** page. 
 * Fixed a typo on the **What happens next?** page.  
 
-## Changes made May 27, 2022
-   
-### Sitewide enhancements   
-
-* Updated the **Events** feature so newly created sitewide events will default as a featured event. 
-* Added a mentoring help link to the profile page for federal users. 
-* Moved the demographics section on the user profile page so it’s more visible.
-
-### Internships
-
-* Added a drawer with instructions on how to evaluate and select student applicants.
-* Removed the ability for a student to withdraw an application after an internship is in progress.
-* Added a help content link for transcripts on the **Internship application** page.
-* Added an application due date column to the participated table found on the student dashboard.
-* Updated the modal that displays when a user has unsaved changes, and they exit the **Internship application** process.
-
-### Opportunities
-
-* Removed the **How to apply** section from the **Create opportunity** flow.
-* Added a notice for updating demographic information after applying to a detail or lateral opportunity.
-* Updated the modal that displays when a user has unsaved changes, and they exit the **Create opportunity** process.
-* Created a warning modal that displays when a user has unsaved changes, and they exit the **Application process** for detail or Lateral opportunities. 
-
-### Communities 
-
-* Added the ability for internship creators to select a cycle during the internship creation process.
-* Created a modal that displays when a community administrator deletes a cycle.
-* Added a toggle for displaying the How to apply section during the internship creation process.
-* Created an **Apply process** drawer on the community settings page.
-* Added many toggles to the **Apply process** drawer that affect the application process for details and laterals within a community.
-* Created a **Search applications** page in student communities.
-* Created a **Manage internships** page in student communities.
-* Removed the **View opportunities** button on the community profile page of discussion communities. 
-
-### Bug fixes  
-
-* Fixed an issue where the total number of internships would display incorrectly on the sitewide administration dashboard. 
-* Fixed an issue where a help link was navigating users to the incorrect help page. 
-
-
-## Changes made May 13, 2022
-### Sitewide enhancements   
-
-* Created an automated demographic report. 
-
-### Internships
-
-* Added internship details to the right rail of the student application pages. 
-* Removed the **Co-owner** section of an internship when viewed as a co-owner. 
-* Created a modal that displays when an internship creator or sitewide administrator cancels an internship. 
-
-### Communities 
-
-* Added new toggles to manage the display of community logos on the community banners.
-* Updated the community profile banner on all pages to display a full banner image.
-* Moved the community search banner drawer to make the drawer more visible on the community settings page.
-* Added the ability for a student community administrator to display, create and edit internship cycles within a student community. 
-
-### Bug fixes  
-
-* Fixed the **Share** link for internships to open the “mail to client”, even if there is a large amount of text in the introduction section of an internship.
-* Fixed an issue where the primary owner of an internship would show as both the primary and co-owner when making the co-owner of internship the primary.  
-
+[May 2022](may-2022)  
 [April 2022](apr-2022)  
 [March 2022](mar-2022)  
 [February 2022](feb-04-2022)  
