@@ -7,7 +7,7 @@ category: release-notes
 title: What's new with Open Opportunities
 ---
 
-## Changes made July 22, 2022
+## Changes made July 26, 2022
 ### Internships
 
 * Added a **Congratulations** message to the internship page that a student applicant will see if they have been selected for the internship. This message will only appear for internships that are in a community with the **Accept/Decline** feature turned on.  
