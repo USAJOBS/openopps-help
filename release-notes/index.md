@@ -114,7 +114,7 @@ Fixed the following issues:
 * When typing a user’s first name and capitalizing the first letter in the search field of a community, no results would display.
 * The end of sentence ellipses not showing on the last line of text in the **Statement of interest** section of an internship application. 
 
-[June 2022](june-2022)  
+[June 2022](jun-2022)  
 [May 2022](may-2022)  
 [April 2022](apr-2022)  
 [March 2022](mar-2022)  
