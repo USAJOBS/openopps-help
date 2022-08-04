@@ -10,17 +10,42 @@ title: What does the type of commitment mean?
 
 The commitment varies for each opportunity. Some opportunities are a ‘one-time’ deal, while others require a longer commitment.
 
+The types of commitment are:
+
+* [One-time](#one-time)
+* [Recurring](#recurring)
+* [Detail](#detail)
+* [Lateral](#lateral)
+
 ## One-time
 
-A one-time opportunity will happen only once. For example, helping with a specific meeting, writing a paper, or creating a piece of marketing collateral. You stay in your current job and there is no money exchanged.
+A one-time opportunity is a smaller task that takes minimal time to complete and will happen only once.  The work may take a few hours to complete. For example: helping with a specific meeting, writing a paper, or creating a piece of marketing collateral. You stay in your current job and there is no money exchanged. 
+
+### Time commitment example 
+
+You may work about 2-4 hours on the project. 
+
+### Benefits of a one-time opportunity
+
+* As an opportunity creator, you receive extra help and insights from talent across the federal government.
+* There’s no paperwork required (SF-182 is optional). 
 
 ## Recurring
 
-A recurring opportunity happens on a recurring basis. For example, writing a monthly newsletter or participating in a monthly focus group. You stay in your current job and there is no money exchanged.
+A recurring opportunity is an ongoing project with specified hours on a weekly or monthly basis. The project may take up to 20% of your duty time. For example, writing a monthly newsletter or participating in a monthly focus group. You stay in your current job and there is no money exchanged. 
+
+### Time commitment example 
+
+The time commitment varies by opportunity. You may work 4 – 8 hours per week for six months or 2 - 4 hours for three months, a year, etc.
+
+### Benefits of a recurring opportunity
+
+* As an opportunity creator you can find expertise and knowledge outside of your office and you can get extra help on projects to meet you mission.
+* There is no paperwork required (SF-182 is optional).  
 
 ## Detail
 
-Detail opportunities can be part-time or full-time, and limited to a certain number of days. You work for someone else for an extended period of time.
+Detail opportunities can be part-time or full-time, and limited to a certain number of days. You work for someone else for an extended period.
 
 A **part-time detail** lets you stay in your current job while taking on another job part-time. A **full-time detail** requires you to leave your current job and take on another job for a period of time.
 
@@ -33,6 +58,14 @@ Some detail opportunities are reimbursable, meaning the host office (the place w
 If a detail opportunity is not reimbursable, then the host office does not pay the home office. The home office will continue to pay the participant as they normally do (even while they are on the detail with the host office).
 
 If the reimbursement is negotiable, the home and host offices must agree on payment.
+
+### Time commitment example 
+
+You may work 40 hours/week for 180 days. 
+
+### Benefits of a detail opportunity
+
+As an opportunity creator, you’ll receive program help in a part-time or full-time capacity. 
 
 ## Lateral
 
