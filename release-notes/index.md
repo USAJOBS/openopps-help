@@ -7,6 +7,35 @@ category: release-notes
 title: What's new with Open Opportunities
 ---
 
+## Changes made August 5th, 2022
+### Internships
+
+* Updated student application statuses to display their status after applicant selection.  
+* Created the following emails that will be sent to:
+  * Student applicants telling them they have seven days to accept or decline an internship.
+  * Internship owners and co-owners when a student has accepted an internship.
+  * Internship owners and co-owners when a student has accepted a different internship than the one they have ownership of.
+  * Internship owners and co-owners that a student has declined their internship. 
+
+* Updated the email sent to internship applicants after they apply to display “We received your application…”. We removed the text “In the next few days” and “Keep checking the site as we frequently add new internships”.
+* Added student application statuses of **Offer declined** and **Offer accepted** to display on the student dashboard. 
+* Updated the **Participated table** on student dashboard to include a sort by **Application last updated**.
+
+### Communities
+
+* Created a .csv file and download link containing data related to community interactions for a cyclical student community. 
+* Updated the title of the manage users .csv file found in student communities to “student_community_users”.  
+* Created a .csv for student community members who “applied to, but were not selected for” student internships.    
+
+### Bug fixes
+
+Fixed the following issues
+
+* skills were not displaying on a student’s internship application. 
+* A download link was not displaying on the manage users page for community administrators. 
+* A coding issue that caused a debug error when an internship creator selected the Complete applicant selection button. 
+
+
 ## Changes made July 26, 2022
 ### Internships
 
@@ -85,63 +114,7 @@ Fixed the following issues:
 * When typing a user’s first name and capitalizing the first letter in the search field of a community, no results would display.
 * The end of sentence ellipses not showing on the last line of text in the **Statement of interest** section of an internship application. 
 
-## Changes made June 28th, 2022  
-### Sitewide enhancements   
-
-* Updated the student profile page to include a language section where a student can add, edit, or delete languages. 
-
-### Internships
-
-* Added new functionality so when a user adds languages during the application process, we also add the languages to their Open Opportunities and USAJOBS profile.
-* Updated the application process to automatically add skills to the internship application for users who already have skills listed in their profile.
-* Added the ability for students to add, edit, or delete skills when applying to an internship.
-* Created a success banner that displays when a creator cancels an internship.
-* Created an email that is sent to applicants when an internship is cancelled. 
- 
-### Communities 
-
-* Updated the **Community search** page banners for student communities.
-* Added a modal that displays when a student attempts to join a non-student community.
-* Created a toggle for an **applicant cap** in student communities.
-* Updated the **student internship applicant count** to include an applicant cap when toggled on.
-* Added functionality to the application process that prevents applicants from applying to an internship when the applicant cap has been reached. 
-
-## Changes made June 10th, 2022
-### Sitewide enhancements   
-
-* Added a help link to the status indicator on the sitewide administrators Manage internships page.
-* Added a help link to the metrics section on the sitewide administrator dashboard.
-* Updated the modal that displays when deleting a message to indicate that a duplicate exists in the email address listed on a user’s profile.  
-
-### Internships
-
-* Added an applicant count to the **Internship Detail** page.
-* Updated the **What happens next?** page to prompt a student user to update their demographic information if they have not previously added it.
-* Updated the **Internship** page heading to “Search for unpaid internships”.
-* Renamed the **Commitment filter** on the internship search page to Unpaid internships.
-* Added a **Salary** label to the Internship detail page—this includes a sub-label of “Unpaid”.
-* Removed the ability for a student to become a co-owner of an internship.
-* Created an email that is sent to a co-owner when they have been added as a co-owner to an internship. 
-
-### Opportunities
-
-* Added an applicant count to the Opportunities page. 
-* Removed the **Applicant list** from the **Opportunity** page for all users, except creators, co-owners or sitewide administrators. 
-
-### Communities 
-
-* Removed the **Hide applicant** list toggle from the federal communities settings page. 
-* Updated the **Internship Creation review** page to display the “community” name when a creator selects a community during the internship creation process. 
-* Updated the **Internship detail** page to display the “community” name when a user selects a community during the internship creation process. 
-* Created eight new internship tables on the community administrators **Manage internship** page. 
-* Created a modal that displays when a community administrator approves an internship within a community. 
-* Removed the ability for students to see the member section on the Community profile page. 
-
-### Bug fixes  
-
-* Fixed the opportunity count so it displays correctly when using the search function on the community administrators **Manage opportunities** page. 
-* Fixed a typo on the **What happens next?** page.  
-
+[June 2022](jun-2022)  
 [May 2022](may-2022)  
 [April 2022](apr-2022)  
 [March 2022](mar-2022)  
