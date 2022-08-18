@@ -7,7 +7,45 @@ category: release-notes
 title: What's new with Open Opportunities
 ---
 
-## Changes made August 5th, 2022
+## Changes made August 19, 2022
+### Internships
+
+* Updated the student application page to display their university and major and minor. Internship creators can now see this information when viewing an application. 
+* Updated the applicant view of the internship page to include the following:
+  * Text that says “You have declined this internship offer” when the applicant has declined the internship.
+  * Text that says “You have accepted another internship offer” when the applicant has accepted a different internship.
+
+* Updated the Internship creator view of the **Rejected applicants** table to include “This applicant has accepted another internship offer” when the applicant has accepted a different internship.
+* Removed the **Action** column on the **Selected**, **Rejected** and **Applicants** table when an internship has a status of complete. 
+* Removed the **Action** buttons on the **internship application page** when the internship has a status of complete. 
+* Added a **Mark task complete** button to the **application view page**. 
+
+### Communities
+
+* Added the ability for student community administrators to see the owners section of an internship. 
+* Updated the status of internships with an applicant cap to:
+  * Automatically move to **Reviewing applicants** when the applicant limit is reached. 
+  * Automatically move back to **Open** if an applicant withdraws their application after the applicant limit is reached. 
+
+### Bug fixes
+
+Fixed the following:
+
+* Several 508 issues. 
+* The **Unselect** button to be the correct color in the **Selected applicants** table. 
+* Removed the **Action** column from the **Selected applicants** table when signed in as a sitewide administrator.
+* A timing issue so internships that are **Open** continue to display in the search page after 8 PM EST. 
+* The validation text that displays when updating the **Apply end date** of a student community cycle. 
+* The application due date on the:
+  * **Internship card** and the **internship page** so they match. 
+  * **Participated** table of student’s dashboard and the **internship page** so they match.  
+  * **Saved internships** table of student’s dashboard and the **internship page** so they match.  
+  * **Internship share link** email and the **internship page** so they match. 
+
+* The help link next to the internship status section to send users to the correct page. 
+
+
+## Changes made August 5, 2022
 ### Internships
 
 * Updated student application statuses to display their status after applicant selection.  
@@ -63,7 +101,7 @@ Fixed the following issues:
 * Displaying the wrong number of internships in the **Open** status on the **Manage internships** table for sitewide administrators.
 * Sending multiple **Confirm your email address** messages to a single user. 
 
-## Changes made July 8th, 2022
+## Changes made July 8, 2022
    
 ### Sitewide enhancements   
 
