@@ -7,6 +7,57 @@ category: release-notes
 title: What's new with Open Opportunities
 ---
 
+## Changes made September 2, 2022
+   
+### Sitewide
+
+* Added date picker fields to the Create a report modal.  
+
+### Sitewide administration
+
+* Updated the **Manage internships** table to include a radio button for Approved.
+* Added new filters to the **Filter by** feature within the **Manage users** table:
+  * Students
+  * Federal
+  * Contractor
+
+### Opportunities
+
+* Updated the **Show endorsements** on your profile modal to default to **Yes**. 
+
+### Internships
+
+* Added a daily countdown to the Waiting on a response text that creators and co-owners see after submitting an internship offer. 
+* Updated the **Internship Creation Review Step 4** to reorder the text in the blue details section.
+
+### Communities
+
+* Updated the **Applicants** column on the **manage_internship.csv** to show the number of applicants who fully submitted an application. 
+* Added three new statuses to the community dashboard page for cyclical communities:
+  * In review
+  * In progress
+  * Canceled
+
+* Updated the **Search applications** page, in student communities, to include pagination.
+* Updated the layout of the community discussion page banner. 
+* Updated the layout of the student community internship search page banner. 
+* Updated the text of the **Approve all** modal displayed in student communities. 
+* Added success banners when creating or editing a cycle in a cyclical student community. 
+* Updated the community dropdown for sitewide and community admins to show the active communities first. 
+
+### Bug fixes
+Fixed the following issues:
+
+* The community heading would still display on the internship creation review page when no community was selected. 
+* The community filter pill could not be removed from the internship search page once selected. 
+* Special characters were being displayed in the “student_community_internships.csv”. 
+* The estimated start and end dates of the internship detail page was not matching the estimated start and end dates of the internship apply pages. 
+* The application due dates on the “student_community_internships.csv” were not correct.  
+* An internship created in a cyclical community would move to a status of “Open” before first date of the application dates had passed. 
+* The applicant cap validation text would display on the internship creation step 1 page when the applicant cap was toggled off. 
+* The spacing on the applicant tables found on the internship detail page. 
+* An issue where it was possible to have two communities with the same community name. 
+
 ## Changes made August 19, 2022
 ### Internships
 
