@@ -7,6 +7,46 @@ category: release-notes
 title: What's new with Open Opportunities
 ---
 
+## Changes made September 16, 2022
+   
+### Sitewide
+
+* Updated the **Sign out** page to include the link Search for internships and to automatically redirect to the landing page after 60 seconds, if no action is taken.
+* Updated backend notifications to check for internship inactivity at the 90 and 120 day mark from last change.  
+
+### Sitewide administration
+
+* Made the following changes to the **Manage internship** page for sitewide administrators: 
+  * Removed the **Not open** radio button. 
+  * Moved the **In review** radio button to be between the **Open** and **In progress** radio buttons. 
+
+### Internships
+
+* Created two new notification emails that will go to internship creators when: 
+  * An internship has been inactive for 120 days.
+  * An internship has been inactive for 90 days. 
+
+* Added the ability for creators and co-owners to remove an applicant from an internship. 
+* Added a **Removed** table on the **Internship page** that shows applicants who have been removed from an internship. 
+* Added a modal that displays when a creator removes an applicant from an internship. 
+* Removed the ability to click on a creators icon and name when viewing the internship page as a student. 
+* Created an application status of **Complete** that will display on the student dashboard when they complete an internship. 
+* Added a **Search by** section to the student dashboard.
+
+### Communities
+
+* Updated the **Community settings** page to include a toggle for removing the actions buttons from the **Selected**, **Rejected** and **Applicants** table while an internship is in progress. 
+* Disabled the **Mark internship complete** button when an internship, created in a cycle, has not passed the last date of the internship dates. 
+* Added a column of **Cycle_name** to the student_community_internship download file.
+* Added a **Sort by** to the manage cycles page. 
+* Updated the **Community settings** page to move the **Applicant cap** toggle to the **Apply process drawer**. 
+* Updated the **Community profile** page of student communities to include a **Create internship**. 
+
+### Bug fixes
+
+* Fixed an issue where sitewide administrators could not remove a user from a community using the account settings page. 
+* Fixed an issue that was not allowing creators to add or remove co-owners from an internship. 
+
 ## Changes made September 2, 2022
    
 ### Sitewide
@@ -125,84 +165,7 @@ Fixed the following issues
 * A coding issue that caused a debug error when an internship creator selected the Complete applicant selection button. 
 
 
-## Changes made July 26, 2022
-### Internships
-
-* Added a **Congratulations** message to the internship page that a student applicant will see if they have been selected for the internship. This message will only appear for internships that are in a community with the **Accept/Decline** feature turned on.  
-* Added the ability for a student applicant to **Accept** or **Decline** an internship via two buttons under the **Congratulations** message of an internship. 
-* Added specific messaging that appears on an internship page when an applicant accepts, declines or chooses another internship. 
-* Updated the **Selected**, **Rejected** and **Applicant** tables to display if an applicant accepts, declines, or chooses another internship. 
-* Updated the selected applicants table to display if an applicant is still pending a response.
-* Created two confirmation modals for **Accepting** or **Declining** an internship. 
-* Updated the **Confirm your final selection** modal describing the accept or decline process for internship creators.
-
-### Communities
-
-Created the following:
-
-* A .csv file and download link containing internship data for community administrators. 
-* An **Apply process** drawer on the community settings page. This includes settings for the student application process.
-* An **Accept/Decline** feature toggle for student internships.   
-
-## Bug fixes
-
-Fixed the following issues:
-
-* A validation error displaying when a user enters a postal code outside of the United States. 
-* Displaying the wrong number of internships in the **Open** status on the **Manage internships** table for sitewide administrators.
-* Sending multiple **Confirm your email address** messages to a single user. 
-
-## Changes made July 8, 2022
-   
-### Sitewide enhancements   
-
-* Updated several help content links in the following areas of the site:
-  * **Saved** section on the **Student dashboard**.
-  * **Status** section on the **Internship detail** page.
-  * **Manage internships** page when viewed as a sitewide admin. 
-
-* Added a column for **Withdrawn applicants**, **Co-owner name** and **Co-owner email** to the sitewide administrators’ opportunity report.  
-
-### Internships
-
-* Updated the **Application review** page to show selected **Language and skills** level.
-* Added a 30-minute and 5-minute countdown banner to the internship application process to let a user know how much time is left to apply.
-* Made the **Resume** and **Transcript** cards, that display during the application process, to be clickable.
-* Updated the **Student dashboard** to show an internships' status as **Selected**, **Not selected** and **Canceled**.
-* Updated the button text to say **Update application** when a user is updating an application after they already submitted it.
-* Added a **Search for open internships** button to internships that are no longer in an Open status.
-* Created the following emails that will be sent to:
-  * A creator when a student applies to one of their internships.
-  * A student when they have started an application but have not submitted it before the application due date.
-  * An internship creator when a student withdraws an application from their internship.
-  * An applicant when an internship is canceled.
-
-* Created new success banners that display when:
-  * A student successfully updates an application.
-  * A creator cancels an internship. 
-
-* Added a modal that displays when a non-U.S. citizen attempts to apply to an internship.
-* Added congratulatory text that displays on the internship page when a student has been selected for an internship.
-* Added three new tables to the **Manage internships** page for sitewide administrators:
-  * Completed
-  * In-progress
-  * Canceled 
-
-* Added functionality to automatically include the skills in a user’s profile in their internship application.
-* Added the ability for students to add, edit, or delete skills when applying to an internship. 
-
-### Bug fixes
-
-Fixed the following issues:
-
-* Some internship applicants not being able to upload a resume.
-* Showing inactive communities on the communities page.
-* Co-owner cards overlapping in the co-owner section of the internship page.
-* Search criteria not saving when using the back link.
-* A modal displaying incorrectly when a user signs in, saying the user had hit the three-internship limit.
-* When typing a user’s first name and capitalizing the first letter in the search field of a community, no results would display.
-* The end of sentence ellipses not showing on the last line of text in the **Statement of interest** section of an internship application. 
-
+[July 2022](jul-2022)  
 [June 2022](jun-2022)  
 [May 2022](may-2022)  
 [April 2022](apr-2022)  
