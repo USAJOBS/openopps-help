@@ -7,8 +7,36 @@ category: release-notes
 title: What's new with Open Opportunities
 ---
 
-## Changes made September 16, 2022
-   
+## Changes made September 30, 2022
+### Internships
+
+* Updated the internship card on the search page to:
+  * Add the community name. 
+  * Add a fade to the text of the card.  
+
+* Added the ability for co-owners to remove themselves from an internship. 
+* Removed the action buttons from the **Selected**, **Rejected** and **Applicants** tables when an internship status is **Canceled**. 
+* Removed the action buttons from the applicant view page of an internship when an internship status is **Canceled**. 
+* Revised the link on the “selected for an internship” email to students to make them sign in before going to the internship page. 
+* Created reminder emails that will go to students one day and four days before the seven day **accept or decline period** closes. 
+* Updated the co-owners view of an internship to display the right rail.
+* Added an **Undo** remove button to the right rail of the applicant view page. This button will only display when a student has been removed from an internship.  
+
+### Opportunities
+
+* Updated the co-owners view of an opportunity to display the right rail.
+
+### Communities
+
+* Added a customizable signature line to emails sent from a community. 
+
+### Bug fixes
+
+* Fixed an issue where validation text would display when the **Apply by** date was updated on an internship. 
+* Fixed an issue where an applicants accept or decline status carried over into a new community cycle.  
+ 
+
+## Changes made September 16, 2022   
 ### Sitewide
 
 * Updated the **Sign out** page to include the link Search for internships and to automatically redirect to the landing page after 60 seconds, if no action is taken.
@@ -47,8 +75,7 @@ title: What's new with Open Opportunities
 * Fixed an issue where sitewide administrators could not remove a user from a community using the account settings page. 
 * Fixed an issue that was not allowing creators to add or remove co-owners from an internship. 
 
-## Changes made September 2, 2022
-   
+## Changes made September 2, 2022   
 ### Sitewide
 
 * Added date picker fields to the Create a report modal.  
@@ -163,7 +190,6 @@ Fixed the following issues
 * skills were not displaying on a student’s internship application. 
 * A download link was not displaying on the manage users page for community administrators. 
 * A coding issue that caused a debug error when an internship creator selected the Complete applicant selection button. 
-
 
 [July 2022](jul-2022)  
 [June 2022](jun-2022)  
