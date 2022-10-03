@@ -27,3 +27,7 @@ Once you join a community, you will have access to their opportunities and discu
 
 If you would like to create a community in Open Opportunities, email us at <OpenOpps@usajobs.gov>.
 
+<div class="usajobs-openopps-help-center-article__callout2">
+  <a class="usajobs-openopps-help-center-article__callout-link" href="{{ site.baseurl }}/assets/Cyber Community Campaign toolkit.pdf" target= "blank">
+    {% include icons/download.svg %}Download the Cyber Community Campaign toolkit
+</div>
