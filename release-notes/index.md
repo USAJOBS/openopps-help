@@ -7,6 +7,28 @@ category: release-notes
 title: What's new with Open Opportunities
 ---
 
+## Changes made October 31, 2022
+### Sitewide
+
+* Updated the **Messaging page** to display the message count as (XXX) next to the **Select all** checkbox. 
+* Removed the messages count from the **Mark as read** and **Delete messages** buttons. 
+
+### Internships
+
+* Updated **Skills matching** for student internships:
+  * Created an API to interface with the skills engine and the **Skills and About** section in a student profile.
+  * Created an API that checks for skills in a student profile when a student signs into Open Opportunities.
+  * Created an audit table capturing API calls for internships. 
+  * Created a **Recommend internships** tab that will display matching internships for student applicants based on the skills in their profiles.  
+  * Added **Good**, **Better** and **Best** skills match indicators to the internship search cards and **Internship search** page. 
+  * Updated the **Sort by** on the **Internship search** page to include a **Profile match** option.
+  * Added **Profile match** search filters of **Good**, **Better** and **Best** to the **Internship search** page. 
+
+### Bug fixes
+
+* Fixed an issue where student internship applicants were showing as selected in the student_community_internships.csv report when they withdrew from an internship.  
+
+
 ## Changes made October 17, 2022
 ### Sitewide
 
