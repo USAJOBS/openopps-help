@@ -7,7 +7,7 @@ category: release-notes
 title: What's new with Open Opportunities
 ---
 
-## Changes made October 28, 2022
+## Changes made October 31, 2022
 ### Sitewide
 
 * Updated the **Messaging page** to display the message count as (XXX) next to the **Select all** checkbox. 
