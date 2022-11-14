@@ -7,6 +7,36 @@ category: release-notes
 title: What's new with Open Opportunities
 ---
 
+## Changes made November 14, 2022
+### Sitewide
+
+* Redesigned the **Open Opportunities home page**.
+  * Created six new sections highlighting:
+    * A purpose statement
+    * A value statement
+    * An opportunity definition
+    * Stories 
+    * Create an Opportunity or Internship section
+    * Events
+
+* Created a CMS section so sitewide administrators can make updates to the home page.  
+* Added **Skills engine match tracking** to a backend audit table. 
+
+### Internships
+
+* Updated **Step 1 of the internship creation** page – for the **Do you want to post this to a specific community?**, it now defaults to Yes.
+
+### Communities
+
+* Removed the min-height and max-height for banner images that display on the **Community profile** and **Community discussion** pages.  
+
+### Bug fixes
+
+* Fixed the message count to display correctly when deleting messages on the **Messaging** page. 
+* Fixed the sub navigation menu to display when a user refreshes the **Messaging** page after deleting all messages on the page. 
+* Fixed an issue so internship owners and co-owners no longer receive applicant selection emails for internships created in different cycles. 
+
+
 ## Changes made October 31, 2022
 ### Sitewide
 
