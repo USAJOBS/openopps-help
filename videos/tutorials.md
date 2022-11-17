@@ -38,6 +38,12 @@ title: Tutorials
 <p align="center"> 
   <iframe width="560" height="315" src="https://www.youtube.com/embed/L42oHH6Kugo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
   </p>
+  
+     <p align="center"><b>How to complete an internship</b></p>
+
+<p align="center"> 
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/zwGAHWKuBQI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+  </p>
 
 
 <p align="center"><b>How to find a mentor or mentee</b></p>
