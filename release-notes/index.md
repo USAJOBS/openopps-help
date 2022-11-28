@@ -7,6 +7,33 @@ category: release-notes
 title: What's new with Open Opportunities
 ---
 
+## Changes made November 28, 2022
+### Sitewide
+
+We added: 
+
+* A **Co-owner column** to the **Manage internships** and **Manage opportunities** table for sitewide administrators. 
+* A **Co-owner search** to the **Manage internships** page used by sitewide administrators. 
+* A **Video** section to the landing page. 
+* The ability for sitewide administrators to update the landing page video section.
+* A re-direct for non-federal employee users who try to access the **Create opportunity** or **Create internship** pages from a direct URL. 
+
+We also:
+* Removed the **Selective Service question** from the **Create profile**. 
+ 
+### Internships
+
+* Updated several emails to tell internship applicants when they have been selected for an internship or when an internship has been canceled. 
+ 
+### Communities
+
+* Created a **Community_diversity_data.csv** to report diversity data in a student community cycle. 
+* Added a count of student members to the student community dashboard page. 
+ 
+### Bug fixes
+
+* Fixed an issue so that validation text for the opportunity end date field no longer displays after a user corrects it. 
+
 ## Changes made November 14, 2022
 ### Sitewide
 
@@ -88,124 +115,7 @@ title: What's new with Open Opportunities
 * Fixed an issue so the search box on the **Networking page** no longer shows job series codes and descriptions in the autocomplete dropdown. 
 
 
-## Changes made September 30, 2022
-### Internships
-
-* Updated the internship card on the search page to:
-  * Add the community name. 
-  * Add a fade to the text of the card.  
-
-* Added the ability for co-owners to remove themselves from an internship. 
-* Removed the action buttons from the **Selected**, **Rejected** and **Applicants** tables when an internship status is **Canceled**. 
-* Removed the action buttons from the applicant view page of an internship when an internship status is **Canceled**. 
-* Revised the link on the “selected for an internship” email to students to make them sign in before going to the internship page. 
-* Created reminder emails that will go to students one day and four days before the seven day **accept or decline period** closes. 
-* Updated the co-owners view of an internship to display the right rail.
-* Added an **Undo** remove button to the right rail of the applicant view page. This button will only display when a student has been removed from an internship.  
-
-### Opportunities
-
-* Updated the co-owners view of an opportunity to display the right rail.
-
-### Communities
-
-* Added a customizable signature line to emails sent from a community. 
-
-### Bug fixes
-
-* Fixed an issue where validation text would display when the **Apply by** date was updated on an internship. 
-* Fixed an issue where an applicants accept or decline status carried over into a new community cycle.  
- 
-
-## Changes made September 16, 2022   
-### Sitewide
-
-* Updated the **Sign out** page to include the link Search for internships and to automatically redirect to the landing page after 60 seconds, if no action is taken.
-* Updated backend notifications to check for internship inactivity at the 90 and 120 day mark from last change.  
-
-### Sitewide administration
-
-* Made the following changes to the **Manage internship** page for sitewide administrators: 
-  * Removed the **Not open** radio button. 
-  * Moved the **In review** radio button to be between the **Open** and **In progress** radio buttons. 
-
-### Internships
-
-* Created two new notification emails that will go to internship creators when: 
-  * An internship has been inactive for 120 days.
-  * An internship has been inactive for 90 days. 
-
-* Added the ability for creators and co-owners to remove an applicant from an internship. 
-* Added a **Removed** table on the **Internship page** that shows applicants who have been removed from an internship. 
-* Added a modal that displays when a creator removes an applicant from an internship. 
-* Removed the ability to click on a creators icon and name when viewing the internship page as a student. 
-* Created an application status of **Complete** that will display on the student dashboard when they complete an internship. 
-* Added a **Search by** section to the student dashboard.
-
-### Communities
-
-* Updated the **Community settings** page to include a toggle for removing the actions buttons from the **Selected**, **Rejected** and **Applicants** table while an internship is in progress. 
-* Disabled the **Mark internship complete** button when an internship, created in a cycle, has not passed the last date of the internship dates. 
-* Added a column of **Cycle_name** to the student_community_internship download file.
-* Added a **Sort by** to the manage cycles page. 
-* Updated the **Community settings** page to move the **Applicant cap** toggle to the **Apply process drawer**. 
-* Updated the **Community profile** page of student communities to include a **Create internship**. 
-
-### Bug fixes
-
-* Fixed an issue where sitewide administrators could not remove a user from a community using the account settings page. 
-* Fixed an issue that was not allowing creators to add or remove co-owners from an internship. 
-
-## Changes made September 2, 2022   
-### Sitewide
-
-* Added date picker fields to the Create a report modal.  
-
-### Sitewide administration
-
-* Updated the **Manage internships** table to include a radio button for Approved.
-* Added new filters to the **Filter by** feature within the **Manage users** table:
-  * Students
-  * Federal
-  * Contractor
-
-### Opportunities
-
-* Updated the **Show endorsements** on your profile modal to default to **Yes**. 
-
-### Internships
-
-* Added a daily countdown to the Waiting on a response text that creators and co-owners see after submitting an internship offer. 
-* Updated the **Internship Creation Review Step 4** to reorder the text in the blue details section.
-
-### Communities
-
-* Updated the **Applicants** column on the **manage_internship.csv** to show the number of applicants who fully submitted an application. 
-* Added three new statuses to the community dashboard page for cyclical communities:
-  * In review
-  * In progress
-  * Canceled
-
-* Updated the **Search applications** page, in student communities, to include pagination.
-* Updated the layout of the community discussion page banner. 
-* Updated the layout of the student community internship search page banner. 
-* Updated the text of the **Approve all** modal displayed in student communities. 
-* Added success banners when creating or editing a cycle in a cyclical student community. 
-* Updated the community dropdown for sitewide and community admins to show the active communities first. 
-
-### Bug fixes
-Fixed the following issues:
-
-* The community heading would still display on the internship creation review page when no community was selected. 
-* The community filter pill could not be removed from the internship search page once selected. 
-* Special characters were being displayed in the “student_community_internships.csv”. 
-* The estimated start and end dates of the internship detail page was not matching the estimated start and end dates of the internship apply pages. 
-* The application due dates on the “student_community_internships.csv” were not correct.  
-* An internship created in a cyclical community would move to a status of “Open” before first date of the application dates had passed. 
-* The applicant cap validation text would display on the internship creation step 1 page when the applicant cap was toggled off. 
-* The spacing on the applicant tables found on the internship detail page. 
-* An issue where it was possible to have two communities with the same community name. 
-
+[September 2022](sep-2022)  
 [August 2022](aug-2022)  
 [July 2022](jul-2022)  
 [June 2022](jun-2022)  
