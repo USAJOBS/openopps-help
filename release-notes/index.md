@@ -7,6 +7,30 @@ category: release-notes
 title: What's new with Open Opportunities
 ---
 
+## Changes made December 9, 2022
+### Sitewide
+
+* Added a **Co-owner search** to the **Manage opportunities** page used by sitewide administrators. 
+
+### Internships
+
+* Redesigned the **internship task completion badge** to include the number of completed tasks. 
+
+### Communities
+
+* Added a **Co-owner search** to the **Manage opportunities** and **Manage internships** pagse used by community administrators. 
+* Updated the permissions for student community administrators, so they can now see:
+  * Applicant tables for all internships created in the community. 
+  * The right rail section of the internship detail page. 
+  * The right rail section of the application page. 
+
+* Added internship creation dates to the **Create** and **Edit** cycles page. 
+* Updated the table on the **Manage cycles** page to include columns for the internship creation dates. 
+
+### Bug fixes
+
+* Fixed several 508 compliance issues. 
+
 ## Changes made November 28, 2022
 ### Sitewide
 
