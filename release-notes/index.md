@@ -7,6 +7,37 @@ category: release-notes
 title: What's new with Open Opportunities
 ---
 
+## Changes made January 20, 2022
+### Sitewide
+
+* Updated the date and time format in the **Administration** section including:
+  * Manage Opportunities page 
+  * Manage Internships page 
+
+### Opportunities
+
+* Updated the date and time format in the **federal and contract user dashboards**, including:
+  * Recommended Opportunities tab
+  * Step 4 Opportunity creation review page
+
+### Internships
+
+* Updated the date and time format in the **student user dashboard**, including: 
+  * Recommended internships tab
+  * Saved searches section. 
+  * Step 4 Internship creation review page. 
+
+### Communities
+
+* Created a customized **certificate of completion** for internships in the **VSFS student community**. 
+* Added a link to the community profile page in the **Community updated** success banner. 
+
+### Bug fixes
+
+* Fixed an issue with the **Add**, **Edit** and **Cycles** page, so when a user clicks Enter in a text field, they do not navigate away from the page. 
+* Fixed an issue with the opportunity cards on the **Opportunity search page**, so the community’s name does not overlap the agency name.
+
+
 ## Changes made January 6, 2023
 ### Sitewide
 
@@ -165,58 +196,7 @@ We also:
 * Fixed the sub navigation menu to display when a user refreshes the **Messaging** page after deleting all messages on the page. 
 * Fixed an issue so internship owners and co-owners no longer receive applicant selection emails for internships created in different cycles. 
 
-
-## Changes made October 31, 2022
-### Sitewide
-
-* Updated the **Messaging page** to display the message count as (XXX) next to the **Select all** checkbox. 
-* Removed the messages count from the **Mark as read** and **Delete messages** buttons. 
-
-### Internships
-
-* Updated **Skills matching** for student internships:
-  * Created an API to interface with the skills engine and the **Skills and About** section in a student profile.
-  * Created an API that checks for skills in a student profile when a student signs into Open Opportunities.
-  * Created an audit table capturing API calls for internships. 
-  * Created a **Recommend internships** tab that will display matching internships for student applicants based on the skills in their profiles.  
-  * Added **Good**, **Better** and **Best** skills match indicators to the internship search cards and **Internship search** page. 
-  * Updated the **Sort by** on the **Internship search** page to include a **Profile match** option.
-  * Added **Profile match** search filters of **Good**, **Better** and **Best** to the **Internship search** page. 
-
-### Bug fixes
-
-* Fixed an issue where student internship applicants were showing as selected in the student_community_internships.csv report when they withdrew from an internship.  
-
-
-## Changes made October 17, 2022
-### Sitewide
-
-* Updated the **Messaging page**: 
-  * Added a message count next to the **All messages** text.
-  * Updated the page layout.
-  * Added the ability to select individual message cards using a checkbox. 
-  * Added the ability to delete multiple messages at once. 
-  * Added the ability to mark multiple messages as read at once.
-  * Added a modal that displays when a user deletes multiple messages. 
-
-* Updated the timing of the email sent to sitewide administrators when an internship is created—now it will only be sent when an internship is created outside of a community. 
-
-### Internships
-
-* Added text to the **Internship view page** showing applicants how many days they have left to accept or decline an internship. 
-* Updated the co-owner view of the Opportunity detail page to display the right rail. 
-* Updated the internship applicant table for creators to rename **Matching skills** to **Skills**.
-
-### Communities
-
-* Created a new email to send to community administrators when a new internship is created in their community. 
-
-### Bug fixes
-
-* Fixed several 508 compliance issues. 
-* Fixed an issue so the search box on the **Networking page** no longer shows job series codes and descriptions in the autocomplete dropdown. 
-
-
+[October 2022](oct-2022)  
 [September 2022](sep-2022)  
 [August 2022](aug-2022)  
 [July 2022](jul-2022)  
