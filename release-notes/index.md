@@ -7,6 +7,42 @@ category: release-notes
 title: What's new with Open Opportunities
 ---
 
+## Changes made February 3, 2023
+### Sitewide
+
+* Replaced the success banners with a smaller “snack bar” design that displays when a user: 
+
+  * Saves a search.
+  * Withdraws an opportunity or internship application.
+  * Selects or does not select an applicant.
+  * Adds an endorsement.
+  * Joins a community.
+  * Adds a post to a community discussion.
+  * Saves changes on the community settings page.
+  * Creates a new community.
+  * Creates a new community story.
+  * Creates a sitewide event.
+  * Deletes a message using the trash can icon found in the message card.
+  * Updates their privacy and email settings.
+  * Makes changes to the user profile page.
+  * Adds or removes a badge from a user’s profile.
+  * Creates or edits a community cycle.
+  * Submits or updates an internship application.
+  * Submits or updates a detail or lateral opportunity application.
+
+### Opportunities
+
+* Updated the **opportunity search** page layout so the filters section top aligns with the search results section. 
+
+### Internships
+
+* Updated the **internship search** page layout so the filters section top aligns with the search results. 
+
+### Bug fixes
+
+* Fixed an issue on the **Add story** page to prevent the user moving back one page if they click their ‘Enter’ key in a text field. 
+* Fixed an issue so validation text will display when adding a sub-organization on the **Step 1** page of the opportunity creation process.
+
 ## Changes made January 20, 2022
 ### Sitewide
 
@@ -140,62 +176,7 @@ Fixed the following issues:
 
 * Fixed several 508 compliance issues. 
 
-## Changes made November 28, 2022
-### Sitewide
-
-We added: 
-
-* A **Co-owner column** to the **Manage internships** and **Manage opportunities** table for sitewide administrators. 
-* A **Co-owner search** to the **Manage internships** page used by sitewide administrators. 
-* A **Video** section to the landing page. 
-* The ability for sitewide administrators to update the landing page video section.
-* A re-direct for non-federal employee users who try to access the **Create opportunity** or **Create internship** pages from a direct URL. 
-
-We also:
-* Removed the **Selective Service question** from the **Create profile**. 
- 
-### Internships
-
-* Updated several emails to tell internship applicants when they have been selected for an internship or when an internship has been canceled. 
- 
-### Communities
-
-* Created a **Community_diversity_data.csv** to report diversity data in a student community cycle. 
-* Added a count of student members to the student community dashboard page. 
- 
-### Bug fixes
-
-* Fixed an issue so that validation text for the opportunity end date field no longer displays after a user corrects it. 
-
-## Changes made November 14, 2022
-### Sitewide
-
-* Redesigned the **Open Opportunities home page**.
-  * Created six new sections highlighting:
-    * A purpose statement
-    * A value statement
-    * An opportunity definition
-    * Stories 
-    * Create an Opportunity or Internship section
-    * Events
-
-* Created a CMS section so sitewide administrators can make updates to the home page.  
-* Added **Skills engine match tracking** to a backend audit table. 
-
-### Internships
-
-* Updated **Step 1 of the internship creation** page – for the **Do you want to post this to a specific community?**, it now defaults to Yes.
-
-### Communities
-
-* Removed the min-height and max-height for banner images that display on the **Community profile** and **Community discussion** pages.  
-
-### Bug fixes
-
-* Fixed the message count to display correctly when deleting messages on the **Messaging** page. 
-* Fixed the sub navigation menu to display when a user refreshes the **Messaging** page after deleting all messages on the page. 
-* Fixed an issue so internship owners and co-owners no longer receive applicant selection emails for internships created in different cycles. 
-
+[November 2022](nov-2022)  
 [October 2022](oct-2022)  
 [September 2022](sep-2022)  
 [August 2022](aug-2022)  
