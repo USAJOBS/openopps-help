@@ -7,6 +7,52 @@ category: release-notes
 title: What's new with Open Opportunities
 ---
 
+## Changes made February 17th, 2023
+### Sitewide
+
+* Completed research for the future contact us page.
+* Replaced several success banners with a smaller “snack bar” design that displays when a user:
+  * Creates a draft opportunity or internship.
+  * Withdraws an internship application.
+  * Cancels an internship.
+  * Sends an opportunity invite email.
+  * Deletes multiple messages on the **Messages** page.
+  * Saves a story.
+
+* Redesigned the **Stay informed banner** that displays on the sitewide **Events** page to a slim banner.
+* Updated the color of the **Edit** button that displays in the **Saved searches** section.
+* Removed the **Select all** option from the filters on the **Networking** page.
+
+### Opportunities
+
+* Removed the **Select all** option from the filters on the **Opportunity** search page. 
+*	Removed unnecessary text that displays when there are no search results on the **Opportunity search** page.
+* Updated the **Opportunity creation** and **Edit step 1** page to use date picker fields.
+* Updated the **User profile** page to use date picker fields in the **Manage applicants** section.
+* Added more contrast to the text color on the networking ad on the **Opportunity search** page.
+
+### Internships
+
+* Updated the format of the **Completed on** date.
+
+### Communities
+
+* Changed the background color of the **Communities** page to use gray for more contrast.
+
+### Bug fixes
+Fixed the following issues:
+
+* Several 508 compliance issues.
+* On the **User’s profile** page so multiple organization levels do not display the same data.  
+* The **Networking** callout so it’s no longer misaligned.
+* Stopping special characters from displaying in the subject line of an email.
+* On several pages so the **Sign out** link will not display next to the **Administrator** heading.
+* The **Join community** and **Leave community** buttons to update correctly when a user joins or leaves a community.
+* On the **User profile** page, fixed the **+ Add badge** button to not overlap with the **Remove** text in the badges section.
+* On the **User profile** page, fixed the text in the **About** section and **Skills** section, so it does not extend out of those sections and off the page.
+* Removed special characters from the **Save** button on the **You have unsaved changes** modal.
+* On the **Featured story card**, fixed the quotations to not overlap with the story content.
+
 ## Changes made February 3, 2023
 ### Sitewide
 
