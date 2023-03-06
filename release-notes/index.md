@@ -7,6 +7,66 @@ category: release-notes
 title: What's new with Open Opportunities
 ---
 
+## Changes made March 3, 2023 
+### Sitewide 
+
+* Redesigned these banners to use the slim banner design:
+  * Update your profile
+  * Get recommended opportunities based on your profile
+  * When an administrator is editing another user's opportunity.
+  * When an administrator is viewing another user's profile. 
+
+* Updated the test banners on the test and user acceptance test site.
+* Removed auto hyphens from syllable and line breaks in various locations across the site.
+* Updated the initializer templates to have compatibility with Elastic 8.x.
+* Updated the landing page to prevent perpetual API calls.
+* Revised the top contributor infographic on the **Sitewide administrator’s dashboard** to separate the internship data from opportunity data.
+* Completed research on adding a calendar of events to the site.
+* Revised the look and feel of the **Privacy settings** section for federal and contract users.
+* Added an **X** icon for removing badges on individual badges.
+* Added a slim banner that displays when an administrator is editing another user's internship.
+* Updated the federal employment text that is displayed on the **Create a profile to join** page.
+* Updated the email address to be a link on the **Account settings** page.  
+
+### Networking 
+
+* Updated the search bar on the **Networking** page.
+* Updated the **No results** text that displays on the **Networking search** page.   
+
+### Opportunities 
+
+* Updated the search bar on the **Opportunities search** page.
+* Added functionality so co-owners can remove themselves from an opportunity.
+* Updated the **Step 1 opportunity creation** page:
+  * Changed the card fill color when selecting how many people are needed for an opportunity.
+  * Changed the card fill color when selecting the type of commitment for the opportunity.
+  * Revised the card shapes to have rounded edges.
+  * Stacked the radio buttons for the specific questions.
+  * Updated the field sizes to match.  
+
+* Reduced the text length on the **Opportunity search banner**.
+* Updated the color of the modal that displays when publishing an opportunity.
+* Updated the **No results** text that displays on the **Opportunity search** page.  
+
+### Internships 
+
+* Revised the formatting of the internship **Completed on date**.
+* Reduced the text length on the **Internship search banner**.
+* Updated the **No results** text that is displays on the **Internship search** page.  
+
+### Communities 
+
+* Removed the user’s agency name that displays in the members section of a closed community.
+* Updated the **Communities** page search bar.
+* Updated the **Community search** page search bar for both opportunities and internships.
+* Updated the **Community discussion** page search bar.
+* Moved the **Custom survey links** section to the communication drawer on the **Community settings** page.  
+
+### Bug fixes 
+
+* Fixed the test site banner so it displays on the communities’ page of the test site.
+* Fixed the opportunity and internship application resumes so they download as the correct file type. 
+
 ## Changes made February 17th, 2023
 ### Sitewide
 
@@ -197,31 +257,7 @@ Fixed the following issues:
 * Fixed community administrators so they can view an applicants profile using the applicant tables. 
 * Prevented in-progress internships from displaying on the recommended internships page. 
 
-
-## Changes made December 9, 2022
-### Sitewide
-
-* Added a **Co-owner search** to the **Manage opportunities** page used by sitewide administrators. 
-
-### Internships
-
-* Redesigned the **internship task completion badge** to include the number of completed tasks. 
-
-### Communities
-
-* Added a **Co-owner search** to the **Manage opportunities** and **Manage internships** pagse used by community administrators. 
-* Updated the permissions for student community administrators, so they can now see:
-  * Applicant tables for all internships created in the community. 
-  * The right rail section of the internship detail page. 
-  * The right rail section of the application page. 
-
-* Added internship creation dates to the **Create** and **Edit** cycles page. 
-* Updated the table on the **Manage cycles** page to include columns for the internship creation dates. 
-
-### Bug fixes
-
-* Fixed several 508 compliance issues. 
-
+[December 2022](dec-2022)  
 [November 2022](nov-2022)  
 [October 2022](oct-2022)  
 [September 2022](sep-2022)  
