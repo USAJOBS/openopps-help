@@ -7,6 +7,12 @@ sidenav: profile
 title: How to create a profile
 ---
 
+<p align="center"><b>How to create an Open Opportunities account</b></p>
+
+<p align="center"> 
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/9aMFv0XY2MY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+  </p>
+
 To participate in Open Opportunities, you must have a profile and be a current federal employee or student.  Some federal contractors can also access Open Opportunities to post opportunities, but they can't apply to or work on an opportunity.
 
 With a profile, you can:
