@@ -9,6 +9,12 @@ title: How can I find a mentor or someone looking for a mentor?
 
 You can find a mentor or someone who is looking for a mentor through Your network or Search.
 
+<p align="center"><b>How to find a mentor or mentee</b></p>
+
+<p align="center"> 
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/qPf3vEWPbPU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+  </p>
+
 ## To find someone through Your network:
 
 1. Sign into Open Opportunities.
