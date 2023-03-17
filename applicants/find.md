@@ -47,7 +47,7 @@ You can search for opportunities specific to a community. These opportunities ty
 
 ### Career field
 
-You can search for opportunities by career field. Select a career field from the pre-populated drop down list.
+You can search for opportunities by career field. Select a career field from the pre-populated drop-down list.
 
 ### Series
 
@@ -59,15 +59,17 @@ You can search for opportunities by how much time you have or are willing to com
 
 #### One-time
 
-This is an opportunity that requires a single commitment. There is a clearly defined deliverable and you can expect to complete it within a set amount of hours.
+This is an opportunity that requires a single commitment. There is a clearly defined deliverable and you can expect to complete it within a set number of hours.
 
 #### Recurring
 
-This is an opportunity where the work will take a longer period of time and requires you to work several hours per week (usually 8 hours) over several months.
+This is an opportunity where the work will take a longer period and requires you to work several hours per week (usually 8 hours) over several months.
 
 #### Detail
 
-A detail is a temporary assignment to a different position for a specified period. You are expected to return to your regular duties at the end of the assignment. Your agency will need to complete paperwork for you to work on a full-time detail opportunity. You can search for full-time or part-time details, as well as by pay scale and grade.
+A detail is a temporary assignment to a different position for a specified period. You will return to your regular job duties at the end of the assignment. You can search for full-time or part-time details, as well as by pay scale and grade and whether or not it is reimbursable to your agency. 
+
+Your agency will need to complete paperwork for you to work on a full-time detail opportunity. 
 
 ### Location
 
