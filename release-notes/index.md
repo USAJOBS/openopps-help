@@ -7,6 +7,33 @@ category: release-notes
 title: What's new with Open Opportunities
 ---
 
+## Changes made March 17, 2023
+### Sitewide 
+
+* Completed research on backend changes to support Azure KeyVault.
+* Updated the **Submitted** table on the sitewide administrators **Manage internships** page to rename the column heading from **Publish** to **Approve**. 
+
+### Internships 
+
+* Updated the cycle field to auto-populate when duplicating an internship.
+* Updated the **community dropdown field** to auto-populate when creating an internship from the **Community Profile** page.
+* Added validation to prohibit internships in the same cycle from having the same title.
+* Added an **overseas checkbox and text field** to display when creating an internship.
+* Updated the internship detail page to display overseas locations.
+* Made several changes to the **Internship application step 1** page:
+  * Updated the **Statement of interest** text and added markdown to the text field.
+  * Updated the **internship location** option to default as virtual.
+  * Added a co-owner selection search field. 
+
+### Communities 
+
+* Updated the **Submitted** table on the community administrator’s **Manage internship** page to change the name **Agency** to **Organization** in the **Sort by** feature. 
+
+### Bug fixes 
+
+* Fixed incorrect text of “No tasks” that was displaying on the **Manage internship** table when there are no internships.
+* Fixed the UAT banner so it will display on the community’s page of the Open Opportunities UAT site.   
+
 ## Changes made March 3, 2023 
 ### Sitewide 
 
@@ -67,7 +94,7 @@ title: What's new with Open Opportunities
 * Fixed the test site banner so it displays on the communities’ page of the test site.
 * Fixed the opportunity and internship application resumes so they download as the correct file type. 
 
-## Changes made February 17th, 2023
+## Changes made February 17, 2023
 ### Sitewide
 
 * Completed research for the future contact us page.
