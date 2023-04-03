@@ -7,6 +7,41 @@ category: release-notes
 title: What's new with Open Opportunities
 ---
 
+## Changes made March 31, 2023
+### Sitewide
+
+* Completed updates to Node.js and moment.js.
+* Completed research on back-end code for adding ranking tables.
+* Revised the text on the modals that display when approving an internship from the sitewide administrators manage internship table.
+
+### Internships
+
+* Changed the text **Publish** to **Approve** that displays when a sitewide or community administrator views the **internship detail** page. 
+* Added the ability for internship creators to include a **Sub-agency** or **Program office**.
+* Updated the following sections to display the **Sub-agency** or **Program office**:
+  * Internship detail page
+  * Internship creation review page
+  * Internship search card
+  * Internship application right rail
+
+* Added the ability for internship creators to include a language requirement for internships.
+* Updated the following pages to display language requirements:
+  * Internship detail page
+  * Internship creation review page
+
+* Added a description of the language skill level to help creators select the correct proficiency level during the internship creation process.
+* Added a modal that displays when a creator or co-owner deletes a required language during the internship creation process.
+* Added a modal that displays when a creator or co-owner clicks **Delete** on the internship detail page that’s in draft status.
+* Updated the **internship search card** to display:
+  * The number of applicants who have applied.
+  * The applicant cap number of an internship.
+
+* Updated the **internship creation review** page to display co-owners.
+
+### Bug fixes
+
+* Fixed an issue with validation text displaying when a co-owner uses the Add co-owner text field to add themselves to an internship.
+
 ## Changes made March 17, 2023
 ### Sitewide 
 
@@ -176,7 +211,7 @@ Fixed the following issues:
 * Fixed an issue on the **Add story** page to prevent the user moving back one page if they click their ‘Enter’ key in a text field. 
 * Fixed an issue so validation text will display when adding a sub-organization on the **Step 1** page of the opportunity creation process.
 
-## Changes made January 20, 2022
+## Changes made January 20, 2023
 ### Sitewide
 
 * Updated the date and time format in the **Administration** section including:
