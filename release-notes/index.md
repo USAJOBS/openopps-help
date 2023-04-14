@@ -7,6 +7,29 @@ category: release-notes
 title: What's new with Open Opportunities
 ---
 
+## Changes made April 14, 2023 
+### Sitewide 
+
+* Updated the data and title of the **TopContributors_FY23_created.csv** file that is on the sitewide administrator dashboard page.
+* Completed **Azure KeyVault additions and code changes**.
+* Updated the federal employment statement on the **Edit profile** page. 
+
+### Opportunities 
+
+* Added a **Reimbursable** search filter to the **opportunities search** page. 
+
+### Internships 
+
+* Removed the blue **What happens next?** section that displays when a creator creates a cyclical internship.
+* Removed the **Internships** section from the **student profile** page.
+* Added an **Education** section to the **student profile** page.
+* Added an **Expected graduation date** field and a **Degree or level attained** dropdown to the **Step 2 internship application** page.
+* Updated the **Add a reference** page found during the **internship application process** to allow for an email address or phone number, but not both. 
+
+### Bug fixes 
+
+* Fixed an issue where community administrators could not see the red “X” icon used for deleting internships from the **Manage internships** tab. 
+
 ## Changes made March 31, 2023
 ### Sitewide
 
@@ -211,114 +234,7 @@ Fixed the following issues:
 * Fixed an issue on the **Add story** page to prevent the user moving back one page if they click their ‘Enter’ key in a text field. 
 * Fixed an issue so validation text will display when adding a sub-organization on the **Step 1** page of the opportunity creation process.
 
-## Changes made January 20, 2023
-### Sitewide
-
-* Updated the date and time format in the **Administration** section including:
-  * Manage Opportunities page 
-  * Manage Internships page 
-
-### Opportunities
-
-* Updated the date and time format in the **federal and contract user dashboards**, including:
-  * Recommended Opportunities tab
-  * Step 4 Opportunity creation review page
-
-### Internships
-
-* Updated the date and time format in the **student user dashboard**, including: 
-  * Recommended internships tab
-  * Saved searches section. 
-  * Step 4 Internship creation review page. 
-
-### Communities
-
-* Created a customized **certificate of completion** for internships in the **VSFS student community**. 
-* Added a link to the community profile page in the **Community updated** success banner. 
-
-### Bug fixes
-
-* Fixed an issue with the **Add**, **Edit** and **Cycles** page, so when a user clicks Enter in a text field, they do not navigate away from the page. 
-* Fixed an issue with the opportunity cards on the **Opportunity search page**, so the community’s name does not overlap the agency name.
-
-
-## Changes made January 6, 2023
-### Sitewide
-
-* Synced the Open Opportunities occupational series data table with the USAJOBS data table. 
-* Updated the date and time format across the site: 
-  * Home page
-  * Profile page
-  * Networking page
-  * Opportunity and internship cards
-  * Opportunity and internship detail page
-  * Messages page
-  * Community profile and discussion pages
-  * Sitewide, agency and community administration pages
-  * Manage users page
-  * Manage opportunities and internships page
-  * Featured event card
-
-* Increased the standard line height for text to 1.54 across the site including: 
-  * Main CSS
-  * Profile page
-  * Demographics section
-  * About me page
-  * Edit profile page
-  * Skills page (student users)
-  * Skills and mentorships page (federal and contract users)
-  * Sitewide, agency and community administration dashboard pages
-  * Homepage including the **What’s new** tab and **Post your next project** banner (for federal and contract users)
-  * Internship search page including the banner section and internship card 
-  * Opportunity search page, including the banner section and opportunity card 
-  * Community card, including **Who we are**
-  * Community profile page and these sections:
-    * Who we are
-    * What we do
-    * Who can join
-    * Key resources 
-  * Community discussion page, including the intro text and ground rules in the left rail and the community discussion card title
-  * Community internship search page, including the banner
-  * Community story page, including the main story text
-
-* Removed oxford commas from the placeholder text in the **Manage Users search bar**.
-
-### Opportunities
-
-* Updated the tracker UI that displays during the opportunity creation process. The tracker helps to navigate through the steps of the creation process. 
-* Updated the apply pages for **Detail** and **Lateral opportunities**:
-  * Removed the resume upload process content from the right rail.
-  * Added resume cards. 
-  * Added a modal that displays when a user uploads a resume. 
-
-* Removed oxford commas from the tracker UI on the opportunity creation pages.
-
-### Internships
-
-* Updated the notification emails that we send when an internship has been inactive for 90 or 120 days.
-* Removed oxford commas from the tracker UI on the internship creation pages and the right rail of the **Add language** page. 
-
-
-### Communities
-
-* Added a **My communities** tab to the community page. 
-* Updated the community filters to display on the community page when a user is signed out. 
-* Moved the **Federal communities** filter to display before the **Student communities** filter on the communities page. 
-* Updated the community cards to display **Joined** if a user is a community member. 
-* Created a **Community communication** drawer. 
-* Added a toggle to display a community logo in emails sent by a community.  
-* Enabled community administrators to view a users email address if they are a member of the community. 
-* Removed all oxford commas from the the community page and community profile page. 
-
-### Bug fixes
-Fixed the following issues:
-
-* Fixed skills engine so it will update when a user creates an opportunity. 
-* Removed hyphenation on the Open Opportunities landing page when viewed using Safari. 
-* Removed overlapping of the event time and date on the event card. 
-* Fixed community administrators so they can view an applicants profile using the applicant tables. 
-* Prevented in-progress internships from displaying on the recommended internships page. 
-
+[January 2023](jan-2023)  
 [December 2022](dec-2022)  
 [November 2022](nov-2022)  
 [October 2022](oct-2022)  
