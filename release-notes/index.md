@@ -7,6 +7,35 @@ category: release-notes
 title: What's new with Open Opportunities
 ---
 
+## Changes made April 28, 2023
+### Communities
+
+* Created a toggle to turn off and on the two-year validation text for the **Expected graduation date fields** on the **Internship application step 2** page.
+* Updated the **Manage users table** to remove federal and contract members of a student community if they do not provide a federal email address.
+* Updated and organized the downloadable .csv links on the **student community dashboard** page.
+* Created an education report (.csv) for student cyclical communities.
+* Added an **Application limit toggle** to the **community setting page** to limit the number of applications a student can submit in a student community cycle.
+
+### Internships
+
+* Updated the **Step 3 application** page to include text fields for adding skills.
+* Created an **Approved** status for internships that have been approved but are not yet open.
+* Updated the **student profile** page so users can sort the education.
+* Changed the button text on the **Confirm approval** modal to **Approve** instead of “Publish”.
+* Updated the **What happens next?** page to move the demographics text from the main section to the right rail.
+* Revised the design of the success banner that displays when a student applies to an internship. The banner now uses the slim design.
+* Updated the **student application process** with the following:
+  * Added the internship creator and co-owner names to the right rail informational text section.
+  * Added required languages and proficiency levels to the right rail informational text section.
+  * Added the student’s education details to the **step 4 review** page.
+
+* Updated the **internship detail** page to display a **max application warning** when a student has reached the application limit of a cycle.  
+
+### Bug fixes
+
+* Fixed an issue on the **Step 1 internship creation** page, so if user hits the "Enter" key on any free form text field, they do not go to the **Add a language** page.
+* Fixed several 508 issues.
+
 ## Changes made April 14, 2023 
 ### Sitewide 
 
