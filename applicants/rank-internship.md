@@ -19,5 +19,5 @@ To rank internships:
 
 ### Why update the ranking? 
 
-Internship creators and co-owners will use your ranking to guage the interest you have in the internship. 
+Internship creators and co-owners will use your ranking to help better understand your interest in the internship.
 
