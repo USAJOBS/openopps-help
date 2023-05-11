@@ -7,6 +7,49 @@ category: release-notes
 title: What's new with Open Opportunities
 ---
 
+## Changes made May 12, 2023
+### Sitewide
+
+* Updated a backend table to keep a record of when a creator clicks the **Confirm applicant selection** button for auditing purposes.
+* Added the ability for sitewide administrators to view and use the action buttons on the applicant tables of an internship and on the **Application view** page of an applicant.
+* Added an **information icon (i)** with alt-text on the **Demographics** page to describe specific selections.
+
+### Communities
+
+* Updated the **Search applicants table** for student cyclical communities, to include a new column called **Application submitted date** and added the ability to sort by this date.
+* Updated the **Manage users table** for student communities with the following:
+  * Added a column with the login.gov email address of community members.
+  * Added a sort by for sorting by the login.gov email address of users in alpha order.
+  * Revised the placeholder text of the search bar and enabled searching by login.gov email address.Created an internship ranking toggle for student cyclical communities.
+
+### Internships
+
+* Changed the **Update application** button to **Update draft application** if the user has started an application but not submitted it yet.
+* Added functionality to not display the **Update draft application** button when a user has reached the application limit for a cycle.
+* Added functionality to not display the **Apply** button when an internship has a status of **Approved**.
+* Created an **Auto-fill** option for internship applicants to import data used on a previous internship application.
+* Added the following to the **Internship application step 4 review** page:
+
+  * A field to capture the Expected graduation date.
+  * A field to capture the Degree or level attained.
+  * A checkbox for confirming acknowledgement of the rules and requirements of applying.
+  * Text informing the applicant when there are no languages to display and a link to the Add a language page.\
+
+* Added an **internship ranking table** to the **student dashboard** page.
+* Added text below the internship ranking table to display the number of applications that a user can submit in the internship cycle.
+* Added functionality to display a **Search for open internships** button instead of the **Apply** button when an applicant reaches the application limit. The revised button takes the applicant to the **Internship search** page.
+* Updated the internship applicant cap and count to display on the internship detail page when a user is signed out.
+* Updated the internship right rail section to display text informing the user when they have reached the application limit for a cycle.
+* Added functionality to the **References** section to not display the **Phone** or **Email** headings when that information is not provided.
+* Updated the **Participated table** on the **student dashboard** page to add a column for **Application submitted date**.
+* Added the **Expected graduation date** and **Degree or level attained** to the **Application view** page.
+* Added functionality to automatically move an applicant to the **Rejected table** when they decline an internship offer.
+* Updated the **Selected applicants table** and the **Application view** page to display **Applicant has accepted** when an applicant accepts an internship offer.
+
+### Bug fixes
+
+•	Fixed an issue so the cycle selection dropdown will now display when editing an internship.
+
 ## Changes made April 28, 2023
 ### Communities
 
@@ -181,88 +224,7 @@ title: What's new with Open Opportunities
 * Fixed the test site banner so it displays on the communities’ page of the test site.
 * Fixed the opportunity and internship application resumes so they download as the correct file type. 
 
-## Changes made February 17, 2023
-### Sitewide
-
-* Completed research for the future contact us page.
-* Replaced several success banners with a smaller “snack bar” design that displays when a user:
-  * Creates a draft opportunity or internship.
-  * Withdraws an internship application.
-  * Cancels an internship.
-  * Sends an opportunity invite email.
-  * Deletes multiple messages on the **Messages** page.
-  * Saves a story.
-
-* Redesigned the **Stay informed banner** that displays on the sitewide **Events** page to a slim banner.
-* Updated the color of the **Edit** button that displays in the **Saved searches** section.
-* Removed the **Select all** option from the filters on the **Networking** page.
-
-### Opportunities
-
-* Removed the **Select all** option from the filters on the **Opportunity** search page. 
-*	Removed unnecessary text that displays when there are no search results on the **Opportunity search** page.
-* Updated the **Opportunity creation** and **Edit step 1** page to use date picker fields.
-* Updated the **User profile** page to use date picker fields in the **Manage applicants** section.
-* Added more contrast to the text color on the networking ad on the **Opportunity search** page.
-
-### Internships
-
-* Updated the format of the **Completed on** date.
-
-### Communities
-
-* Changed the background color of the **Communities** page to use gray for more contrast.
-
-### Bug fixes
-Fixed the following issues:
-
-* Several 508 compliance issues.
-* On the **User’s profile** page so multiple organization levels do not display the same data.  
-* The **Networking** callout so it’s no longer misaligned.
-* Stopping special characters from displaying in the subject line of an email.
-* On several pages so the **Sign out** link will not display next to the **Administrator** heading.
-* The **Join community** and **Leave community** buttons to update correctly when a user joins or leaves a community.
-* On the **User profile** page, fixed the **+ Add badge** button to not overlap with the **Remove** text in the badges section.
-* On the **User profile** page, fixed the text in the **About** section and **Skills** section, so it does not extend out of those sections and off the page.
-* Removed special characters from the **Save** button on the **You have unsaved changes** modal.
-* On the **Featured story card**, fixed the quotations to not overlap with the story content.
-
-## Changes made February 3, 2023
-### Sitewide
-
-* Replaced the success banners with a smaller “snack bar” design that displays when a user: 
-
-  * Saves a search.
-  * Withdraws an opportunity or internship application.
-  * Selects or does not select an applicant.
-  * Adds an endorsement.
-  * Joins a community.
-  * Adds a post to a community discussion.
-  * Saves changes on the community settings page.
-  * Creates a new community.
-  * Creates a new community story.
-  * Creates a sitewide event.
-  * Deletes a message using the trash can icon found in the message card.
-  * Updates their privacy and email settings.
-  * Makes changes to the user profile page.
-  * Adds or removes a badge from a user’s profile.
-  * Creates or edits a community cycle.
-  * Submits or updates an internship application.
-  * Submits or updates a detail or lateral opportunity application.
-
-### Opportunities
-
-* Updated the **opportunity search** page layout so the filters section top aligns with the search results section. 
-
-### Internships
-
-* Updated the **internship search** page layout so the filters section top aligns with the search results. 
-
-### Bug fixes
-
-* Fixed an issue on the **Add story** page to prevent the user moving back one page if they click their ‘Enter’ key in a text field. 
-* Fixed an issue so validation text will display when adding a sub-organization on the **Step 1** page of the opportunity creation process.
-
+[February 2023](feb-2023)  
 [January 2023](jan-2023)  
 [December 2022](dec-2022)  
 [November 2022](nov-2022)  
