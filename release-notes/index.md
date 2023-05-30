@@ -7,6 +7,38 @@ category: release-notes
 title: What's new with Open Opportunities
 ---
 
+## Changes made May 26, 2023
+### Sitewide
+
+* Performed backend technical work to update how a user can sort applications when apply or withdraw from an internship.
+
+### Communities
+
+* Updated the **Expected graduation date** toggle on the **Community settings** page.
+
+### Internships
+
+* Updated the internship creator and co-owner view of the **Applicants table** to include a new column for **Rank** and ability to sort by ranked.
+* Added the cycle name and community name of an internship to the right rail of the **Application** pages.
+* Added a community name and cycle name dropdown to the **Rank your recent internships table** on the **student dashboard** page.
+* Updated the validation text for the **Expected graduation date** field on the **Step 1 internship application** page.
+* Created an approval email that will go to creators and co-owners of cyclical internships when the sitewide or community administrator approves their internship(s).
+* Created several downloadable .csv files, including:
+  * All students who were selected for an internship in a cyclical community.
+  * The data that displays on the **Search applications** page of a cyclical community.
+  * All internships created sitewide (for sitewide administrators).
+
+* Updated the tracker banner on the **Internship creation** and **Internship application** pages to navigate between the pages.
+* Added the cycle name to the **Internship creation step 4 review** page and the internship detail page.
+
+### Bug fixes
+
+* Fixed several 508 issues.
+* Fixed an issue so when a community administrator clicks a student name on the **Manage users** page, they do not go back to their homepage.
+* Updated a typo that read applicant, instead of application.
+* Fixed an issue to not display HTML codes in a .csv file.
+* Fixed an issue on the **Create an event** page to not display a modal or navigate a user away when they click enter in the text fields.
+
 ## Changes made May 12, 2023
 ### Sitewide
 
