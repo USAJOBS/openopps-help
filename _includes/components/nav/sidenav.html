@@ -192,7 +192,11 @@
         How to save a search
       </a>
     </li>
-
+	  <li>
+      <a {% if page.sidenav == 'rank-internship' %}class="usa-current"{% endif %} href="{{ '/applicants/rank-internship' | relative_url }}">
+        How to rank an intership
+      </a>
+    </li>
   </ul>
 {% endif %}
 {% if page.section == 'administrators' %}
