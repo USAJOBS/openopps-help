@@ -7,6 +7,45 @@ category: release-notes
 title: What's new with Open Opportunities
 ---
 
+## Changes made June 9, 2023
+### Sitewide
+
+* Added an **Internships created** infographic to the top contributor’s section of the sitewide administrator dashboard page.
+* Added a **.csv download link** to download the data in the **Internships created** infographic.
+* Added a **Community** column to the **Created** table on the dashboard.
+* Added ability to **sort by Community** to the **Created** table on the dashboard page.
+* Removed the **agency heading** from the student user profile page.
+
+### Communities
+
+* Updated the **Applicant cap** functionality to calculate the number of applicants using a multiplier.
+* Updated the instructional text for the **Applicant cap** toggle to describe how the multiplier works.
+* Updated the **student_community_internships.csv** to include the federal email address of community members.
+* Updated the **Manage internships .csv** to display data based on what the user selects in the cycle dropdown.
+* Made several updates to **student communities**:
+  * Updated the dashboard to remove the opportunity metrics and add internship metrics.
+  * Updated the settings page to include an Internship page and Internship status drawer.
+  * Updated the settings page to include new toggles to:
+    * Display the community’s logo on the internship page.
+    * Display the community’s name on the internship page.
+    * Allow internship creators to end an internship before the estimated end date.
+
+* Added a snack bar success message that displays when a user deletes a cycle from a community.
+* Added user type icons to the **Manage users** page for student communities.
+
+### Internships
+
+* Updated the **Step 1 internship creation** page to include new text below the **Interns needed** field to describe the applicant limit.
+* Removed the **Applicant cap** validation text that displayed when a user included a number in the **Interns needed** field that was higher than the applicant cap set by a community administrator.
+* Added a **Cycle** column and the ability to sort by cycle to the **Manage internship** page for sitewide administrators.
+* Updated the behavior of the **View application** link and icon on the student dashboard page.
+
+### Bug fixes
+
+* Fixed an issue so pay grades display in the correct order on the opportunity detail.
+* Fixed an issue with the sort by functionality on the applicants table of an internship.  
+* Fixed an issue with the search button so it displays in the correct place on the **Search applications** page of a cyclical community.
+
 ## Changes made May 26, 2023
 ### Sitewide
 
