@@ -7,6 +7,36 @@ category: release-notes
 title: What's new with Open Opportunities
 ---
 
+## Changes made June 23, 2023
+### Sitewide
+
+* Added a Find communities button to the landing page.
+* Added a Find communities check box to the landing page drawer of the content tab for sitewide administrators—the check box controls whether the Find communities button appears on the landing page.
+* Updated the following banners to use the USWDS slim banner design:
+  * Renew opportunity
+  * Get recommend opportunities
+  * Enhance your profile
+
+### Communities
+
+* Created a toggle for communities to limit opportunities to only community members.
+* Added text to the Who can apply section on the opportunity detail page and step 4 review page to indicate when a community is limited to community members.
+* Updated the opportunities that are limited to community members to only display on the search page for community members.
+* Added text above the Apply button to indicate when an opportunity is only available for community members.
+* Added a modal that displays when a user is not a member of a community and applies to an opportunity that is limited to community members.
+* Added text and a check box to the Step 1 opportunity creation page telling creators if an opportunity will be limited to community members.
+* Updated duplicated opportunities to have the limit to community members checkbox checked if the opportunity being duplicated has the checkbox checked.
+* Updated the user dashboard to remove communities that have the Limit who can apply toggle turned on from the Search opportunities by section.
+* Updated the Invite to opportunity modal to only display community members in the dropdown when an opportunity is limited to community members.
+* Created a Related communities toggle on the Community settings page.
+* Added a Related communities field to the Community settings page when the Related communities toggle is turned on.
+* Added a related communities section to the community profile page of communities with the related communities toggle set to on.
+
+### Internships
+
+* Added an information “i” icon to the Student internship ranking table to describe how to use the ranking table.
+* Disabled the Student internship ranking table for inactive cycles.
+  
 ## Changes made June 9, 2023
 ### Sitewide
 
@@ -173,128 +203,7 @@ title: What's new with Open Opportunities
 
 * Fixed an issue where community administrators could not see the red “X” icon used for deleting internships from the **Manage internships** tab. 
 
-## Changes made March 31, 2023
-### Sitewide
-
-* Completed updates to Node.js and moment.js.
-* Completed research on back-end code for adding ranking tables.
-* Revised the text on the modals that display when approving an internship from the sitewide administrators manage internship table.
-
-### Internships
-
-* Changed the text **Publish** to **Approve** that displays when a sitewide or community administrator views the **internship detail** page. 
-* Added the ability for internship creators to include a **Sub-agency** or **Program office**.
-* Updated the following sections to display the **Sub-agency** or **Program office**:
-  * Internship detail page
-  * Internship creation review page
-  * Internship search card
-  * Internship application right rail
-
-* Added the ability for internship creators to include a language requirement for internships.
-* Updated the following pages to display language requirements:
-  * Internship detail page
-  * Internship creation review page
-
-* Added a description of the language skill level to help creators select the correct proficiency level during the internship creation process.
-* Added a modal that displays when a creator or co-owner deletes a required language during the internship creation process.
-* Added a modal that displays when a creator or co-owner clicks **Delete** on the internship detail page that’s in draft status.
-* Updated the **internship search card** to display:
-  * The number of applicants who have applied.
-  * The applicant cap number of an internship.
-
-* Updated the **internship creation review** page to display co-owners.
-
-### Bug fixes
-
-* Fixed an issue with validation text displaying when a co-owner uses the Add co-owner text field to add themselves to an internship.
-
-## Changes made March 17, 2023
-### Sitewide 
-
-* Completed research on backend changes to support Azure KeyVault.
-* Updated the **Submitted** table on the sitewide administrators **Manage internships** page to rename the column heading from **Publish** to **Approve**. 
-
-### Internships 
-
-* Updated the cycle field to auto-populate when duplicating an internship.
-* Updated the **community dropdown field** to auto-populate when creating an internship from the **Community Profile** page.
-* Added validation to prohibit internships in the same cycle from having the same title.
-* Added an **overseas checkbox and text field** to display when creating an internship.
-* Updated the internship detail page to display overseas locations.
-* Made several changes to the **Internship application step 1** page:
-  * Updated the **Statement of interest** text and added markdown to the text field.
-  * Updated the **internship location** option to default as virtual.
-  * Added a co-owner selection search field. 
-
-### Communities 
-
-* Updated the **Submitted** table on the community administrator’s **Manage internship** page to change the name **Agency** to **Organization** in the **Sort by** feature. 
-
-### Bug fixes 
-
-* Fixed incorrect text of “No tasks” that was displaying on the **Manage internship** table when there are no internships.
-* Fixed the UAT banner so it will display on the community’s page of the Open Opportunities UAT site.   
-
-## Changes made March 3, 2023 
-### Sitewide 
-
-* Redesigned these banners to use the slim banner design:
-  * Update your profile
-  * Get recommended opportunities based on your profile
-  * When an administrator is editing another user's opportunity.
-  * When an administrator is viewing another user's profile. 
-
-* Updated the test banners on the test and user acceptance test site.
-* Removed auto hyphens from syllable and line breaks in various locations across the site.
-* Updated the initializer templates to have compatibility with Elastic 8.x.
-* Updated the landing page to prevent perpetual API calls.
-* Revised the top contributor infographic on the **Sitewide administrator’s dashboard** to separate the internship data from opportunity data.
-* Completed research on adding a calendar of events to the site.
-* Revised the look and feel of the **Privacy settings** section for federal and contract users.
-* Added an **X** icon for removing badges on individual badges.
-* Added a slim banner that displays when an administrator is editing another user's internship.
-* Updated the federal employment text that is displayed on the **Create a profile to join** page.
-* Updated the email address to be a link on the **Account settings** page.  
-
-### Networking 
-
-* Updated the search bar on the **Networking** page.
-* Updated the **No results** text that displays on the **Networking search** page.   
-
-### Opportunities 
-
-* Updated the search bar on the **Opportunities search** page.
-* Added functionality so co-owners can remove themselves from an opportunity.
-* Updated the **Step 1 opportunity creation** page:
-  * Changed the card fill color when selecting how many people are needed for an opportunity.
-  * Changed the card fill color when selecting the type of commitment for the opportunity.
-  * Revised the card shapes to have rounded edges.
-  * Stacked the radio buttons for the specific questions.
-  * Updated the field sizes to match.  
-
-* Reduced the text length on the **Opportunity search banner**.
-* Updated the color of the modal that displays when publishing an opportunity.
-* Updated the **No results** text that displays on the **Opportunity search** page.  
-
-### Internships 
-
-* Revised the formatting of the internship **Completed on date**.
-* Reduced the text length on the **Internship search banner**.
-* Updated the **No results** text that is displays on the **Internship search** page.  
-
-### Communities 
-
-* Removed the user’s agency name that displays in the members section of a closed community.
-* Updated the **Communities** page search bar.
-* Updated the **Community search** page search bar for both opportunities and internships.
-* Updated the **Community discussion** page search bar.
-* Moved the **Custom survey links** section to the communication drawer on the **Community settings** page.  
-
-### Bug fixes 
-
-* Fixed the test site banner so it displays on the communities’ page of the test site.
-* Fixed the opportunity and internship application resumes so they download as the correct file type. 
-
+[March 2023](mar-2023)  
 [February 2023](feb-2023)  
 [January 2023](jan-2023)  
 [December 2022](dec-2022)  
