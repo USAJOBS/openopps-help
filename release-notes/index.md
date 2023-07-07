@@ -7,11 +7,42 @@ category: release-notes
 title: What's new with Open Opportunities
 ---
 
+## Changes made July 7, 2023  
+### Sitewide
+
+* Made several backend updates to remove code that is no longer used.
+
+### Communities
+
+* Updated the **Certificate of Completion** to include a custom signature name and title. A user receives this certificate when they complete an internship or opportunity task.
+* Enabled the **Join community** button to display for closed communities.
+* Created a modal that displays when a user tries to join a closed community.
+* Created an email that is sent to community administrators when a user tries to join a closed community.
+* Added a notification that displays when a user successfully requests to join a closed community.
+* Updated the student community **Manage cycles** page to uncheck the **Active cycle** checkbox when the internship dates of a cycle have past.
+
+### Internships
+
+* Created an email that is sent to community and sitewide administrators when an internship has not been approved and is approaching the application due date.
+
+### Opportunities
+
+* Added a notification that displays when a user has successfully applied to a one-time or recurring opportunity.
+* Updated the **Who can apply** text to display “Open to all federal employees” when an opportunity is open to all federal employees.
+* Created a modal that displays when an applicant's resume fails to download or does not display.
+
+### Bugs
+
+* Fixed an issue with the internship detail page so it now loads for internships created outside of a community.
+* Fixed an issue so users who have an incomplete profile do not get an error page.
+* Fixed an issue so community administrators who click on a user’s name will go to the correct page.
+* Fixed an issue on the **Recommended internships** page so both **Approved** and **Open** internships display.
+
 ## Changes made June 23, 2023
 ### Sitewide
 
-* Added a Find communities button to the landing page.
-* Added a Find communities check box to the landing page drawer of the content tab for sitewide administrators—the check box controls whether the Find communities button appears on the landing page.
+* Added a **Find communities** button to the landing page.
+* Added a **Find communities** check box to the landing page drawer of the content tab for sitewide administrators—the check box controls whether the **Find communities** button appears on the landing page.
 * Updated the following banners to use the USWDS slim banner design:
   * Renew opportunity
   * Get recommend opportunities
@@ -20,22 +51,22 @@ title: What's new with Open Opportunities
 ### Communities
 
 * Created a toggle for communities to limit opportunities to only community members.
-* Added text to the Who can apply section on the opportunity detail page and step 4 review page to indicate when a community is limited to community members.
+* Added text to the **Who can apply** section on the **Opportunity detail** page and **Step 4 review** page to indicate when a community is limited to community members.
 * Updated the opportunities that are limited to community members to only display on the search page for community members.
-* Added text above the Apply button to indicate when an opportunity is only available for community members.
+* Added text above the **Apply** button to indicate when an opportunity is only available for community members.
 * Added a modal that displays when a user is not a member of a community and applies to an opportunity that is limited to community members.
-* Added text and a check box to the Step 1 opportunity creation page telling creators if an opportunity will be limited to community members.
+* Added text and a check box to the **Step 1 opportunity creation** page telling creators if an opportunity will be limited to community members.
 * Updated duplicated opportunities to have the limit to community members checkbox checked if the opportunity being duplicated has the checkbox checked.
-* Updated the user dashboard to remove communities that have the Limit who can apply toggle turned on from the Search opportunities by section.
-* Updated the Invite to opportunity modal to only display community members in the dropdown when an opportunity is limited to community members.
-* Created a Related communities toggle on the Community settings page.
-* Added a Related communities field to the Community settings page when the Related communities toggle is turned on.
-* Added a related communities section to the community profile page of communities with the related communities toggle set to on.
+* Updated the user dashboard to remove communities that have the **Limit who can apply** toggle turned on from the **Search opportunities by** section.
+* Updated the **Invite to opportunity** modal to only display community members in the dropdown when an opportunity is limited to community members.
+* Created a **Related communities** toggle on the **Community settings** page.
+* Added a **Related communities** field to the **Community settings** page when the related communities toggle is turned on.
+* Added a **Related communities** section to the **Community profile** page of communities with the related communities toggle set to on.
 
 ### Internships
 
-* Added an information “i” icon to the Student internship ranking table to describe how to use the ranking table.
-* Disabled the Student internship ranking table for inactive cycles.
+* Added an information “i” icon to the **Student internship ranking table** to describe how to use the ranking table.
+* Disabled the **Student internship ranking table** for inactive cycles.
   
 ## Changes made June 9, 2023
 ### Sitewide
@@ -151,58 +182,7 @@ title: What's new with Open Opportunities
 
 •	Fixed an issue so the cycle selection dropdown will now display when editing an internship.
 
-## Changes made April 28, 2023
-### Communities
-
-* Created a toggle to turn off and on the two-year validation text for the **Expected graduation date fields** on the **Internship application step 2** page.
-* Updated the **Manage users table** to remove federal and contract members of a student community if they do not provide a federal email address.
-* Updated and organized the downloadable .csv links on the **student community dashboard** page.
-* Created an education report (.csv) for student cyclical communities.
-* Added an **Application limit toggle** to the **community setting page** to limit the number of applications a student can submit in a student community cycle.
-
-### Internships
-
-* Updated the **Step 3 application** page to include text fields for adding skills.
-* Created an **Approved** status for internships that have been approved but are not yet open.
-* Updated the **student profile** page so users can sort the education.
-* Changed the button text on the **Confirm approval** modal to **Approve** instead of “Publish”.
-* Updated the **What happens next?** page to move the demographics text from the main section to the right rail.
-* Revised the design of the success banner that displays when a student applies to an internship. The banner now uses the slim design.
-* Updated the **student application process** with the following:
-  * Added the internship creator and co-owner names to the right rail informational text section.
-  * Added required languages and proficiency levels to the right rail informational text section.
-  * Added the student’s education details to the **step 4 review** page.
-
-* Updated the **internship detail** page to display a **max application warning** when a student has reached the application limit of a cycle.  
-
-### Bug fixes
-
-* Fixed an issue on the **Step 1 internship creation** page, so if user hits the "Enter" key on any free form text field, they do not go to the **Add a language** page.
-* Fixed several 508 issues.
-
-## Changes made April 14, 2023 
-### Sitewide 
-
-* Updated the data and title of the **TopContributors_FY23_created.csv** file that is on the sitewide administrator dashboard page.
-* Completed **Azure KeyVault additions and code changes**.
-* Updated the federal employment statement on the **Edit profile** page. 
-
-### Opportunities 
-
-* Added a **Reimbursable** search filter to the **opportunities search** page. 
-
-### Internships 
-
-* Removed the blue **What happens next?** section that displays when a creator creates a cyclical internship.
-* Removed the **Internships** section from the **student profile** page.
-* Added an **Education** section to the **student profile** page.
-* Added an **Expected graduation date** field and a **Degree or level attained** dropdown to the **Step 2 internship application** page.
-* Updated the **Add a reference** page found during the **internship application process** to allow for an email address or phone number, but not both. 
-
-### Bug fixes 
-
-* Fixed an issue where community administrators could not see the red “X” icon used for deleting internships from the **Manage internships** tab. 
-
+[April 2023](apr-2023)  
 [March 2023](mar-2023)  
 [February 2023](feb-2023)  
 [January 2023](jan-2023)  
