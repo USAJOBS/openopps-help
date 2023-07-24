@@ -7,6 +7,27 @@ category: release-notes
 title: What's new with Open Opportunities
 ---
 
+## Changes made July 21, 2023
+### Sitewide
+
+* Performed technical debt tasks to remove code that is no longer used.
+* Updated the data check method between USAJOBS and Open Opportunities prompting users to update their USAJOBS profile when critical information is missing.
+* Updated the text on the **Inactive account** page to be clearer about actions a user needs to take.
+* Completed several technical debt clean-up tasks.
+* Updated the sign in process to check for a guest account on USAJOBS. 
+
+### Communities
+
+* Removed the ability for creators and co-owners to update the cycle of an internship when the internship is in progress.
+* Updated the **student_community_internships.csv** download to include the federal email address of co-owners.
+* Added a cycle dropdown to the **Applications** page of cyclical student communities.
+* Updated the community cards to display **Pending approval** when a user has requested to join a community and is still waiting for approval.
+* Updated the banners that display at the top of the page when a community administrator is viewing the profile page of federal, contract and student users. 
+
+### Bugs
+
+* Fixed an issue where users could not continue when adding profile information on the **Create an account** page.
+
 ## Changes made July 7, 2023  
 ### Sitewide
 
