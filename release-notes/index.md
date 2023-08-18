@@ -7,6 +7,39 @@ category: release-notes
 title: What's new with Open Opportunities
 ---
 
+## Changes made August 18, 2023
+### Sitewide
+
+* Disabled all user accounts that are inactive.
+* Removed the **Back** link from the **opportunity and internship detail** pages when a user goes there from a hyperlink.
+* Added a **Completion date** column to the **Manage internships .csv** download for sitewide administrators.
+* Added a **Back** link to the **Demographics** page when a user goes there from the **What happens next?** page. 
+
+### Agency
+
+* Added a **Manage internships** page to the **agency administrator’s dashboard** page.
+* Added the following tables to the **Manage internships** page for agency administrators:
+  * In progress
+  * Draft
+  * Submitted
+  * Open
+  * In review
+  * Approved
+  * Completed
+  * Canceled
+
+### Community
+
+* Added a **Completion date** column to the **Manage internships .csv** download for student communities.
+
+### Internships
+
+* Updated internships to automatically move to a **Canceled** status if the estimated end date of the internship has passed and the internship does not have any selected applicants.
+
+### Networking
+
+* Added a **Community filter** to the right rail of the **Networking** page.
+
 ## Changes made August 4, 2023
 ### Sitewide
 
