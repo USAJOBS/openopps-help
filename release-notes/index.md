@@ -7,6 +7,23 @@ category: release-notes
 title: What's new with Open Opportunities
 ---
 
+## Changes made September 1, 2023
+### Sitewide
+
+* Added the following actions for Sitewide administrators to update internships when are **In progress** or **Complete**:
+  * Remove an intern from an internship.
+  * Select an intern that was previously rejected.
+  * Select an intern that was not previously selected or rejected.
+  * Updated all sitewide toggles from a .svg image to HTML.  
+ 
+### Bugs
+
+* Fixed an issue so the community administrators **Manage internships.csv** does not time out.
+* Fixed an issue where users were not able to view their internship applications in the **Your internships** table on the dashboard.
+* Fixed the **Help Center** link so it does not go to the wrong page.
+* Fixed an incorrect validation message on the **Step 1 opportunity creation** page when a user provides an estimated completion date in the past.
+* Fixed an issue where the duration of a community would show as a number instead of text when signed in as a community administrator.
+
 ## Changes made August 18, 2023
 ### Sitewide
 
@@ -212,81 +229,7 @@ title: What's new with Open Opportunities
 * Fixed an issue with the sort by functionality on the applicants table of an internship.  
 * Fixed an issue with the search button so it displays in the correct place on the **Search applications** page of a cyclical community.
 
-## Changes made May 26, 2023
-### Sitewide
-
-* Performed backend technical work to update how a user can sort applications when apply or withdraw from an internship.
-
-### Communities
-
-* Updated the **Expected graduation date** toggle on the **Community settings** page.
-
-### Internships
-
-* Updated the internship creator and co-owner view of the **Applicants table** to include a new column for **Rank** and ability to sort by ranked.
-* Added the cycle name and community name of an internship to the right rail of the **Application** pages.
-* Added a community name and cycle name dropdown to the **Rank your recent internships table** on the **student dashboard** page.
-* Updated the validation text for the **Expected graduation date** field on the **Step 1 internship application** page.
-* Created an approval email that will go to creators and co-owners of cyclical internships when the sitewide or community administrator approves their internship(s).
-* Created several downloadable .csv files, including:
-  * All students who were selected for an internship in a cyclical community.
-  * The data that displays on the **Search applications** page of a cyclical community.
-  * All internships created sitewide (for sitewide administrators).
-
-* Updated the tracker banner on the **Internship creation** and **Internship application** pages to navigate between the pages.
-* Added the cycle name to the **Internship creation step 4 review** page and the internship detail page.
-
-### Bug fixes
-
-* Fixed several 508 issues.
-* Fixed an issue so when a community administrator clicks a student name on the **Manage users** page, they do not go back to their homepage.
-* Updated a typo that read applicant, instead of application.
-* Fixed an issue to not display HTML codes in a .csv file.
-* Fixed an issue on the **Create an event** page to not display a modal or navigate a user away when they click enter in the text fields.
-
-## Changes made May 12, 2023
-### Sitewide
-
-* Updated a backend table to keep a record of when a creator clicks the **Confirm applicant selection** button for auditing purposes.
-* Added the ability for sitewide administrators to view and use the action buttons on the applicant tables of an internship and on the **Application view** page of an applicant.
-* Added an **information icon (i)** with alt-text on the **Demographics** page to describe specific selections.
-
-### Communities
-
-* Updated the **Search applicants table** for student cyclical communities, to include a new column called **Application submitted date** and added the ability to sort by this date.
-* Updated the **Manage users table** for student communities with the following:
-  * Added a column with the login.gov email address of community members.
-  * Added a sort by for sorting by the login.gov email address of users in alpha order.
-  * Revised the placeholder text of the search bar and enabled searching by login.gov email address.Created an internship ranking toggle for student cyclical communities.
-
-### Internships
-
-* Changed the **Update application** button to **Update draft application** if the user has started an application but not submitted it yet.
-* Added functionality to not display the **Update draft application** button when a user has reached the application limit for a cycle.
-* Added functionality to not display the **Apply** button when an internship has a status of **Approved**.
-* Created an **Auto-fill** option for internship applicants to import data used on a previous internship application.
-* Added the following to the **Internship application step 4 review** page:
-
-  * A field to capture the Expected graduation date.
-  * A field to capture the Degree or level attained.
-  * A checkbox for confirming acknowledgement of the rules and requirements of applying.
-  * Text informing the applicant when there are no languages to display and a link to the Add a language page.\
-
-* Added an **internship ranking table** to the **student dashboard** page.
-* Added text below the internship ranking table to display the number of applications that a user can submit in the internship cycle.
-* Added functionality to display a **Search for open internships** button instead of the **Apply** button when an applicant reaches the application limit. The revised button takes the applicant to the **Internship search** page.
-* Updated the internship applicant cap and count to display on the internship detail page when a user is signed out.
-* Updated the internship right rail section to display text informing the user when they have reached the application limit for a cycle.
-* Added functionality to the **References** section to not display the **Phone** or **Email** headings when that information is not provided.
-* Updated the **Participated table** on the **student dashboard** page to add a column for **Application submitted date**.
-* Added the **Expected graduation date** and **Degree or level attained** to the **Application view** page.
-* Added functionality to automatically move an applicant to the **Rejected table** when they decline an internship offer.
-* Updated the **Selected applicants table** and the **Application view** page to display **Applicant has accepted** when an applicant accepts an internship offer.
-
-### Bug fixes
-
-•	Fixed an issue so the cycle selection dropdown will now display when editing an internship.
-
+[May 2023](may-2023)  
 [April 2023](apr-2023)  
 [March 2023](mar-2023)  
 [February 2023](feb-2023)  
