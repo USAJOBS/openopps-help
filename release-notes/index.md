@@ -7,6 +7,23 @@ category: release-notes
 title: What's new with Open Opportunities
 ---
 
+## Changes made September 15, 2023 
+### Opportunities
+
+* Created a feature toggle for the upcoming redesign of opportunities.
+
+### Internships
+
+* Added a modal that displays when a user tries to apply to an internship twice from different browser windows.
+
+### Bugs
+
+* Fixed an issue so the **Related communities** section no longer disappears when a community administrator updates it.
+* Fixed the co-owner search feature when adding a co-owner to an opportunity – users now appear in the search.
+* Fixed the **Actions** column to display correctly in the **Selected applicants** table.
+* Fixed a broken toggle for displaying a community logo in the community banner.
+* Fixed an issue so students can no longer apply to multiple internships.
+
 ## Changes made September 1, 2023
 ### Sitewide
 
