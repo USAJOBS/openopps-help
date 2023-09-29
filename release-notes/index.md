@@ -7,6 +7,54 @@ category: release-notes
 title: What's new with Open Opportunities
 ---
 
+## Changes made September 29, 2023
+ 
+### Internships
+
+* Updated a student’s application status to **Not selected** when:
+  * A sitewide administrator removes an applicant from an internship when the internship is **In progress** and the applicant is in the **Selected applicants table**.
+  * A sitewide administrator removes an applicant from an internship when the internship is **Completed**.
+
+* Updated a student’s application status to **Completed** when:
+  * An applicant is in the **Selected applicants table**, has been marked task complete, and the internship is **Complete**.  
+
+* Updated a student’s application status to Not complete when:
+  * An applicant is in the **Selected applicants table**, has not been marked task complete, and the internship is **Complete**.
+
+* Updated a student’s application status to **Not selected** when:
+  * An applicant is in the **Rejected applicants** or **Applicants table** and the internship is **Complete**.
+
+### Community
+
+* Added the following data points to the community administrators **Education.csv** file:
+  * Middle name
+  * Expected graduate date
+
+* Revised the messaging that displays on the **Step 1 internship creation** page when there are no cycles available to “This community has no available cycles.”.
+* Disabled the internship tracker when editing an internship in a community that does not have an available cycle.
+* Updated the community administrators **Selected_applicants.csv** file:
+  * Revised the download link text to **Selected_applicants.csv**.
+  * Removed the **Withdrawn** column.
+  * Removed the **# of internships the applicant has applied to** column.
+  * Removed applicants who have withdrawn from an internship.
+
+* Updated the community administrators Rejected_applciants.csv file:
+  * Removed the **Withdrawn** column.
+  * Removed the **# of internships the applicant has applied to** column.
+  * Removed applicants who have withdrawn from an internship.
+  * Updated the file name to **Rejected applicants**.
+
+* Updated the **Manage internships** page of a cyclical community
+  * Changed the cycle dropdown to default to the most recently created + active cycle.
+  * Added text to the cycle selection dropdown to indicate which cycles are active and inactive.
+
+* Updated the **community administrators search application table** to display an applicant’s current application status. 
+
+### Bugs
+
+* Removed an extra space between a student’s first name and last name on the community administrators **Selected_applicants.csv** report.
+* Fixed the **accept/decline text** that displays on an applicant’s application detail page so it shows the correct text if they are not selected for an internship.
+
 ## Changes made September 15, 2023 
 ### Opportunities
 
@@ -177,75 +225,7 @@ title: What's new with Open Opportunities
 * Fixed an issue so community administrators who click on a user’s name will go to the correct page.
 * Fixed an issue on the **Recommended internships** page so both **Approved** and **Open** internships display.
 
-## Changes made June 23, 2023
-### Sitewide
-
-* Added a **Find communities** button to the landing page.
-* Added a **Find communities** check box to the landing page drawer of the content tab for sitewide administrators—the check box controls whether the **Find communities** button appears on the landing page.
-* Updated the following banners to use the USWDS slim banner design:
-  * Renew opportunity
-  * Get recommend opportunities
-  * Enhance your profile
-
-### Communities
-
-* Created a toggle for communities to limit opportunities to only community members.
-* Added text to the **Who can apply** section on the **Opportunity detail** page and **Step 4 review** page to indicate when a community is limited to community members.
-* Updated the opportunities that are limited to community members to only display on the search page for community members.
-* Added text above the **Apply** button to indicate when an opportunity is only available for community members.
-* Added a modal that displays when a user is not a member of a community and applies to an opportunity that is limited to community members.
-* Added text and a check box to the **Step 1 opportunity creation** page telling creators if an opportunity will be limited to community members.
-* Updated duplicated opportunities to have the limit to community members checkbox checked if the opportunity being duplicated has the checkbox checked.
-* Updated the user dashboard to remove communities that have the **Limit who can apply** toggle turned on from the **Search opportunities by** section.
-* Updated the **Invite to opportunity** modal to only display community members in the dropdown when an opportunity is limited to community members.
-* Created a **Related communities** toggle on the **Community settings** page.
-* Added a **Related communities** field to the **Community settings** page when the related communities toggle is turned on.
-* Added a **Related communities** section to the **Community profile** page of communities with the related communities toggle set to on.
-
-### Internships
-
-* Added an information “i” icon to the **Student internship ranking table** to describe how to use the ranking table.
-* Disabled the **Student internship ranking table** for inactive cycles.
-  
-## Changes made June 9, 2023
-### Sitewide
-
-* Added an **Internships created** infographic to the top contributor’s section of the sitewide administrator dashboard page.
-* Added a **.csv download link** to download the data in the **Internships created** infographic.
-* Added a **Community** column to the **Created** table on the dashboard.
-* Added ability to **sort by Community** to the **Created** table on the dashboard page.
-* Removed the **agency heading** from the student user profile page.
-
-### Communities
-
-* Updated the **Applicant cap** functionality to calculate the number of applicants using a multiplier.
-* Updated the instructional text for the **Applicant cap** toggle to describe how the multiplier works.
-* Updated the **student_community_internships.csv** to include the federal email address of community members.
-* Updated the **Manage internships .csv** to display data based on what the user selects in the cycle dropdown.
-* Made several updates to **student communities**:
-  * Updated the dashboard to remove the opportunity metrics and add internship metrics.
-  * Updated the settings page to include an Internship page and Internship status drawer.
-  * Updated the settings page to include new toggles to:
-    * Display the community’s logo on the internship page.
-    * Display the community’s name on the internship page.
-    * Allow internship creators to end an internship before the estimated end date.
-
-* Added a snack bar success message that displays when a user deletes a cycle from a community.
-* Added user type icons to the **Manage users** page for student communities.
-
-### Internships
-
-* Updated the **Step 1 internship creation** page to include new text below the **Interns needed** field to describe the applicant limit.
-* Removed the **Applicant cap** validation text that displayed when a user included a number in the **Interns needed** field that was higher than the applicant cap set by a community administrator.
-* Added a **Cycle** column and the ability to sort by cycle to the **Manage internship** page for sitewide administrators.
-* Updated the behavior of the **View application** link and icon on the student dashboard page.
-
-### Bug fixes
-
-* Fixed an issue so pay grades display in the correct order on the opportunity detail.
-* Fixed an issue with the sort by functionality on the applicants table of an internship.  
-* Fixed an issue with the search button so it displays in the correct place on the **Search applications** page of a cyclical community.
-
+[June 2023](jun-2023)  
 [May 2023](may-2023)  
 [April 2023](apr-2023)  
 [March 2023](mar-2023)  
