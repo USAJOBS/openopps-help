@@ -7,6 +7,16 @@ category: release-notes
 title: What's new with Open Opportunities
 ---
 
+## Changes made October 13, 2023
+### Opportunities
+
+* Continued work on redesigning the right rail section of the opportunity detail page. This redesign has not been released yet.
+
+### Internships
+
+* Updated the cycle dropdown to display the original internship cycle when a sitewide or community administrator edits a cyclical internship.
+* Created an automatic process that will withdraw all student applicants from an internship when the internship is canceled.
+
 ## Changes made September 29, 2023
  
 ### Internships
