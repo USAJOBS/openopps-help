@@ -111,11 +111,6 @@ This section only appears if you’re creating a Detail opportunity. We will ana
 
 Include all requirements a person must have to participate in the opportunity.
 
-## Skills
-### Add skills to your opportunity
-
-We use Skills Engine ™ to analyze your opportunity and recommend the most relevant skills your participants will need. To get the best results, make sure you complete the **What you’ll do**, **What you’ll learn** and **Requirements** (for detail opportunities only) sections. Adding skills to your opportunity will let participants know what you’re looking for and help your opportunity show up in search results.
-
 ## Market your opportunity
 
 Spread the word about Open Opportunities and your need. Are there communities of practice (CoP) that might be interested in your opportunity? Use our [marketing email template](../../opportunity-creators/marketing-email-template.docx){:target="\_blank"} (1 page, 14 kb, MS Word .docx) to craft a message.
