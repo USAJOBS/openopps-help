@@ -22,9 +22,6 @@ The following metrics are for published opportunities:
 ### One-time
 The total number of one-time opportunities.
 
-### Recurring
-The total number of recurring opportunities.
-
 ### Part-time detail
 The total number of part-time detail opportunities.
 
