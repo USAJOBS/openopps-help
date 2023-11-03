@@ -13,7 +13,6 @@ The commitment varies for each opportunity. Some opportunities are a ‘one-time
 The types of commitment are:
 
 * [One-time](#one-time)
-* [Recurring](#recurring)
 * [Detail](#detail)
 * [Lateral](#lateral)
 
@@ -29,19 +28,6 @@ You may work about 2-4 hours on the project.
 
 * As an opportunity creator, you receive extra help and insights from talent across the federal government.
 * There’s no paperwork required (SF-182 is optional). 
-
-## Recurring
-
-A recurring opportunity is an ongoing project with specified hours on a weekly or monthly basis. The project may take up to 20% of your duty time. For example, writing a monthly newsletter or participating in a monthly focus group. You stay in your current job and there is no money exchanged. 
-
-### Time commitment example 
-
-The time commitment varies by opportunity. You may work 4 – 8 hours per week for six months or 2 - 4 hours for three months, a year, etc.
-
-### Benefits of a recurring opportunity
-
-* As an opportunity creator you can find expertise and knowledge outside of your office and you can get extra help on projects to meet you mission.
-* There is no paperwork required (SF-182 is optional).  
 
 ## Detail
 
