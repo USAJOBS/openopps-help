@@ -13,7 +13,6 @@ The commitment varies for each opportunity. Some opportunities are a ‘one-time
 The types of commitment are:
 
 * [One-time](#one-time)
-* [Recurring](#recurring)
 * [Detail](#detail)
 * [Lateral](#lateral)
 
