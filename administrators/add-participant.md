@@ -6,7 +6,7 @@ category: administrators
 sidenav: add-participant
 title: How to add a participant to an opportunity
 ---
-If you’re a sitewide or community administrator, you can add a participant to a one-time or recurring opportunity. You can add a participant as long as the opportunity is open, not open, or in progress.
+If you’re a sitewide or community administrator, you can add a participant to a one-time opportunity. You can add a participant as long as the opportunity is open, not open, or in progress.
 You can’t add a participant to a detail or lateral, because those opportunities require a resume and statement of interest to apply.
 
 To add a participant:
