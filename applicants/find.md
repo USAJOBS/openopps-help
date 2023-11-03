@@ -35,12 +35,6 @@ An opportunity that’s “open” is accepting applicants. The work has not yet
 
 An opportunity that’s “in progress” has already started. Participants have been assigned and are working on the opportunity. You can’t apply to an opportunity that’s “in progress”.
 
-### Profile match
-
-We use Skills Engine ™ to analyze the skills you list in your profile and the skills needed for an opportunity. We will highlight opportunities based on how well your skills match. The matching can range from **Good** to **Better** to **Best**.
-
-You can apply to any opportunity, even ones that don’t show as a match, and the opportunity creator will not know if you match the opportunity. Use the profile match as a guideline to understand which opportunities might be a good fit for your skills.
-
 ### Community
 
 You can search for opportunities specific to a community. These opportunities typically share a common goal or interest, such as acquisitions or cyber.
