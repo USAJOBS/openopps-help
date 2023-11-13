@@ -8,7 +8,7 @@ title: What's new with Open Opportunities
 ---
 
 ## Changes made November 13, 2023
-###Sitewide
+### Sitewide
 
 * Removed Skills Engine matching elements and all text referencing Skills Engine.
 
