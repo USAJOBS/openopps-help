@@ -63,11 +63,10 @@ Once you’ve created your login.gov account and USAJOBS profile, we’ll link t
 Your profile highlights your skills, experience and areas of interest, such as career areas, agencies you’re interested in and other topics.  Complete the skills and **About me** section of your profile, so we can match you with opportunities based on your skills.
 
 ## Why should I complete my profile?
-Having a complete profile is important because this is what opportunity creators will look at first, if you apply to their opportunity. Plus, if you fill in your **About me** section and skills, we’ll match you with opportunities based on your skills and experience.
+Having a complete profile is important because this is what opportunity creators will look at first, if you apply to their opportunity. 
 
 With a complete profile you can: 
 
 * Connect with others who share similar interests and skills.
 * House and manage your contact information, experience, education and documents, all in one place.
-* Get access to features such as recommended learning opportunities.
 * Have one place to aggregate your learning experiences.
