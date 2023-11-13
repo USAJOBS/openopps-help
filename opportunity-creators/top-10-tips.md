@@ -76,7 +76,6 @@ If you’re posting a detail opportunity, make sure to include the word “Detai
 ## What you’ll do
 
 ### Be specific about the work
-We will analyze the content you enter in this section to recommend skills for your opportunity.  
 
 - Describe exactly what needs to be done and what deliverables you expect.
 - Be concise, but offer enough details so the participant knows what's involved.
@@ -85,7 +84,6 @@ We will analyze the content you enter in this section to recommend skills for yo
 ## What you’ll learn
 
 ### Tell the participants what’s in it for them
-We will analyze the content you enter in this section to recommend skills for your opportunity.  
 
 The goal of Open Opportunities is to help participants learn and network.
 
@@ -107,12 +105,10 @@ The DigitalGov usability team asked for help with [writing usability case studie
 ## Requirements
 ### List required certifications, training, or qualifications 
 
-This section only appears if you’re creating a Detail opportunity. We will analyze the content you enter in this section to recommend skills for your opportunity. 
-
-Include all requirements a person must have to participate in the opportunity.
+This section only appears if you’re creating a **Detail opportunity**. Include all requirements a person must have to participate in the opportunity.
 
 ## Market your opportunity
 
-Spread the word about Open Opportunities and your need. Are there communities of practice (CoP) that might be interested in your opportunity? Use our [marketing email template](../../opportunity-creators/marketing-email-template.docx){:target="\_blank"} (1 page, 14 kb, MS Word .docx) to craft a message.
+Spread the word about Open Opportunities and your needs. Are there communities of practice (CoP) that might be interested in your opportunity? Use our [marketing email template](../../opportunity-creators/marketing-email-template.docx){:target="\_blank"} (1 page, 14 kb, MS Word .docx) to help create a message.
 
-Want to target an individual (or six?) Use the **Share** link in your opportunity to send a form email.
+Want to target an individual (or six)? Use the **Share** link in your opportunity to send a form email.

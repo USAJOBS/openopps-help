@@ -21,14 +21,13 @@ Any federal employee can post an <a href="#Before_posting_opportunity">opportuni
 ### Create your opportunity:
 
 1. Sign into Open Opportunities and click **+ Create opportunity**.
-2. Select the target audience for the opportunity and click **Continue**—the default option is Federal Employees.
+2. Select the target audience for the opportunity and click **Continue**—the default option is federal employees.
 3. Select a **community** if you want to post to a specific community. **Skip this step if you're not posting to a community**. A community is a group of Open Opportunity users who may belong to different agencies, but share a common goal or interest.
 4. Fill out the required information and as much of the optional information as you can—the more information you give about the opportunity, the better chance you'll get the right applicant(s). Read our [tips for creating an opportunity](../opportunity-creators/top-10-tips/).
-5. Review the recommended skills. Skills are sorted with the most relevant skills at the top.
-6. Select at least one and up to five skills to add to your opportunity.
-7. Click **Preview** to review the opportunity—make sure it has enough detail and there are no spelling or grammatical errors.
-8. Click **Submit** when you're ready to post the opportunity. Or, click **Save for later** if you’re not ready to post—we’ll save it as a draft in your profile.
-9. The administrators will review your opportunity after your click **Submit**. They’ll send you an email when it’s approved and goes live. Or, email you if you need to make changes.
+5. Review the list of skills and select at least one and up to five skills to add to your opportunity.
+6. Click **Preview** to review the opportunity—make sure it has enough detail and there are no spelling or grammatical errors.
+7. Click **Submit** when you're ready to post the opportunity. Or, click **Save for later** if you’re not ready to post—we’ll save it as a draft in your profile.
+8. The administrators will review your opportunity after your click **Submit**. They’ll send you an email when it’s approved and goes live. Or, email you if you need to make changes.
 
 <div class="usajobs-openopps-help-center-article__callout">
   <a class="usajobs-openopps-help-center-article__callout-link" href="{{ site.baseurl }}/assets/Open.Opportunities.-.How.to.create.an.opportunity.pdf" target= "blank">
