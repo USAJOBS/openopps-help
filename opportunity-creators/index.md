@@ -101,11 +101,10 @@ You can cancel your opportunity at any time.
 2. Select **Student** as the target audience and click **Continue**.
 3. Select a **community** if you want to post to a specific community. **Skip this step if you're not posting to a community**. A community is a group of Open Opportunity users who may belong to different agencies, but share a common goal or interest.
 4. Fill out the required information and as much of the optional information as you can—the more information you give about the internship, the better chance you'll get the right applicant(s).
-5. Review the recommended skills. Skills are sorted with the most relevant skills at the top.
-6. Select at least one and up to five skills to add to your opportunity.
-7. Click **Preview** to review the opportunity—make sure it has enough detail and there are no spelling or grammatical errors.
-8. Click **Submit** when you're ready to post the internship.
-9. The administrators will review your internship after your click **Submit**. They’ll send you an email when it’s approved and goes live. Or, email you if you need to make changes.
+5. Review the list of skills and select at least one and up to five skills to add to your opportunity.
+6. Click **Preview** to review the opportunity—make sure it has enough detail and there are no spelling or grammatical errors.
+7. Click **Submit** when you're ready to post the internship.
+8. The administrators will review your internship after your click **Submit**. They’ll send you an email when it’s approved and goes live. Or, email you if you need to make changes.
 
 ### Get Participants
 
