@@ -7,6 +7,49 @@ category: release-notes
 title: What's new with Open Opportunities
 ---
 
+## Changes made November 27, 2023
+
+### Sitewide
+* Removed the **Enhance your profile** banner from the profile because we removed skills matching.
+* Removed the **To get the best matches based on your profile** banner because we removed skills matching.
+
+### Opportunities
+* Added a **comment icon** to the following locations to notify sitewide, agency, and community administrators when an opportunity has a comment:
+  * Sitewide administrators manage opportunities page
+  * Agency administrators manage opportunities page
+  * Community administrators manage opportunities page
+
+* Created an email that is sent to administrators when a creator or co-owner adds a comment to an opportunity.
+* Created an email that is sent to creators and co-owners when an administrator adds a comment to an opportunity.
+* Removed **Recurring opportunities** from:
+  * The opportunity selection of **Create opportunity Step 1 and edit** pages.
+  * The right rail search filter on the **Opportunity search** page.
+
+* Removed the **Recurring opportunity** text and metrics from the following locations:
+  * Sitewide administrators dashboard page
+  * Agency administrators dashboard page
+  * Community administrators dashboard page
+
+* Removed miscellaneous code associated with removing the **Recurring opportunities** selection.
+* Continued work on the right rail re-design.
+
+### Internships
+* Added a **comment icon** to the following locations to notify sitewide, agency, and community administrator when an internship has a comment:
+  * Sitewide administrators manage internships page
+  * Agency administrators manage internships page
+  * Community administrators manage internships page
+
+* Created an email that is sent to administrators when a creator or co-owner adds a comment to an internship.
+* Created an email that is sent to creators and co-owners when an administrator adds a comment to an internship.
+* Updated the **Internship search** page to display an ad for the **Virtual Student Federal Service** community.
+
+### Communities
+* Added a custom community email signature to all messages sent from the community.
+* Added the default Open Opportunities email signature to messages sent from communities that do not have a custom email signature.
+
+### Bugs
+* Fixed an issue where community administrators were not able to upload a photo for community stories.
+
 ## Changes made November 13, 2023
 ### Sitewide
 
@@ -162,90 +205,7 @@ Added the following:
 * Fixed an incorrect validation message on the **Step 1 opportunity creation** page when a user provides an estimated completion date in the past.
 * Fixed an issue where the duration of a community would show as a number instead of text when signed in as a community administrator.
 
-## Changes made August 18, 2023
-### Sitewide
-
-* Disabled all user accounts that are inactive.
-* Removed the **Back** link from the **opportunity and internship detail** pages when a user goes there from a hyperlink.
-* Added a **Completion date** column to the **Manage internships .csv** download for sitewide administrators.
-* Added a **Back** link to the **Demographics** page when a user goes there from the **What happens next?** page. 
-
-### Agency
-
-* Added a **Manage internships** page to the **agency administrator’s dashboard** page.
-* Added the following tables to the **Manage internships** page for agency administrators:
-  * In progress
-  * Draft
-  * Submitted
-  * Open
-  * In review
-  * Approved
-  * Completed
-  * Canceled
-
-### Community
-
-* Added a **Completion date** column to the **Manage internships .csv** download for student communities.
-
-### Internships
-
-* Updated internships to automatically move to a **Canceled** status if the estimated end date of the internship has passed and the internship does not have any selected applicants.
-
-### Networking
-
-* Added a **Community filter** to the right rail of the **Networking** page.
-
-## Changes made August 4, 2023
-### Sitewide
-
-* Updated the primary navigation and secondary navigation menu bars.
-* Updated the banners that display when a sitewide administrator is viewing another user’s profile to view the type of user the profile belongs to.
-* Removed opportunity data from the sitewide administrator **Manage internships.csv**.
-
-### Communities
-
-* Updated the **cycle selection** dropdown on the **Community dashboard** so it defaults to the most recently created active cycle.
-* Updated the search bar on the **Search applications** page for cyclical communities to persist when no search results display.
-* Updated the **Add member to community** modal to include searching by a user’s email address.
-
-### Opportunities
-
-* Updated the color and text of the following status icons:
-  * Applied
-  * Not assigned
-  * Assigned
-  * Submitted
-  * Not open
-  * Draft
-  * Open
-  * In progress
-  * Completed
-  * Reviewing applicants
-
-* Added markdown functionality to the **Statement of interest** field on the **Opportunity application** page for lateral and detail opportunities.
-* Changed the **Opportunity renewal** success banner to a display as a snack bar.
-
-### Internships
-
-* Updated the color and text of the following status icons:
-  * Application started
-  * Withdrawn
-  * Submitted
-  * Not open
-  * Draft
-  * Open
-  * In progress
-  * Completed
-  * Reviewing applicants
-
-* Updated the design of the success banner that displays when a creator completes an internship.
-* Added modals that display when an internship applicant’s resume or transcript is not downloadable.
-
-### Bugs
-
-* Fixed an issue with the **postal code** field on the **Profile edit** and **Create a profile to join** pages so the system recognizes valid postal codes.
-* Fixed an issue with the tooltip for the **Selected_students.csv** so it displays in the correct location on the **Community dashboard** page.
-
+[August 2023](aug-2023)  
 [July 2023](jul-2023)  
 [June 2023](jun-2023)  
 [May 2023](may-2023)  
