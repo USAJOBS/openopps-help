@@ -7,6 +7,23 @@ category: release-notes
 title: What's new with Open Opportunities
 ---
 
+## Changes made December 8, 2023
+### Sitewide
+
+* Updated the default signature that displays in the sitewide messages we send out.
+
+### Opportunities
+
+* Continued work on the right rail re-design of opportunities.
+
+### Communities
+
+* Updated the **Community settings** page to move the **Community logo upload** field and functionality from the **Community search banner** drawer to the **Community configuration** drawer.
+
+### Bugs
+
+* Fixed an issue where users were being navigated to the login page when clicking on an opportunity or internship search card.
+
 ## Changes made November 27, 2023
 
 ### Sitewide
