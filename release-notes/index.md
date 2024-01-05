@@ -7,6 +7,15 @@ category: release-notes
 title: What's new with Open Opportunities
 ---
 
+## Changes made January 5, 2024 
+### Opportunities
+
+* Continued work on the right rail re-design of opportunities.
+
+### Bugs
+
+* Fixed an issue that prevented users from advancing past the **Step 1** of the internship creation process.  
+
 ## Changes made December 22, 2023
 ### Sitewide
 
