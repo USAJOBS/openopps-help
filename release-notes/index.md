@@ -7,6 +7,11 @@ category: release-notes
 title: What's new with Open Opportunities
 ---
 
+## Changes made January 19, 2024
+### Opportunities
+
+* Continued work on the right rail re-design of opportunities.
+* 
 ## Changes made January 5, 2024 
 ### Opportunities
 
