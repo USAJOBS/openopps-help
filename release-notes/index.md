@@ -7,11 +7,35 @@ category: release-notes
 title: What's new with Open Opportunities
 ---
 
+## Changes made February, 2024
+### Opportunities
+
+* Continued work on the right rail re-design of opportunities. 
+
+### Communities
+
+* Updated the **community administrator dashboard** to display all active cycles regardless of fiscal year for student cyclical communities.
+* Added an **Application review dates** column to the manage cycles page for student cyclical communities. 
+* Added **Application review start date and end date** to the create and edit cycles pages. 
+* Updated the validation on the **Date range of internship** field to not allow dates that come before the **Application review date**. 
+* Changed the link label **Rejected_applicants (.csv)** to **Not_selected_applicants (.csv)**. 
+* Updated the file name of the **Rejected_applicants (.csv)** to **Not_selected_applicants_[cycle name]**.
+* Updated the file name **Selected_applicants (.csv)** to **Selected_applicants_[cycle name]**.
+* Added several columns to the community administrators **Search applications.csv** to display the following information: 
+  * Applicant’s university
+  * Applicant’s profile id
+  * ID of the internship the applicant applied to
+  * Internship creator’s name
+  * Internship co-owner’s name
+  * Agency of the internship
+  * Sub-agency of the internship
+  * Location of the internship
+
 ## Changes made January 19, 2024
 ### Opportunities
 
 * Continued work on the right rail re-design of opportunities.
-* 
+  
 ## Changes made January 5, 2024 
 ### Opportunities
 
