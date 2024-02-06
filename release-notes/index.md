@@ -7,7 +7,7 @@ category: release-notes
 title: What's new with Open Opportunities
 ---
 
-## Changes made February, 2024
+## Changes made February 2, 2024
 ### Opportunities
 
 * Continued work on the right rail re-design of opportunities. 
@@ -21,7 +21,8 @@ title: What's new with Open Opportunities
 * Changed the link label **Rejected_applicants (.csv)** to **Not_selected_applicants (.csv)**. 
 * Updated the file name of the **Rejected_applicants (.csv)** to **Not_selected_applicants_[cycle name]**.
 * Updated the file name **Selected_applicants (.csv)** to **Selected_applicants_[cycle name]**.
-* Added several columns to the community administrators **Search applications.csv** to display the following information: 
+* Added several columns to the community administrators **Search applications.csv** to display the following information:
+  
   * Applicant’s university
   * Applicant’s profile id
   * ID of the internship the applicant applied to
@@ -81,124 +82,10 @@ title: What's new with Open Opportunities
 
 ### Bugs
 
-* Fixed an issue where users were being navigated to the login page when clicking on an opportunity or internship search card.
+* Fixed an issue where users were being navigated to the login page when clicking on an opportunity or internship search card. 
 
-## Changes made November 27, 2023
-
-### Sitewide
-* Removed the **Enhance your profile** banner from the profile because we removed skills matching.
-* Removed the **To get the best matches based on your profile** banner because we removed skills matching.
-
-### Opportunities
-* Added a **comment icon** to the following locations to notify sitewide, agency, and community administrators when an opportunity has a comment:
-  * Sitewide administrators manage opportunities page
-  * Agency administrators manage opportunities page
-  * Community administrators manage opportunities page
-
-* Created an email that is sent to administrators when a creator or co-owner adds a comment to an opportunity.
-* Created an email that is sent to creators and co-owners when an administrator adds a comment to an opportunity.
-* Removed **Recurring opportunities** from:
-  * The opportunity selection of **Create opportunity Step 1 and edit** pages.
-  * The right rail search filter on the **Opportunity search** page.
-
-* Removed the **Recurring opportunity** text and metrics from the following locations:
-  * Sitewide administrators dashboard page
-  * Agency administrators dashboard page
-  * Community administrators dashboard page
-
-* Removed miscellaneous code associated with removing the **Recurring opportunities** selection.
-* Continued work on the right rail re-design.
-
-### Internships
-* Added a **comment icon** to the following locations to notify sitewide, agency, and community administrator when an internship has a comment:
-  * Sitewide administrators manage internships page
-  * Agency administrators manage internships page
-  * Community administrators manage internships page
-
-* Created an email that is sent to administrators when a creator or co-owner adds a comment to an internship.
-* Created an email that is sent to creators and co-owners when an administrator adds a comment to an internship.
-* Updated the **Internship search** page to display an ad for the **Virtual Student Federal Service** community.
-
-### Communities
-* Added a custom community email signature to all messages sent from the community.
-* Added the default Open Opportunities email signature to messages sent from communities that do not have a custom email signature.
-
-### Bugs
-* Fixed an issue where community administrators were not able to upload a photo for community stories.
-
-## Changes made November 13, 2023
-### Sitewide
-
-* Removed Skills Engine matching elements and all text referencing Skills Engine.
-
-### Opportunities
-
-* Added a comment section to the right rail of the **Opportunity detail** page.  Administrators, creators and co-owners of an opportunity can use the comment section.
-* Added the ability to edit or delete comments.
-* Added a snack bar notification that displays when a user deletes a comment from the opportunity.
-
-### Internships
-
-* Added a comment section to the right rail of the **Internship detail** page.  Administrators, creators and co-owners of an internship can use the comment section.
-* Added the ability to edit or delete a comment.
-* Added a snack bar notification that displays when a user deletes a comment from the internship.  
-
-## Changes made October 27, 2023
- 
-### Sitewide enhancements
-
-Added the following:
-
-* A trim function to the name fields of the Open Opportunities welcome page.
-* A **Contact us** page so users can submit information to the help desk.
-* A snack bar that displays when a user successfully submits the **Contact us** form.
-* A **Contact us** link in the footer.
-
-* Updated the following tables to pull updated data from USAJOBS:
-
-  * Pay plan table
-  * Country table
-  * Country subdivision table
-
-### Opportunities
-
-* Continued work on the right rail re-design of opportunities. This redesign has not been released yet.
-* Updated the **profile pages of federal users** to include an ad for the **Federal Mentoring community**.
-
-### Internships
-
-* Update the right rail of the **What happens next?** page to include an ad for the **Virtual Student Federal Service community**, when a user submits an application for an internship.
-* Updated the **Applicants table** to display the student application status as **Not selected** when the internship has a status of **In-progress**.
-
-### Communities
-
-* Made the following updates to the students_selected.csv file, used by community administrators of student cyclical communities:
-  * Removed the **student_name** column.
-  * Added a **student_first_name** column.
-  * Added a **student_middle_name** column.
-  * Added a **student_last_name** column.
-  * Added a **student_profile_id** column.
-
-* Made the following updates to the rejected_applicants.csv file that is used by community administrators of student cyclical communities:
-  * Removed the **student_name** column.
-  * Added a **student_first_name** column.
-  * Added a **student_middle_name** column.
-  * Added a **student_last_name** column.
-  * Added a **student_profile_id** column.
-
-* Updated the **community_internships.csv** to add the applicant profile id to the **selected_applicants column**. This file is used by community administrators of student cyclical communities.
-* Updated the **Education.csv** to add an applicant’s internship task id to the **No_internships_selected_for column**. This file is used by community administrators of student cyclical communities.
-
-## Changes made October 13, 2023
-### Opportunities
-
-* Continued work on redesigning the right rail section of the opportunity detail page. This redesign has not been released yet.
-
-### Internships
-
-* Updated the cycle dropdown to display the original internship cycle when a sitewide or community administrator edits a cyclical internship.
-* Created an automatic process that will withdraw all student applicants from an internship when the internship is canceled.
-
+[November 2023](nov-2023)  
+[October 2023](oct-2023)  
 [September 2023](sep-2023)  
 [August 2023](aug-2023)  
 [July 2023](jul-2023)  
