@@ -7,6 +7,23 @@ category: release-notes
 title: What's new with Open Opportunities
 ---
 
+## Changes made February 16, 2024
+### Communities
+
+Made several updates to support the VSFS community:
+
+* Created a new page for the VSFS agreement—the page displays when a creator or co-owner confirms who they want to select for an internship.
+* Created a new page for the VSFS agreement—the page displays when an applicant is selected from the **Applicants** table of an **In progress** internship.
+* Added a success message that displays when a creator or co-owner has confirmed their applicant selections.
+* Added the internship details to the **applicant confirmation acceptance agreement** page.
+* Created an automatic run-book process that moves an internship from **Reviewing applicants** to **In progress** based on the **application review end date** of an internship cycle.
+* Created an **Acceptance agreement** toggle that controls the display of the **Acceptance agreement** page when a community requires an agreement.
+
+### Bugs
+
+* Fixed an issue with the **community administrators manage internships.csv** so that approved internships display as **Approved** instead of **Open**.
+* Fixed an issue with the **Cycle** dropdown on the **Create internship step 1** page to not show inactive cycles when duplicating an internship.
+
 ## Changes made February 2, 2024
 ### Opportunities
 
