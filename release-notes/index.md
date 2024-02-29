@@ -7,6 +7,23 @@ category: release-notes
 title: What's new with Open Opportunities
 ---
 
+## Changes made March 1, 2024
+### Communities
+
+* Created an email that is sent to selected internship applicants when a creator or co-owner selects the applicant while the internship is **In-progress**.
+* Added a new process that moves an applicant who does not accept an internship offer within the 7 day offer period to the **Rejected applicants** table of that internship.
+* Updated the **Edit cycles** page to disable the **date fields** if the previous dates are in the past.
+* Updated the **internship agreement page** to include different language when a creator or co-owner confirms applicants that haven’t been confirmed before.
+* Created an **internship agreement page** that displays when a creator or co-owner selects an applicant for an internship that is **In-progress**.
+* Added a rule to disable the **Actions** column of the internship detail page during the 7 day accept and decline offer period.
+* Added a rule to hide the **Confirm applicant selection** button so it does not display during the 7 day accept and decline offer period when an internship has no confirmed applicants.
+* Removed the **Withdraw my application** link from the internship detail page when an internship is in the **Reviewing applicants** status.
+* Updated the text of the **Evaluating and selecting applicants** section to include the internship agreement process.
+
+### Bugs
+
+* Fixed an issue with the **sitewide administrators manage internships.csv** file so internships that are **Approved** do not show as **Open**.
+
 ## Changes made February 16, 2024
 ### Communities
 
