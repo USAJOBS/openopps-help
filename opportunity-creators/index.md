@@ -119,7 +119,7 @@ Step 2 - Review applicants
 
 Step 3 - Assign participants
 
-- Are they a fit? Selected the applicant(s) and click **Complete applicant selection**.
+- Are they a fit? Select the applicant(s) and click **Complete applicant selection**.
 - We'll send an automatic email to participants telling them they’re assigned.
 
 Your internship is now **In Progress**.
