@@ -34,7 +34,7 @@ title: Tutorials
   </p>
   
   
-  <p align="center"><b>How to select an applicant for a VSFS internship applicant</b></p>
+  <p align="center"><b>How to select an applicant for a VSFS internship</b></p>
 
 <p align="center">
  <iframe width="560" height="315" src="https://www.youtube.com/embed/0N_qLKErS5U?si=hw9YwGIVxsLrZZa1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
