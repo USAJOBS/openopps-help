@@ -56,7 +56,7 @@ The internship is accepting applicants or is in progress.
 
 ### Reviewing applicants
 
-The internship creator is reviewing all applicants.
+The internship creator is reviewing and selecting applicants.
 
 ### In progress
 
