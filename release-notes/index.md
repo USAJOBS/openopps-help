@@ -7,6 +7,24 @@ category: release-notes
 title: What's new with Open Opportunities
 ---
 
+## Changes made March 15, 2024
+### Communities
+
+* Updated two emails that are sent to applicants when they are selected or not selected for an internship that is created in a student cyclical community and the **Accept and decline** toggle is set to **On**.
+* Updated the **back** link on the **Acceptance agreement** page so users can go back to the internship detail page.
+* Made a change that will disable the **action item icons** within the **Applicant** table of an internship during the applicants’ **seven day accept and decline period** if a creator or co-owner has not previously confirmed their applicant selections.
+* Created an email that is sent to internship owners and co-owners six days before the internships’ **application due date**.
+* Created an email that is sent to internship owners and co-owners when an internships status moves to **In progress**.
+* Updated the trigger and content of the email that is sent to owners and co-owners when an applicant they have selected has accepted a different internship offer.
+* Added text **Applicant has accepted another internship** to the **Applicants** table when an internship applicant has accepted another internship.
+
+ ### Bugs
+
+* Fixed an issue on the internship detail page to remove the text **Applicant did not respond to your internship offer** that displayed when a creator or co-owner moves an applicant to the **Rejected applicants** table.
+* Fixed an issue so users can't submit multiple applications to the same internship.
+* Fixed the **No, customize my answers** button so it takes the user to the **step 1 internship application** page.
+* Fixed the display of the community logo so it properly displays on the internship detail page to student users or when signed out.
+
 ## Changes made March 1, 2024
 ### Communities
 
@@ -80,44 +98,7 @@ Made several updates to support the VSFS community:
 
 * Fixed an issue that prevented users from advancing past the **Step 1** of the internship creation process.  
 
-## Changes made December 22, 2023
-### Sitewide
-
-* Completed an inventory of all the icons used across the site.
-
-### Opportunities
-
-* Continued work on the right rail re-design of opportunities.
-
-## Communities
-
-* Updated the script used in generating the community_internships.csv to improve load times.
-
-### Bugs
-
-* Fixed a 508-compliance issue with the **Create an opportunity** button on the home page.
-* Fixed overlapping skills and community profile text on the community card.
-* Fixed an issue with the **Internship start date** field to remove the validation outline when a user updates the field with a correct date.
-* Fixed the internship infographic on the **Administrator’s dashboard** page so it does not display off the page.
-* Fixed the **How many interns are needed?** field on the **Internship creation step 1** page to add missing validation.
-
-## Changes made December 8, 2023
-### Sitewide
-
-* Updated the default signature that displays in the sitewide messages we send out.
-
-### Opportunities
-
-* Continued work on the right rail re-design of opportunities.
-
-### Communities
-
-* Updated the **Community settings** page to move the **Community logo upload** field and functionality from the **Community search banner** drawer to the **Community configuration** drawer.
-
-### Bugs
-
-* Fixed an issue where users were being navigated to the login page when clicking on an opportunity or internship search card. 
-
+[December 2023](dec-2023)  
 [November 2023](nov-2023)  
 [October 2023](oct-2023)  
 [September 2023](sep-2023)  
