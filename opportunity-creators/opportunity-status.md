@@ -8,10 +8,9 @@ sidenav: opportunity-status
 title: What does the opportunity status mean?
 ---
 
-Each status tells you where the opportunity is in the process. The status may be different based on whether you’re a creator or applicant, and also depends on if it’s a federal employee opportunity or a student internship opportunity.
+The status tells you where the opportunity is in the process. The type of status varies based on whether you’re a creator or applicant or if it’s a federal employee opportunity or a student internship opportunity. 
 
 ## Federal opportunity status
-<hr>
 
 ### Draft
 
@@ -27,7 +26,7 @@ The opportunity is approved and accepting applicants.
 
 ### Not Open
 
-The opportunity is no longer accepting applicants, but the work has not yet started.
+The opportunity is no longer accepting applicants, but the work has not started.
 
 ### In progress
 
@@ -35,18 +34,17 @@ Participants have been assigned and are working on the opportunity. The opportun
 
 ### Completed
 
-All work for the opportunity is done.
+Participants have completed all the work for the opportunity.
 
 ### Canceled
 
-The opportunity is no longer available—work was not started or completed.
+The opportunity is no longer available. The work did not start or complete.
 
 ## Internship opportunity status
-<hr>
 
 ### Draft
 
-The internship opportunity has been saved as a draft. It hasn’t been submitted to the community manager for approval.
+The internship opportunity has been saved as a draft but has not been submitted to the community manager for approval.
 
 ### Submitted
 
@@ -56,18 +54,18 @@ The internship opportunity has been submitted to the community manager for appro
 
 The internship is accepting applicants or is in progress.
 
-### In review
+### Reviewing applicants
 
-The creator is currently reviewing all applicants.
+The internship creator is reviewing and selecting applicants.
 
 ### In progress
 
-Participants have been assigned and are working on the internship. The internship is not accepting new applicants.
+Participants have been selected and are working on the internship. The internship is not accepting new applicants.
 
 ### Completed
 
-The internship has closed and the internship is completed.
+The participants have completed the work and the internship has closed.
 
 ### Canceled
 
-The internship is no longer available—work was not started or completed.
+The internship is no longer available. The work did not start or complete.
