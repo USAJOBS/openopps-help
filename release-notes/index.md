@@ -7,6 +7,26 @@ category: release-notes
 title: What's new with Open Opportunities
 ---
 
+## Changes made March 29, 2024
+### Communities
+
+* Added a banner that displays on the **Internship detail** page to let creators and co-owners know when an internship does not have confirmed applicants.
+* Added a banner that displays on **Internship detail** page to let creators and co-owners know when an internship does have confirmed applicants.
+* Added functionality that disables the **Actions** in the **Applicants** table during the **seven day accept and decline period** for creators and co-owners who confirmed their applicant selections.
+* Added functionality that will move applicants who have accepted a different internship offer in the same cycle to the **Rejected applicants** table.
+* Removed the **Remove from this internship** text from the application review page when an applicant has accepted a different internship offer in the same cycle.
+* Created an **Available students** page.
+* Added a **Find available students** button to the **Applicants** table of the internship detail page.
+* Added an **Available students** secondary navigation menu item.
+* Added a **Select cycle** dropdown to the **Available students** page.
+
+## Bugs
+
+* Fixed the **Actions** on the **Applicants** table so they do not display during the **seven day accept and decline offer period**.
+* Fixed the opportunity creation date field validation so it displays properly.
+* Fixed the primary navigation so it displays correctly on the landing page when a user signs out of the site.
+* Fixed an issue where the back button would display on the application review page.
+
 ## Changes made March 15, 2024
 ### Communities
 
