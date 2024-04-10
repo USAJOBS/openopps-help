@@ -15,7 +15,7 @@ Any federal employee can create and post an opportunity. Some federal contractor
 
 ## Work on an opportunity
 
-Current federal employees can apply to and work on opportunities. **If you’re a student** you can apply to internship opportunities.
+**Current federal employees** can apply to and work on one-time and detail opportunities. **If you’re a student** you can apply to internship opportunities.
 
 ## Do I need approval to participate?
 
