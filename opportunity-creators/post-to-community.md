@@ -12,7 +12,7 @@ A community is a group of Open Opportunity users who may belong to different age
 
 You can post an <a href="#To post an opportunity to a community">opportunity </a> or <a href="#To post an internship to a community">internship </a> to a specific community. When you post to a community, the opportunity or internship will appear on both the community search results and the main Open Opportunities search results. If you don’t select a community, the opportunity or internship will appear to all users.
 
-### To post an opportunity to a community
+<h3 id="To post an opportunity to a community">To post an opportunity to a community</h3>
 
 1. Sign in to Open Opportunities.
 2. Click **Create opportunity** from the main search or landing page.
@@ -21,7 +21,7 @@ You can post an <a href="#To post an opportunity to a community">opportunity </a
 5. Select the community from the dropdown.
 6. Follow the remaining steps to create the opportunity and submit.
 
-### To post an internship to a community
+<h3 id="To post an internship to a community">To post an internship to a community</h3>
 
 1. Sign in to Open Opportunities.
 2. Click **Create opportunity** from the main search or landing page.
