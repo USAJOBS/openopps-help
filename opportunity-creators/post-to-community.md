@@ -10,7 +10,9 @@ title: How to post to a community
 
 A community is a group of Open Opportunity users who may belong to different agencies, but share a common goal or interest.
 
-You can post an <a href="#To post an opportunity to a community">opportunity </a> or <a href="#To post an internship to a community">internship </a> to a specific community. When you post to a community, the opportunity or internship will appear on both the community search results and the main Open Opportunities search results. If you don’t select a community, the opportunity or internship will appear to all users.
+You can post an <a href="#To post an opportunity to a community">opportunity </a> or <a href="#To post an internship to a community">internship </a> to a specific community. When you post to a community, the opportunity or internship will appear on both the community search results and the main Open Opportunities search results. If you post to a "closed" community, the opportunity will only appear in that community and not in the main search results. 
+
+If you don’t select a community, the opportunity or internship will appear to all users.
 
 <h3 id="To post an opportunity to a community">To post an opportunity to a community</h3>
 
