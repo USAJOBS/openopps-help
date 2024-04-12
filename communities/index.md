@@ -17,9 +17,8 @@ There are open and closed communities. Anyone can join an open community. Howeve
 
 ## To find and join a community:
 
-1. Sign into Open Opportunities.
-2. Click the **Search** button on your home page.
-3. Click **Communities** to see a list of all available communities.
+1. Sign in to Open Opportunities.
+2. Click **Communities** in the navigation to see a list of all available communities.
 4. Click any community to view its profile page.
 5. Click **Join community**&mdash;this will only appear if the community is open to anyone.
 
