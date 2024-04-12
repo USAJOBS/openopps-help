@@ -6,22 +6,22 @@ category: opportunity-creators
 sidenav: cancel-opportunity
 title: How to cancel an opportunity or internship
 ---
-If you are an opportunity or internship creator or a sitewide or community administrator, you can cancel an opportunity or internship as long as it's not already complete. The status will change to **Canceled**, but you can reopen or duplicate it later. Canceled opportunities and internships will also continue to appear on the creators' dashboard.
+If you are an opportunity or internship creator or a sitewide or community administrator, you can cancel an opportunity or internship as long as it's not already complete. The status will change to **Canceled**, but you can reopen or duplicate it later. If you're a creator, you will continue to see **Canceled** opportunities and internships on your dashboard.
 
-To cancel an opportunity:
-<hr>
+### To cancel an opportunity
 
-1. Navigate to the opportunity detail page.
+
+1. Go to the opportunity detail page.
 2. Scroll to the bottom right of the page.
 3. Click **Cancel this opportunity**.
 4. Click **Cancel opportunity**.
 
 We will send an email to all applicants or participants letting them know the opportunity is canceled.
 
-To cancel an internship:
-<hr>
+### To cancel an internship
 
-1. Navigate to the internship detail page.
+
+1. Go to the internship detail page.
 2. Click **Cancel this internship** found beneath the status section.
 3. Make a selection on the modal that is displayed.
 4. Click the **Cancel internship** button.
