@@ -7,6 +7,37 @@ category: release-notes
 title: What's new with Open Opportunities
 ---
 
+## Changes made April 12, 2024
+### Communities
+
+* Created a new **Available students** page. The page includes:
+  * a dropdown to select the student cycle.
+  * a list of each student that is available and their details.
+
+* Added **Available students** to the secondary navigation.
+* Created a new **application review** page that displays a student’s information in the right rail and their most recently submitted application to an internship.
+  * This page also includes the ability to bookmark the student, and ability to select the student for an internship.  
+
+* Created a snack bar that displays when a creator selects an internship applicant from the application review page.
+* Updated the search feature to add and remove internship applicants from the **Available students** page.
+
+### Internships
+
+* Changed the time zone for the **Apply by date** field on the internship creation step 1 page from EST to ET.  
+
+### Opportunities
+
+* Changed the time zone for the **Apply by date** field on the opportunity creation step 1 page from EST to ET.  
+
+### Bugs
+
+* Fixed an issue where all selected applicants would move to the rejected applicants table when an applicant was selected from the applicants table of an internship.
+* Fixed the **Reviewed** label so the color changes to gray as needed on the internship detail page.
+* Fixed an issue preventing an overseas location from displaying properly in the selected, rejected, or applicants tables on the internship detail page.
+* Fixed the **One-day remaining until offer expiration** email so it is sent on the correct day.
+* Fixed a display issue so the community name does not overlap the agency name on the opportunity search cards.
+* Fixed an issue so an applicant does not show as declining an internship offer when they are selected after being removed.
+
 ## Changes made March 29, 2024
 ### Communities
 
@@ -102,22 +133,9 @@ Made several updates to support the VSFS community:
   * Internship co-owner’s name
   * Agency of the internship
   * Sub-agency of the internship
-  * Location of the internship
+  * Location of the internship 
 
-## Changes made January 19, 2024
-### Opportunities
-
-* Continued work on the right rail re-design of opportunities.
-  
-## Changes made January 5, 2024 
-### Opportunities
-
-* Continued work on the right rail re-design of opportunities.
-
-### Bugs
-
-* Fixed an issue that prevented users from advancing past the **Step 1** of the internship creation process.  
-
+[January 2024](jan-2024)  
 [December 2023](dec-2023)  
 [November 2023](nov-2023)  
 [October 2023](oct-2023)  
