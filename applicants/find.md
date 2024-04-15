@@ -80,10 +80,6 @@ Use the keyword search box to enter an internship name, skill, or other keywords
 
 Not everyone will see the same filters. If you’re a student looking for an internship, you’ll only see filters pertaining to internships.
 
-#### Skill
-
-You can search for internships by the type of skills you have or are looking to gain. Examples are graphic design, writing, photography or data visualization. You can enter as many skills as you’d like and the search results will update based on what you enter.
-
 #### Status
 
 Every internship has a status, depending on where it is in the process. You can search for and filter internships by the following status.
@@ -92,9 +88,25 @@ Every internship has a status, depending on where it is in the process. You can 
 
 An internship that’s “open” is accepting applicants. The work has not yet started. You can apply to any “open” internship.
 
+#### Commitment
+
+The default is unpaid internship. There are no paid internships available through Open Opportunities.
+
 #### Community
 
 You can search for internships specific to a community. These internships typically share a common goal or interest, such as acquisitions or cyber.
+
+#### Skill
+
+You can search for internships by the type of skills you have or are looking to gain. Examples are graphic design, writing, photography or data visualization. You can enter as many skills as you’d like and the search results will update based on what you enter.
+
+#### Language
+
+You can search for internships that are looking for someone who knows a specific language. 
+
+#### Agency
+
+You can filter internships by agency.
 
 #### Location
 
