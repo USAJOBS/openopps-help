@@ -15,7 +15,7 @@ A community is a group of people with shared interests, values, behaviors, and a
 
 There are open and closed communities. Anyone can join an open community. However, you need to request to join a closed community.
 
-## To find and join a community:
+## To find and join a community
 
 1. Sign in to Open Opportunities.
 2. Click **Communities** in the navigation to see a list of all available communities.
