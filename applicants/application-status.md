@@ -11,7 +11,6 @@ title: What does the application status mean?
 The application status tells you where your application is within the application process. The statuses are different based on whether you’ve applied to a federal employee opportunity or if you’re a student and have applied to an internship.
 
 ## Application status for federal employee opportunities
-<hr>
 
 ### Applied
 
@@ -30,7 +29,6 @@ You were not selected for the opportunity.
 You’ve completed your tasks for the opportunity.
 
 ## Application status for student internships
-<hr>
 
 ### Applied
 
