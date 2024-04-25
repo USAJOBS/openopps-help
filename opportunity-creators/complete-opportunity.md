@@ -6,9 +6,12 @@ category: opportunity-creators
 sidenav: complete-opportunity
 title: How to complete and close out an opportunity or internship
 ---
+
+## Complete and close out an opportunity
+
 To complete and close out an opportunity, you need to mark all of your participants as complete. Follow these steps:
 
-1.	Sign into Open Opportunities and go to the **Created opportunities** section of your dashboard.
+1.	Sign in to Open Opportunities and go to the **Created opportunities** section of your dashboard.
 2.	Click the opportunity you want to complete and close.
 3.	Click **Task complete** under each participant’s name who completed their work. The link label will change to **Completed**.
 4.	Click **Complete opportunity** after you’ve marked each participant as complete and the work is done.
@@ -17,11 +20,11 @@ The opportunity status on your dashboard will change to **Completed** and we’l
 
 [Watch this short video on how to complete an opportunity](https://www.youtube.com/watch?v=dXLhHMcMCzQ){:target="_blank"}.
 
-<hr>
+## Complete and close out an internship
 
 To complete and close out an internship, you need to mark all of your participants as complete. Follow these steps:
 
-1.	Sign into Open Opportunities and go to the **Created** section of your dashboard.
+1.	Sign in to Open Opportunities and go to the **Created** section of your dashboard.
 2.	Click the opportunity you want to complete and close.
 3.	Click **Mark tasks complete** under each participant’s name who completed their work. The link label will change to **Tasks completed**.
 4.	Click **Mark internship complete** after you’ve marked each participant as complete and the work is done.

@@ -11,6 +11,6 @@ With our mentoring feature, you can be a mentor or find someone to be your mento
 
 As a mentor, you can help someone achieve their professional development and career goals. If you're looking for guidance or support in developing your career, you can find a mentor.
 
-[How can I become a mentor or say I'm looking for a mentor](../become-mentor)
+[How can I become a mentor or say I'm looking for a mentor](../become-mentor).
 
 
