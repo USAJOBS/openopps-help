@@ -7,6 +7,17 @@ category: release-notes
 title: What's new with Open Opportunities
 ---
 
+## Changes made April 26, 2024
+### Communities
+
+* Updated the elastic search functionality to populate the **Available students** page. The search will look for students who are not actively participating in an internship for a given cycle.
+* Updated the **Available students** page:
+  * Created a keyword search.
+  * Added filters for bookmark, education selection and language.
+  * Created view count and pagination to determine the number of applicants for a given cycle.
+  * Created a no search results page to display when there are no results.
+  * Added a **Sort by** option to sort the students by **Name** or **Major** in alphabetical order. 
+
 ## Changes made April 12, 2024
 ### Communities
 
