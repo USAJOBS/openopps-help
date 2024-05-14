@@ -7,6 +7,34 @@ category: release-notes
 title: What's new with Open Opportunities
 ---
 
+## Changes made May 10th, 2024
+### Technical
+
+* Removed duplicate internship applications from a backend data table.
+
+### Internships
+
+* Created an informative banner to notify internship owners and co-owners that a student did not apply to an internship when selecting a student via the available students page. 
+* Added an "Agreement form" column to the following locations:
+  * The student dashboard page.
+  * The created table of the federal and and contract users dashboard page. 
+* Created an agreement form download link in the selected applicants table.
+* Created an agreement form download modal for selecting an agreement form by internship participant.
+* Created an agreement form page for viewing and downloading the internship agreement form.
+* Upated the view link and icon in the tables of the internship detail page.
+* Updated the "Removed intern from this internship" section to display for community administrators.
+
+### Sitewide
+* Updated the "Budget and Performance" footer link to "Reports and publications".
+* Updated the "Privacy policy" footer link to display in a smaller font size.
+* Updated the "Terms and conditions" footer link to display in a smaller font size.
+
+### Bugs
+* Fixed an issue where users were able to access the community profile page of a community when the profile page was toggled "Off" on the community settings page.
+* Fixed an issue where the internship completion certificate was not displayed correctly. 
+  
+
+ 
 ## Changes made April 26, 2024
 ### Communities
 
