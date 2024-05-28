@@ -6,6 +6,32 @@ section: release-notes
 category: release-notes
 title: What's new with Open Opportunities
 ---
+## Changes made May 24th, 2024
+### Communities 
+* Updated the following reports with new columns: 
+  * "Community_internships_[cycle name]" .csv download with "creator_id and  "co_owner" columns.
+  * "Search applications" page .csv download with "creator_id" and "co_owner_id" columns.
+  * "Student_community_users" .csv download with “user_id column".
+  * "Not_selected_applicants" .csv download with " "Student_profile_id" and "Removed_reason" columns.
+* Updated the community_internships_VSFS [cycle] .csv “Location” column to include overseas location and display as virtual.
+* Created a student cyclical non-member .csv report to account for users that are not members of the VSFS community but have created, co-owned, or applied to an internship within the VSFS community.
+* Created a "Non-member" section on the student community dashboard to display non-member metrics.
+* Created a "Non-member (.csv)" download link for student cyclical communities. 
+### Internships
+* Updated text color of applicant’s name to gray when they declined or accepted another internship offer.
+* Created the following discussion/comment functionality within the internship detail page:
+  * A discussion section. 
+  * A comment view within the discussion section.
+  * The ability to reply to a comment.
+  * The ability to edit a comment.
+  * The ability for users to delete their own comments and sitewide administrators to delete all comments.
+* Created a warning modal that displays when a user attempts to delete a comment.
+* Created an eamil notification that is sent to creators and co-owners of an internship when a comment is posted.
+### Bugs
+* Fixed an issue where users were unable to update an internship with no active cycles to advance past step 1 of the create/edit page.
+* Fixed an issue where the validation error line for the cycle field is not displayed when the field is left blank and user attempts to advance past step 1 of create internship page.
+* Fixed an issue where an error occured when a discussion is posted in a community.
+
 
 ## Changes made May 10th, 2024
 ### Technical
