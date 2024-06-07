@@ -6,6 +6,47 @@ section: release-notes
 category: release-notes
 title: What's new with Open Opportunities
 ---
+
+## Changes made June 7th, 2024
+### Communities
+*	Created a function to restrict access to community profile page URL for users with community profile page toggle set to "Off".
+*	Moved email signature block from community configuration to community communication drawer.
+*	Moved the "Certificate of completion" toggle and elements to the Community communication drawer.
+### Opportunities
+* Updated error messages related to "Apply by date" on step 1 create page.
+* Removed the "Relevance" option from the "Sort by" dropdown list on the opportunities search page.
+* Created a "View application" link on the right rail of the profile page.
+* Removed the help link and icon above the progress bar on the right rail of the opportunity detail page.
+* Updated "Cancel this opportunity" modal text.
+* Created a success snack bar when user leaves a community to acknowledgment of successful action taken.
+### Internships
+*	Created a backend elastic search that moves students to the available students page when the cycle end date is met.
+*	Created email notification to creators and co-owners when an internship moves from "Open" to "Reviewing applicants" status.
+*	Updated the text color and removed bookmark icon for applicants moved to rejected table with no internship offer.
+*	Created an autofill function to the agency dropdown on the step 1 internship creation page based on user’s profile.
+*	Updated the sub-agency or office field to be required when a user selects "Department of State" on the internship step 1 creation page. 
+*	Updated text on the cancel internship modal.
+*	Created function to hide certificate of completion if a student has been removed from an internship that has status of "Completed".
+*	Created function for community managers to duplicate an internship created in their community.
+*	Updated text in the informative drawer displayed above the "Selected applicants" table.
+*	Updated "Removed Applicants" table title to sentence case.
+*	Updated "Student accepted another internship" email with associated internship title.
+*	Created a function to automatically delete draft internships after 1 year of being in a draft status.
+*	Updated the Internship dashboard to include commas to numbers that displays over 3 digits.
+*	Created an "Apply by date in the past" banner to prevent admins from publishing an internship that has an apply by date in the past.
+*	Created validation function to prevent internship creators from duplicating internship title within the same cycle.
+*	Updated error messages related to "Apply by date" on step 1 create page.
+*	Removed "Relevance" option from the "Sort by" dropdown list on the internship search page.
+*	Added a "Cycle" column to the created table on the user’s dashboard page.
+### Bugs
+* Fixed an issue where cycle validation message was not displayed when there are no active cycles.
+
+
+
+
+
+
+
 ## Changes made May 24th, 2024
 ### Communities 
 * Updated the following reports with new columns: 
