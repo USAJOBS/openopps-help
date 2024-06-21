@@ -7,6 +7,30 @@ category: release-notes
 title: What's new with Open Opportunities
 ---
 
+## Chanages made June 21st, 2024
+### Communities 
+* Created a function to remove users from federal communities when they change their profile to student.
+### Opportunities 
+* Created a success snack bar to be displayed to Sitewide admins & opportunity creators when an opportunity is canceled.
+* Created a backend data point to store the date the action when a user is marked task complete.
+* Updated the application view page to display text "Unselect" in the right rail section when an applicant is in the participants table for detail & lateral opportunities.
+* Updated the profile page to: 
+  *	display the "Mark complete" button in the right rail section when an applicant is in the participants table.
+  *	display text "Unselect" in the right rail section when an applicant is in the participants table.
+*	Created a process to set the selected value to null for applicants in applicants table when opportunity is moved to in progress.
+### Internships 
+*	Created an automated process to move "Submitted" internships to the "Canceled" status when not approved while having an application submission date in the past.
+*	Created email notification to Internship creators and co-owners when cyclical internship are moved to the "Canceled" status if not approved while the application submission date is in the past.
+### Bugs
+* Fixed an issue with secondary community dropdowns not clearing out when the "Remove all filters" is selected.
+* Fixed an issue where applicants would show in duplicate when the "limit who can apply to opportunities" toggle is on for community.
+* Fixed an issue with transcript information not copying when duplicating an internship application.
+* Fixed an issue where resumes were not showing for detailed opportunity applicants and student profiles.
+* Fixed an issue where interns selected while an internship was in progress did not have 7 days to accept or decline their internship.
+***
+
+
+
 ## Changes made June 7th, 2024
 ### Communities
 *	Created a function to restrict access to community profile page URL for users with community profile page toggle set to "Off".
@@ -40,7 +64,7 @@ title: What's new with Open Opportunities
 *	Added a "Cycle" column to the created table on the user’s dashboard page.
 ### Bugs
 * Fixed an issue where cycle validation message was not displayed when there are no active cycles.
-
+***
 
 
 
@@ -72,7 +96,7 @@ title: What's new with Open Opportunities
 * Fixed an issue where users were unable to update an internship with no active cycles to advance past step 1 of the create/edit page.
 * Fixed an issue where the validation error line for the cycle field is not displayed when the field is left blank and user attempts to advance past step 1 of create internship page.
 * Fixed an issue where an error occured when a discussion is posted in a community.
-
+***
 
 ## Changes made May 10th, 2024
 ### Technical
