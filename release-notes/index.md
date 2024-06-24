@@ -27,7 +27,6 @@ title: What's new with Open Opportunities
 * Fixed an issue with transcript information not copying when duplicating an internship application.
 * Fixed an issue where resumes were not showing for detailed opportunity applicants and student profiles.
 * Fixed an issue where interns selected while an internship was in progress did not have 7 days to accept or decline their internship.
-***
 
 
 
