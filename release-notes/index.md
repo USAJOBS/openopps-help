@@ -7,7 +7,29 @@ category: release-notes
 title: What's new with Open Opportunities
 ---
 
-## Chanages made June 21st, 2024
+## Changes made July 5th, 2024
+### Opportunities
+* Right rail redesign
+  * Right Rail Re-design (All right rail changes are behind a toggle and will display when complete.)
+  * Updated the right rail status section when specific community tasks are required for Detail and Lateral opportunities.
+  * Added a highlight function to the applicant row of the applicants' table when an applicant is checked.
+  * Created a modal to be displayed when an opportunity has an apply-by date in the past and a user attempts to publish.
+* Updated the "Read more" text button behavior on the application view page.
+### Internships
+ * Created logic to that will move students to the rejected table if confirmed after the review end date when no response is provided.
+### Bugs
+* Fixed 404 errors around the /api/auth/logout endpoint.
+* Fixed an issue with displaying inactive communities in the Networking page community drop-down.
+* Fixed an issue where students are not given 7 days to respond to an internship offer when an internship is in progress status.
+### Technical
+*	Removed Cloud.gov specific code.
+*	Researched Redis Cache and how it’s being used in Open Opportunities.
+
+
+
+
+
+## Changes made June 21st, 2024
 ### Communities 
 * Created a function to remove users from federal communities when they change their profile to student.
 ### Opportunities 
