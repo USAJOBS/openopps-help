@@ -16,7 +16,7 @@ title: What's new with Open Opportunities
   * Created a modal to be displayed when an opportunity has an apply-by date in the past and a user attempts to publish.
 * Updated the "Read more" text button behavior on the application view page.
 ### Internships
- * Created logic to that will move students to the rejected table if confirmed after the review end date when no response is provided.
+ * Created logic that will move students to the rejected table if confirmed after the review end date when no response is provided.
 ### Bugs
 * Fixed 404 errors around the /api/auth/logout endpoint.
 * Fixed an issue with displaying inactive communities in the Networking page community drop-down.
