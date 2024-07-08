@@ -7,6 +7,7 @@ category: release-notes
 title: What's new with Open Opportunities
 ---
 
+<<<<<<< HEAD
 ## Changes made July 5th, 2024
 ### Opportunities
 * Right rail redesign
@@ -30,6 +31,9 @@ title: What's new with Open Opportunities
 
 
 ## Changes made June 21st, 2024
+=======
+## Chanages made June 21st, 2024
+>>>>>>> parent of d54598b (Added 20.4 Release Notes (#219))
 ### Communities 
 * Created a function to remove users from federal communities when they change their profile to student.
 ### Opportunities 
