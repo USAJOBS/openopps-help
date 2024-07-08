@@ -19,7 +19,7 @@ title: What's new with Open Opportunities
  * Created logic that will move students to the rejected table if confirmed after the review end date when no response is provided.
 ### Bugs
 * Fixed 404 errors around the /api/auth/logout endpoint.
-* Fixed an issue with displaying inactive communities in the Networking page community drop-down.
+* Fixed an issue where inactive communities would display in community drop-down of the networking page.
 * Fixed an issue where students are not given 7 days to respond to an internship offer when an internship is in progress status.
 ### Technical
 *	Removed Cloud.gov specific code.
