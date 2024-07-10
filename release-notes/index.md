@@ -7,7 +7,7 @@ category: release-notes
 title: What's new with Open Opportunities
 ---
 
-<<<<<<< HEAD
+
 ## Changes made July 5th, 2024
 ### Opportunities
 * Right rail redesign
