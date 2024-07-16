@@ -43,4 +43,4 @@ You must click **Update application** for your changes to be submitted. Any chan
 
 ### Update your USAJOBS profile and use your profile information to update your application
 
-If you update your USAJOBS profile information AFTER you submit your application, and you want to use your updated profile information, you need to [withdraw your application](withdraw-application) and create a new one. Creating a new application will pull over your updated USAJOBS profile information.
+If you update your USAJOBS profile information AFTER you submit your application, and you want to use your updated profile information, you need to [withdraw your application](withdraw-application.md) and create a new one. Creating a new application will pull over your updated USAJOBS profile information.
