@@ -22,4 +22,4 @@ Another reason to withdraw your application is if you updated your USAJOBS profi
 
 ### Do you want to update your application?
 
-Instead of withdrawing, you can [update your application](update-application), however the changes you make to your application don’t get saved to your USAJOBS profile.
+Instead of withdrawing, you can [update your application](update-application.md), however the changes you make to your application don’t get saved to your USAJOBS profile.
