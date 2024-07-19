@@ -7,7 +7,7 @@ category: release-notes
 title: What's new with Open Opportunities
 ---
 
-## Chnages made July 19th, 2024
+## Changes made July 19th, 2024
 ### Communities 
 * Created a warning modal that displays when a user from a federal community changes their profile to student.
 
