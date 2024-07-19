@@ -7,6 +7,25 @@ category: release-notes
 title: What's new with Open Opportunities
 ---
 
+## Chnages made July 19th, 2024
+### Communities 
+* Created a warning modal that displays when a user from a federal community changes their profile to student.
+### Opportunities 
+* Right rail re-design
+  * Added a "Find more applicants" link to the "Applicants" table to navigate users to the netorwking page.
+  * Added instruction text to the "Participants" table when the opportunity has a status of "Completed" to inform users that the opportunity is complete.
+  * Created an email to notify participants that they have been endorsed.
+  * Created a new modal for capturing endorsement text.
+  * Added text "Endorse" and an endorsement icon to the participants table.
+  * Created a snack bar to display when a participant is marked complete.
+### Internships 
+* Right rail re-design
+  * Updated status for reopended internships to reviewing applicants if the apply by date is passed.
+### Bugs
+* Fixed the pagination on the the manage users page.
+### Technical 
+* Pulled an inventory of font awesome icon locations.
+* Removed the octopus-deploy package. 
 
 ## Changes made July 5th, 2024
 ### Opportunities
@@ -28,9 +47,6 @@ title: What's new with Open Opportunities
 
 
 ## Changes made June 21st, 2024
-=======
-## Chanages made June 21st, 2024
->>>>>>> parent of d54598b (Added 20.4 Release Notes (#219))
 ### Communities 
 * Created a function to remove users from federal communities when they change their profile to student.
 ### Opportunities 
