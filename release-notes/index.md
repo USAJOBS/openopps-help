@@ -10,6 +10,7 @@ title: What's new with Open Opportunities
 ## Chnages made July 19th, 2024
 ### Communities 
 * Created a warning modal that displays when a user from a federal community changes their profile to student.
+
 ### Opportunities 
 * Right rail re-design
   * Added a "Find more applicants" link to the "Applicants" table to navigate users to the netorwking page.
@@ -18,11 +19,14 @@ title: What's new with Open Opportunities
   * Created a new modal for capturing endorsement text.
   * Added text "Endorse" and an endorsement icon to the participants table.
   * Created a snack bar to display when a participant is marked complete.
+ 
 ### Internships 
 * Right rail re-design
   * Updated status for reopended internships to reviewing applicants if the apply by date is passed.
+
 ### Bugs
 * Fixed the pagination on the the manage users page.
+
 ### Technical 
 * Pulled an inventory of font awesome icon locations.
 * Removed the octopus-deploy package. 
@@ -35,12 +39,15 @@ title: What's new with Open Opportunities
   * Added a highlight function to the applicant row of the applicants' table when an applicant is checked.
   * Created a modal to be displayed when an opportunity has an apply-by date in the past and a user attempts to publish.
 * Updated the "Read more" text button behavior on the application view page.
+
 ### Internships
  * Created logic that will move students to the rejected table if confirmed after the review end date when no response is provided.
+
 ### Bugs
 * Fixed 404 errors around the /api/auth/logout endpoint.
 * Fixed an issue where inactive communities would display in community drop-down of the networking page.
 * Fixed an issue where students are not given 7 days to respond to an internship offer when an internship is in progress status.
+
 ### Technical
 *	Removed Cloud.gov specific code.
 *	Researched Redis Cache and how it’s being used in Open Opportunities.
@@ -49,6 +56,7 @@ title: What's new with Open Opportunities
 ## Changes made June 21st, 2024
 ### Communities 
 * Created a function to remove users from federal communities when they change their profile to student.
+
 ### Opportunities 
 * Created a success snack bar to be displayed to Sitewide admins & opportunity creators when an opportunity is canceled.
 * Created a backend data point to store the date the action when a user is marked task complete.
@@ -57,9 +65,11 @@ title: What's new with Open Opportunities
   *	display the "Mark complete" button in the right rail section when an applicant is in the participants table.
   *	display text "Unselect" in the right rail section when an applicant is in the participants table.
 *	Created a process to set the selected value to null for applicants in applicants table when opportunity is moved to in progress.
+
 ### Internships 
 *	Created an automated process to move "Submitted" internships to the "Canceled" status when not approved while having an application submission date in the past.
 *	Created email notification to Internship creators and co-owners when cyclical internship are moved to the "Canceled" status if not approved while the application submission date is in the past.
+
 ### Bugs
 * Fixed an issue with secondary community dropdowns not clearing out when the "Remove all filters" is selected.
 * Fixed an issue where applicants would show in duplicate when the "limit who can apply to opportunities" toggle is on for community.
@@ -70,10 +80,12 @@ title: What's new with Open Opportunities
 
 
 ## Changes made June 7th, 2024
+
 ### Communities
 *	Created a function to restrict access to community profile page URL for users with community profile page toggle set to "Off".
 *	Moved email signature block from community configuration to community communication drawer.
 *	Moved the "Certificate of completion" toggle and elements to the Community communication drawer.
+
 ### Opportunities
 * Updated error messages related to "Apply by date" on step 1 create page.
 * Removed the "Relevance" option from the "Sort by" dropdown list on the opportunities search page.
@@ -81,6 +93,7 @@ title: What's new with Open Opportunities
 * Removed the help link and icon above the progress bar on the right rail of the opportunity detail page.
 * Updated "Cancel this opportunity" modal text.
 * Created a success snack bar when user leaves a community to acknowledgment of successful action taken.
+
 ### Internships
 *	Created a backend elastic search that moves students to the available students page when the cycle end date is met.
 *	Created email notification to creators and co-owners when an internship moves from "Open" to "Reviewing applicants" status.
@@ -100,9 +113,9 @@ title: What's new with Open Opportunities
 *	Updated error messages related to "Apply by date" on step 1 create page.
 *	Removed "Relevance" option from the "Sort by" dropdown list on the internship search page.
 *	Added a "Cycle" column to the created table on the user’s dashboard page.
+
 ### Bugs
 * Fixed an issue where cycle validation message was not displayed when there are no active cycles.
-***
 
 
 
@@ -120,6 +133,7 @@ title: What's new with Open Opportunities
 * Created a student cyclical non-member .csv report to account for users that are not members of the VSFS community but have created, co-owned, or applied to an internship within the VSFS community.
 * Created a "Non-member" section on the student community dashboard to display non-member metrics.
 * Created a "Non-member (.csv)" download link for student cyclical communities. 
+
 ### Internships
 * Updated text color of applicant’s name to gray when they declined or accepted another internship offer.
 * Created the following discussion/comment functionality within the internship detail page:
@@ -130,11 +144,12 @@ title: What's new with Open Opportunities
   * The ability for users to delete their own comments and sitewide administrators to delete all comments.
 * Created a warning modal that displays when a user attempts to delete a comment.
 * Created an eamil notification that is sent to creators and co-owners of an internship when a comment is posted.
+
 ### Bugs
 * Fixed an issue where users were unable to update an internship with no active cycles to advance past step 1 of the create/edit page.
 * Fixed an issue where the validation error line for the cycle field is not displayed when the field is left blank and user attempts to advance past step 1 of create internship page.
 * Fixed an issue where an error occured when a discussion is posted in a community.
-***
+
 
 ## Changes made May 10th, 2024
 ### Technical
