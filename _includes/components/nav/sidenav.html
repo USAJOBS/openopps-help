@@ -115,6 +115,11 @@
         How to a select an applicant
       </a>
     </li>
+   <li>	
+     <a {% if page.sidenav == 'opportunity-undo-reject-applicant' %}class="usa-current"{% endif %} href="{{ '/opportunity-creators/undo-reject' | relative_url }}">
+        How to a select an applicant that has been rejected
+      </a>
+    </li>
     <li>
       <a {% if page.sidenav == 'opportunity-accept-applications' %}class="usa-current"{% endif %} href="{{ '/opportunity-creators/accept-applications' | relative_url }}">
         How to continue accepting applicants
